@@ -1,0 +1,514 @@
+Id,Label,timeset,frequency,type,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class,componentnumber,clustering,triangles,eigencentrality,Cluster
+Francis Jomer Gallardo,Francis Jomer Gallardo,,1,Source,1,1,1,1,1,0,0,0,0,0,0.001684,64
+Jan Michael Bernardo,Jan Michael Bernardo,,4,; Target,4,4,1,1,1,0,36,1,1,6,0.023356,25
+Jym Paul A. Carandang,Jym Paul A. Carandang,,6,Source; Target,6,6,2,0.55,0.590909,0,79,2,1,15,0.395389,0
+Jonathan Audric Matias,Jonathan Audric Matias,,3,Source,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Michelle P. Banawan,Michelle P. Banawan,,4,; Target,4,4,1,1,1,0.000031,49,4,0.333333,2,0.011475,36
+Gregory Cu,Gregory Cu,,8,Source; Target,8,8,2,0.666667,0.75,0.000527,64,5,0.392857,11,0.077272,5
+Gian T. Salay,Gian T. Salay,,2,Source; Target,2,2,1,1,1,0,1,6,1,1,0.00512,56
+Louie Anson Ng,Louie Anson Ng,,1,; Target,1,1,6,0.227437,0.267725,0,39,7,0,0,0.013015,2
+Kenneth Royce Brigola,Kenneth Royce Brigola,,5,Source,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Ravi D. Militar,Ravi D. Militar,,4,Source; Target,4,4,1,1,1,0,51,8,1,6,0.023356,26
+Marrick C. Neri,Marrick C. Neri,,4,; Target,3,4,1,1,1,0.000023,2,9,0,0,0.005748,37
+Baldip Bhuller,Baldip Bhuller,,4,Source,4,4,4,0.380952,0.5,0,64,5,1,6,0.028726,5
+David Joseph Catemprate,David Joseph Catemprate,,5,Source; Target,5,5,1,1,1,0,78,10,1,10,0.043825,17
+Katrina Joy H. Magno,Katrina Joy H. Magno,,1,; Target,1,1,1,1,1,0,31,11,0,0,0.001684,65
+Lemuel Clark P. Velasco,Lemuel Clark P. Velasco,,3,Source,3,3,1,1,1,0,68,12,1,3,0.011623,42
+Paulo Noel G. Paje,Paulo Noel G. Paje,,5,; Target,5,5,2,0.727273,0.8125,0,50,13,1,10,0.050978,11
+Miguel Paolo M. Quijano,Miguel Paolo M. Quijano,,2,; Target,2,2,1,1,1,0,3,14,1,1,0.00512,44
+Heinrich Von P. Woogue,Heinrich Von P. Woogue,,2,Source,2,2,1,1,1,0,46,15,1,1,0.00512,45
+Javier Teodoro Flavier,Javier Teodoro Flavier,,1,Source,1,1,4,0.311475,0.355263,0,91,16,0,0,0.005011,3
+Jedidiah B. Constantino,Jedidiah B. Constantino,,3,Source; Target,3,3,2,0.636364,0.714286,0,63,17,1,3,0.018918,13
+Clement Ong,Clement Ong,,1,; Target,1,1,1,1,1,0,4,18,0,0,0.001684,66
+Kevin C. Henson,Kevin C. Henson,,2,Source; Target,2,2,1,1,1,0,12,19,1,1,0.00512,46
+Katrina T. Lacsamana,Katrina T. Lacsamana,,3,Source,3,3,8,0.166667,0.220087,0,39,7,1,3,0.014804,2
+Rozano S. Maniaol,Rozano S. Maniaol,,1,Source,1,1,1,1,1,0,19,20,0,0,0.001684,67
+Jessie Brian Unabia Revil,Jessie Brian Unabia Revil,,1,Source,1,1,1,1,1,0,5,21,0,0,0.001684,68
+Neila Paglinawan,Neila Paglinawan,,2,Source; Target,2,2,2,0.515625,0.530303,0,79,2,1,1,0.124892,0
+John Carlo R. Gonzales,John Carlo R. Gonzales,,4,Source; Target,4,4,2,0.7,0.785714,0,63,17,1,6,0.02896,13
+Nilo T. Dela Cruz II,Nilo T. Dela Cruz II,,2,Source,2,2,1,1,1,0,6,22,1,1,0.00512,54
+Victor Romero II,Victor Romero II,,1,; Target,1,1,1,1,1,0,7,23,0,0,0.001684,69
+Lemuel John Beduya,Lemuel John Beduya,,1,Source,1,1,2,0.666667,0.75,0,8,24,0,0,0.002295,59
+Katrina B. Gapuz,Katrina B. Gapuz,,4,Source,4,4,2,0.532258,0.560606,0,79,2,1,6,0.257058,0
+Rafael A. Cabredo,Rafael A. Cabredo,,12,Source; Target,12,12,4,0.36,0.469577,0.006842,39,7,0.166667,11,0.120642,2
+Arvin Christopher Reyes,Arvin Christopher Reyes,,1,Source,1,1,3,0.454545,0.533333,0,9,25,0,0,0.003207,24
+Joshua C. Martinez,Joshua C. Martinez,,2,Source,2,2,1,1,1,0,10,26,1,1,0.00512,47
+Pia Melissa M. Encarnacion,Pia Melissa M. Encarnacion,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Brian Christopher T. Guadalupe,Brian Christopher T. Guadalupe,,2,Source; Target,2,2,2,0.666667,0.75,0,25,27,1,1,0.007032,27
+Raphael Bihis,Raphael Bihis,,4,Source; Target,4,4,1,1,1,0,54,28,1,6,0.023356,28
+Solomon See,Solomon See,,4,Source; Target,4,4,3,0.418605,0.509259,0.000252,24,29,0.166667,1,0.015762,4
+Ruji P. Medina,Ruji P. Medina,,2,; Target,2,2,1,1,1,0,11,30,1,1,0.00512,48
+Jan Renard L. Calalang,Jan Renard L. Calalang,,2,Source,2,2,1,1,1,0,12,19,1,1,0.00512,46
+Jayson A. Lucilo,Jayson A. Lucilo,,2,Source,2,2,1,1,1,0,66,31,1,1,0.00512,49
+Mark Joseph Ronquillo,Mark Joseph Ronquillo,,2,; Target,2,2,1,1,1,0,52,32,1,1,0.00512,55
+Rocky Marcelino,Rocky Marcelino,,5,Source; Target,5,5,1,1,1,0,13,33,1,10,0.043825,21
+Nethania Katrina Surtida,Nethania Katrina Surtida,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Joanna De Guzman,Joanna De Guzman,,4,Source; Target,4,4,1,1,1,0,36,1,1,6,0.023356,25
+Novelle AnneÂ Sinco,Novelle AnneÂ Sinco,,5,Source; Target,5,5,1,1,1,0,56,34,1,10,0.043825,18
+Marco C. Lucena,Marco C. Lucena,,1,Source,1,1,4,0.404255,0.447368,0,91,16,0,0,0.013164,3
+Nikko G. Cabang,Nikko G. Cabang,,3,Source,3,3,2,0.636364,0.714286,0,63,17,1,3,0.018918,13
+Dea Ferrer,Dea Ferrer,,4,Source; Target,4,4,4,0.391304,0.490741,0,24,29,1,6,0.029496,4
+Cecilia A. Mercado,Cecilia A. Mercado,,1,; Target,1,1,1,1,1,0,14,35,0,0,0.001684,70
+Kevin Pagtakhan,Kevin Pagtakhan,,5,Source; Target,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Annalyn Reganit,Annalyn Reganit,,5,Source; Target,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Danen Clint Ocfemi,Danen Clint Ocfemi,,1,Source,1,1,1,1,1,0,15,36,0,0,0.001684,71
+Mark Arthur A. Caro,Mark Arthur A. Caro,,4,Source; Target,4,4,1,1,1,0,16,37,1,6,0.023356,33
+Chynna Julia Cordevilla,Chynna Julia Cordevilla,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Daryll Santos,Daryll Santos,,5,Source; Target,5,5,2,0.777778,0.857143,0,35,39,1,10,0.047867,14
+Victoria May Paguio Mendoza,Victoria May Paguio Mendoza,,2,; Target,2,2,1,1,1,0,88,40,1,1,0.00512,63
+Val Randolf Madrid,Val Randolf Madrid,,1,Source,1,1,1,1,1,0,41,41,0,0,0.001684,76
+Reinald Kim Amplayo,Reinald Kim Amplayo,,2,Source,1,2,1,1,1,0,17,42,0,0,0.001684,82
+William JamesÂ Custodio and Yun Sup Lee,William JamesÂ Custodio and Yun Sup Lee,,3,; Target,3,3,4,0.418605,0.5,0,24,29,1,3,0.023506,4
+Jeau Gigataras,Jeau Gigataras,,3,Source; Target,3,3,4,0.422222,0.5,0,91,16,1,3,0.024417,3
+Manolito Octaviano Jr,Manolito Octaviano Jr,,2,Source,2,2,8,0.253012,0.312056,0,34,7,1,1,0.02895,1
+Charles Jansen Ignacio,Charles Jansen Ignacio,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Tod Allman,Tod Allman,,2,Source,2,2,1,1,1,0,74,43,1,1,0.00512,50
+Lee Javellana,Lee Javellana,,1,Source,1,1,1,1,1,0,18,44,0,0,0.001684,81
+Joel P. Ilao,Joel P. Ilao,,12,; Target,12,12,6,0.414474,0.525661,0.008571,34,7,0.287879,19,0.22911,1
+Christian Philip Gelera,Christian Philip Gelera,,5,Source; Target,5,5,2,0.608696,0.678571,0,59,45,1,10,0.070369,9
+Danilo J. Mercado,Danilo J. Mercado,,1,; Target,1,1,1,1,1,0,19,20,0,0,0.001684,67
+Hadrian Ang,Hadrian Ang,,1,Source,1,1,1,1,1,0,20,46,0,0,0.001684,90
+Edlen Mari Sanchez,Edlen Mari Sanchez,,5,; Target,5,5,2,0.608696,0.678571,0,59,45,1,10,0.070369,9
+Matthew Phillip Go,Matthew Phillip Go,,2,Source,1,2,8,0.222615,0.255178,0,34,7,0,0,0.007243,1
+Jayce Caylah Ching,Jayce Caylah Ching,,2,Source; Target,2,2,1,1,1,0,83,47,1,1,0.00512,58
+Bruce Elmer Peralta,Bruce Elmer Peralta,,4,Source; Target,4,4,2,0.583333,0.642857,0,59,45,1,6,0.050062,9
+Camille Bencito,Camille Bencito,,3,Source; Target,3,3,3,0.45,0.574074,0,89,48,1,3,0.013495,10
+John Ultra,John Ultra,,1,; Target,1,1,1,1,1,0,40,49,0,0,0.001684,75
+Rizza Mercado,Rizza Mercado,,3,; Target,3,3,3,0.545455,0.694444,0,21,50,1,3,0.012991,15
+Sun Arthur Ojeda,Sun Arthur Ojeda,,3,Source; Target,3,3,2,0.615385,0.6875,0,50,13,1,3,0.023001,11
+Bobby Gerardo,Bobby Gerardo,,3,Source; Target,3,3,1,1,1,0,90,51,1,3,0.011623,38
+Jheanel E. Estrada,Jheanel E. Estrada,,4,; Target,4,4,1,1,1,0,92,52,1,6,0.023356,29
+Zuleika A. Yee,Zuleika A. Yee,,2,Source; Target,2,2,2,0.666667,0.75,0,49,4,1,1,0.007032,36
+Jean O. Loyola,Jean O. Loyola,,1,; Target,1,1,1,1,1,0,22,53,0,0,0.001684,89
+Nerio Pascual,Nerio Pascual,,3,Source,3,3,1,1,1,0,90,51,1,3,0.011623,38
+Adrian John Biton,Adrian John Biton,,1,Source,1,1,1,1,1,0,23,54,0,0,0.001684,72
+Roberto Legaspi,Roberto Legaspi,,6,; Target,5,6,2,0.580645,0.638889,0.000447,24,29,0.3,3,0.035332,4
+Miguel Mercado,Miguel Mercado,,4,Source; Target,4,4,4,0.391304,0.490741,0,24,29,1,6,0.029496,4
+Ramon Rodriguez,Ramon Rodriguez,,3,Source,3,3,5,0.364162,0.406878,0.00225,39,7,0.333333,1,0.058418,2
+Jerry Y. Hom,Jerry Y. Hom,,5,Source; Target,5,5,1,1,1,0,61,55,1,10,0.043825,19
+Lourdes J. Santiago,Lourdes J. Santiago,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Z. E. L. Arcega,Z. E. L. Arcega,,2,Source,2,2,1,1,1,0,71,56,1,1,0.00512,51
+William Emmanuel S. Yu,William Emmanuel S. Yu,,4,; Target,4,4,1,1,1,0.000031,25,27,0.333333,2,0.011475,27
+Charisse Hong,Charisse Hong,,4,Source; Target,4,4,1,1,1,0,54,28,1,6,0.023356,28
+Cecil Jose A. Delfinado,Cecil Jose A. Delfinado,,4,; Target,4,4,1,1,1,0,82,57,1,6,0.023356,30
+Joseph Anthony C. Hermocilla,Joseph Anthony C. Hermocilla,,2,; Target,2,2,1,1,1,0,26,58,1,1,0.00512,52
+Rodolfo Raga Jr,Rodolfo Raga Jr,,1,Source,1,1,1,1,1,0,29,59,0,0,0.001684,73
+Nestine Hope Hernandez,Nestine Hope Hernandez,,6,Source; Target,6,6,2,0.55,0.590909,0,79,2,1,15,0.367501,0
+Harriet Angelie A. Gonzales,Harriet Angelie A. Gonzales,,1,Source,1,1,2,0.666667,0.75,0,8,24,0,0,0.002295,59
+Pierangela C. Gabriel,Pierangela C. Gabriel,,1,; Target,1,1,1,1,1,0,27,60,0,0,0.001684,92
+Thomas James Tiam-Lee,Thomas James Tiam-Lee,,1,Source,1,1,4,0.3,0.347222,0,24,29,0,0,0.004669,4
+Nivea Jane Urdas,Nivea Jane Urdas,,6,Source,6,6,1,1,1,0,81,61,1,15,0.078637,16
+Jose Emmanuel D. Torrijos,Jose Emmanuel D. Torrijos,,3,Source,3,3,2,0.615385,0.6875,0,86,62,1,3,0.023001,12
+Cecilio Dela Cruz,Cecilio Dela Cruz,,2,; Target,2,2,2,0.583333,0.642857,0,35,39,1,1,0.014542,14
+Courtney Ngo,Courtney Ngo,,2,Source,2,2,3,0.4,0.453704,0,24,29,1,1,0.012523,4
+Christine Joy Infante,Christine Joy Infante,,5,Source; Target,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Andrei D.Â Coronel,Andrei D.Â Coronel,,3,; Target,3,3,1,1,1,0,44,63,1,3,0.011623,39
+Michelle Ormoc,Michelle Ormoc,,4,Source; Target,4,4,8,0.258197,0.335072,0,28,7,1,6,0.06366,7
+Robee Khyra Mae J. Te,Robee Khyra Mae J. Te,,4,Source,4,4,2,0.583333,0.642857,0,59,45,1,6,0.050062,9
+Anna Janeri B. Ongcol,Anna Janeri B. Ongcol,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Paolo Josef,Paolo Josef,,5,Source; Target,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Rhia Trogo,Rhia Trogo,,5,; Target,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Kelvin BuÃ±o,Kelvin BuÃ±o,,12,Source; Target,9,12,2,0.578947,0.636364,0.000017,79,2,0.75,27,0.504707,0
+Jennifer D. Raga,Jennifer D. Raga,,1,; Target,1,1,1,1,1,0,29,59,0,0,0.001684,73
+Layton Jan M. Tee,Layton Jan M. Tee,,1,; Target,1,1,1,1,1,0,30,64,0,0,0.001684,85
+Faramarz Ataollahi,Faramarz Ataollahi,,2,Source; Target,2,2,5,0.302885,0.34127,0,39,7,1,1,0.029725,2
+Dewi Retnoningsih,Dewi Retnoningsih,,6,; Target,6,6,1,1,1,0,81,61,1,15,0.078637,16
+Jan Apolline Estrella,Jan Apolline Estrella,,5,Source,5,5,2,0.608696,0.678571,0,59,45,1,10,0.070369,9
+Krystel Arriane A. Cortez,Krystel Arriane A. Cortez,,1,Source,1,1,1,1,1,0,31,11,0,0,0.001684,65
+Vermille Ann T. Saw,Vermille Ann T. Saw,,1,; Target,1,1,1,1,1,0,32,65,0,0,0.001684,74
+John Paul V. Guim,John Paul V. Guim,,2,; Target,2,2,1,1,1,0,33,66,1,1,0.00512,53
+Elijah Joshua Cayabyab,Elijah Joshua Cayabyab,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Art Maco T. Del Rosario,Art Maco T. Del Rosario,,4,Source; Target,4,4,2,0.7,0.785714,0,63,17,1,6,0.02896,13
+Bianca Camille Silmaro,Bianca Camille Silmaro,,3,Source; Target,3,3,2,0.615385,0.6875,0,50,13,1,3,0.023001,11
+Ricco Laxamana,Ricco Laxamana,,5,Source; Target,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Charibeth Cheng,Charibeth Cheng,,12,Source; Target,8,12,5,0.293023,0.387831,0.00412,39,7,0.321429,9,0.069439,2
+Aaron Spencer K. Ngo,Aaron Spencer K. Ngo,,6,Source,6,6,6,0.344262,0.413228,0,34,7,1,15,0.143145,1
+Richelle Ann B. Juayong,Richelle Ann B. Juayong,,13,Source; Target,10,13,2,0.589286,0.651515,0.000061,79,2,0.533333,24,0.475067,0
+George C. Cabarle,George C. Cabarle,,6,; Target,6,6,2,0.55,0.590909,0,79,2,1,15,0.339732,0
+Jocelynn Cu,Jocelynn Cu,,9,Source; Target,9,9,3,0.592593,0.739583,0.000367,64,5,0.444444,16,0.088375,5
+Benjamin Ryan B. Mendoza,Benjamin Ryan B. Mendoza,,2,; Target,2,2,1,1,1,0,12,19,1,1,0.00512,46
+Katrina Joy M. Abriol-Santos,Katrina Joy M. Abriol-Santos,,2,Source; Target,2,2,1,1,1,0,26,58,1,1,0.00512,52
+Prane Mariel B. Ong,Prane Mariel B. Ong,,6,Source; Target,6,6,6,0.344262,0.413228,0,34,7,1,15,0.143145,1
+Mary Grace Malana,Mary Grace Malana,,2,Source,2,2,6,0.29717,0.341799,0,34,7,1,1,0.038985,1
+Jose Mari Ramos,Jose Mari Ramos,,5,Source; Target,5,5,2,0.777778,0.857143,0,35,39,1,10,0.047867,14
+Adrian Tobias,Adrian Tobias,,4,Source; Target,4,4,1,1,1,0,36,1,1,6,0.023356,25
+Isabel M. Constantino,Isabel M. Constantino,,3,Source,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Conrado R. Ruiz Jr,Conrado R. Ruiz Jr,,4,Source; Target,4,4,1,1,1,0.000038,37,67,0.166667,1,0.009804,35
+Nigel Roi Concepcion,Nigel Roi Concepcion,,5,Source; Target,5,5,1,1,1,0,78,10,1,10,0.043825,17
+Joseph J. Bautista,Joseph J. Bautista,,1,Source,1,1,1,1,1,0,38,68,0,0,0.001684,84
+Kristine Mae M. Adlaon,Kristine Mae M. Adlaon,,9,Source,5,9,6,0.238636,0.317989,0.002217,39,7,0.6,6,0.041425,2
+John Richard Bunyi,John Richard Bunyi,,3,Source; Target,3,3,4,0.422222,0.5,0,91,16,1,3,0.024417,3
+Macario O. Cordel II,Macario O. Cordel II,,6,Source; Target,6,6,6,0.344262,0.413228,0,34,7,1,15,0.143145,1
+Selwyn Emerson Reyes,Selwyn Emerson Reyes,,4,Source; Target,4,4,6,0.295775,0.352381,0,34,7,1,6,0.061148,1
+Shenamae Borja,Shenamae Borja,,1,Source,1,1,1,1,1,0,40,49,0,0,0.001684,75
+Ma. Angelica Capuz,Ma. Angelica Capuz,,4,Source,4,4,6,0.295775,0.352381,0,34,7,1,6,0.061148,1
+Christian Dione Bergantin,Christian Dione Bergantin,,3,Source,3,3,3,0.45,0.574074,0,89,48,1,3,0.013495,10
+Maristella Aquino,Maristella Aquino,,8,Source; Target,4,8,6,0.234201,0.299471,0,39,7,1,6,0.036336,2
+Allan Adrian Gatchalian,Allan Adrian Gatchalian,,5,Source; Target,5,5,1,1,1,0,78,10,1,10,0.043825,17
+Denise Alyssa A. Francisco,Denise Alyssa A. Francisco,,3,Source; Target,3,3,2,0.52381,0.545455,0,79,2,1,3,0.144136,0
+Jaimie Bringas,Jaimie Bringas,,4,Source; Target,4,4,1,1,1,0,54,28,1,6,0.023356,28
+Renior Abrea,Renior Abrea,,1,; Target,1,1,1,1,1,0,41,41,0,0,0.001684,76
+Harvey Ian Arbas,Harvey Ian Arbas,,2,Source,2,2,2,0.666667,0.75,0,42,69,1,1,0.007032,31
+Thelma Palaoag,Thelma Palaoag,,1,; Target,1,1,1,1,1,0,43,70,0,0,0.001684,77
+Eric R. Punzalan,Eric R. Punzalan,,6,Source; Target,6,6,6,0.344262,0.413228,0,34,7,1,15,0.143145,1
+Geronimo Miguel M.Â Mantes,Geronimo Miguel M.Â Mantes,,3,Source; Target,3,3,1,1,1,0,44,63,1,3,0.011623,39
+Alquine Roy F. Taculin,Alquine Roy F. Taculin,,1,Source,1,1,2,0.6,0.666667,0,75,71,0,0,0.002935,43
+Pierre Allan K. Santiago,Pierre Allan K. Santiago,,2,Source; Target,2,2,1,1,1,0,33,66,1,1,0.00512,53
+Kier Sostenes Guevara,Kier Sostenes Guevara,,2,Source,2,2,2,0.625,0.7,0,45,72,1,1,0.008674,23
+Dion Alfonso Velasco,Dion Alfonso Velasco,,5,Source; Target,5,5,2,0.727273,0.8125,0,86,62,1,10,0.050978,12
+Emmanuel Asuncion Jr.,Emmanuel Asuncion Jr.,,3,Source; Target,3,3,4,0.418605,0.5,0,24,29,1,3,0.023506,4
+andÂ Jerome Ibanez,andÂ Jerome Ibanez,,4,; Target,4,4,1,1,1,0,51,8,1,6,0.023356,26
+Albert H. Rivera,Albert H. Rivera,,3,Source; Target,3,3,8,0.166667,0.220087,0,39,7,1,3,0.014804,2
+Manolito Octaviano Jr.,Manolito Octaviano Jr.,,4,Source; Target,4,4,8,0.252,0.321315,0,34,7,1,6,0.047537,1
+Mary Jane G. Sabellano,Mary Jane G. Sabellano,,2,; Target,2,2,1,1,1,0,46,15,1,1,0.00512,45
+John Darill B. Desingco,John Darill B. Desingco,,6,Source; Target,6,6,6,0.344262,0.413228,0,34,7,1,15,0.143145,1
+John Eric Z. Sy,John Eric Z. Sy,,3,Source,3,3,1,1,1,0,47,73,1,3,0.011623,41
+John Cliford Rosales,John Cliford Rosales,,5,Source; Target,5,5,2,0.727273,0.8125,0,86,62,1,10,0.050978,12
+Ronald M. Pascual,Ronald M. Pascual,,5,Source; Target,5,5,1,1,1,0,48,74,1,10,0.043825,20
+Joseph Benjamin Ferrer,Joseph Benjamin Ferrer,,3,Source,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Kennethe Ann Q. Mina,Kennethe Ann Q. Mina,,2,Source; Target,2,2,2,0.666667,0.75,0,49,4,1,1,0.007032,36
+Geoffrey Solano,Geoffrey Solano,,3,Source,3,3,2,0.615385,0.6875,0,50,13,1,3,0.023001,11
+Aaron Noel De Leon,Aaron Noel De Leon,,5,Source; Target,5,5,2,0.777778,0.857143,0,35,39,1,10,0.047867,14
+Mark Isaiah Quevedo,Mark Isaiah Quevedo,,3,; Target,3,3,1,1,1,0,62,75,1,3,0.011623,40
+Christian Paul Mirano,Christian Paul Mirano,,3,Source; Target,3,3,3,0.45,0.574074,0,89,48,1,3,0.013495,10
+Jordan Aiko Deja,Jordan Aiko Deja,,1,Source,1,1,5,0.265823,0.306614,0,39,7,0,0,0.020372,2
+Mauro Edmund Arce,Mauro Edmund Arce,,4,Source,4,4,8,0.258197,0.335072,0,28,7,1,6,0.06366,7
+Merlin Teodosia C. Suarez,Merlin Teodosia C. Suarez,,17,Source; Target,16,17,7,0.340541,0.491875,0.005741,28,7,0.225,27,0.216703,7
+Nicole Marie T. Del Rosario,Nicole Marie T. Del Rosario,,2,Source,1,2,2,0.6,0.666667,0,2,9,0,0,0.002935,37
+Rommel P. Feria,Rommel P. Feria,,5,Source; Target,5,5,2,0.727273,0.8125,0,50,13,1,10,0.050978,11
+Jean Malolos,Jean Malolos,,3,Source; Target,3,3,2,0.52381,0.545455,0,79,2,1,3,0.144136,0
+Eloisa Anne B. Gervasio,Eloisa Anne B. Gervasio,,4,Source; Target,4,4,1,1,1,0,51,8,1,6,0.023356,26
+Kevin Villanueva,Kevin Villanueva,,8,; Target,4,8,6,0.234201,0.299471,0,39,7,1,6,0.036336,2
+Jose Mirabueno,Jose Mirabueno,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Zyra Bravo,Zyra Bravo,,1,; Target,1,1,1,1,1,0,53,76,0,0,0.001684,78
+Mc Jervis Villaruel,Mc Jervis Villaruel,,5,Source; Target,5,5,2,0.608696,0.678571,0,59,45,1,10,0.070369,9
+Gimelle B. Gamilla,Gimelle B. Gamilla,,2,Source; Target,2,2,1,1,1,0,6,22,1,1,0.00512,54
+Jian Michael Wu,Jian Michael Wu,,4,Source; Target,4,4,4,0.410256,0.53125,0,64,5,1,6,0.038558,5
+Aldrich Ellis C. Asuncion,Aldrich Ellis C. Asuncion,,2,Source,2,2,2,0.666667,0.75,0,25,27,1,1,0.007032,27
+Naomi Mendaros,Naomi Mendaros,,4,; Target,4,4,4,0.380952,0.5,0,64,5,1,6,0.028726,5
+Paolo Tensuan,Paolo Tensuan,,1,Source,1,1,1,1,1,0,80,77,0,0,0.001684,79
+Emmanuel Jon A.Â Magdaluyo,Emmanuel Jon A.Â Magdaluyo,,3,Source,3,3,1,1,1,0,44,63,1,3,0.011623,39
+Briane Paul V. Samson,Briane Paul V. Samson,,4,Source,4,4,1,1,1,0,51,8,1,6,0.023356,26
+Miguel Galace,Miguel Galace,,2,Source; Target,2,2,1,1,1,0,57,78,1,1,0.00512,60
+Celine Villafuerte,Celine Villafuerte,,4,Source; Target,4,4,1,1,1,0,76,79,1,6,0.023356,32
+Amiel John B. Atienza,Amiel John B. Atienza,,4,Source,4,4,2,0.7,0.785714,0,63,17,1,6,0.02896,13
+Juan Miguel Ninobla,Juan Miguel Ninobla,,5,Source; Target,5,5,1,1,1,0,78,10,1,10,0.043825,17
+John Sixto G. Santos,John Sixto G. Santos,,4,; Target,4,4,1,1,1,0,16,37,1,6,0.023356,33
+Jaime DL Caro,Jaime DL Caro,,8,Source; Target,8,8,1,1,1,0.000115,50,13,0.464286,13,0.064103,11
+Albuen Jan Rosello,Albuen Jan Rosello,,1,Source,1,1,1,1,1,0,7,23,0,0,0.001684,69
+Jedidiah Caychingco,Jedidiah Caychingco,,1,Source,1,1,3,0.410256,0.447917,0,64,5,0,0,0.013923,5
+Charles Kevin Verdad,Charles Kevin Verdad,,2,Source; Target,2,2,2,0.666667,0.75,0,42,69,1,1,0.007032,31
+Jun Rangie Obispo,Jun Rangie Obispo,,2,Source; Target,2,2,1,1,1,0,52,32,1,1,0.00512,55
+Catherine Mae PeÃ±a,Catherine Mae PeÃ±a,,4,Source; Target,4,4,4,0.410256,0.53125,0,64,5,1,6,0.038558,5
+Vileser T. Naculangga,Vileser T. Naculangga,,4,Source; Target,4,4,1,1,1,0,92,52,1,6,0.023356,29
+Maria Art Antonette Clariâ€‹Ã±â€‹o,Maria Art Antonette Clariâ€‹Ã±â€‹o,,5,Source; Target,5,5,1,1,1,0,13,33,1,10,0.043825,21
+Glen Charles Lopez,Glen Charles Lopez,,2,Source,2,2,1,1,1,0,52,32,1,1,0.00512,55
+Jaderick P. Pabico,Jaderick P. Pabico,,1,; Target,1,1,1,1,1,0,69,80,0,0,0.001684,80
+Natalie Agustin,Natalie Agustin,,1,Source,1,1,4,0.3,0.347222,0,24,29,0,0,0.004669,4
+Roselle S. Basa,Roselle S. Basa,,7,Source; Target,7,7,1,1,1,0.000076,35,39,0.52381,11,0.053994,14
+Giovanni A. Tapang,Giovanni A. Tapang,,4,; Target,4,4,1,1,1,0,87,81,1,6,0.023356,34
+Christian Edensor Arbon,Christian Edensor Arbon,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Larry Vea,Larry Vea,,4,Source; Target,4,4,2,0.642857,0.722222,0.000138,89,48,0.5,3,0.018223,10
+Ruji Medina,Ruji Medina,,3,; Target,3,3,1,1,1,0,90,51,1,3,0.011623,38
+Adrian Cordero,Adrian Cordero,,3,Source; Target,3,3,2,0.615385,0.6875,0,86,62,1,3,0.023001,12
+Ray Carlo AÃ±onuevo,Ray Carlo AÃ±onuevo,,4,Source,4,4,4,0.391304,0.490741,0,24,29,1,6,0.029496,4
+Marlene M. De Leon,Marlene M. De Leon,,2,; Target,2,2,1,1,1,0,1,6,1,1,0.00512,56
+Trisha Regine P. Wang,Trisha Regine P. Wang,,4,Source; Target,4,4,1,1,1,0,82,57,1,6,0.023356,30
+Mygel Andrei Martija,Mygel Andrei Martija,,2,Source,2,2,2,0.515625,0.530303,0,79,2,1,1,0.124892,0
+Christian Paulo De Leon,Christian Paulo De Leon,,5,Source,5,5,1,1,1,0,78,10,1,10,0.043825,17
+Prospero C. Naval,Prospero C. Naval,,3,Source; Target,3,3,1,1,1,0,47,73,1,3,0.011623,41
+Ma. Anne Therese Musong,Ma. Anne Therese Musong,,1,Source,1,1,1,1,1,0,53,76,0,0,0.001684,78
+Winston M. Tabada,Winston M. Tabada,,1,Source,1,1,1,1,1,0,85,82,0,0,0.001684,91
+R.W. Gardon,R.W. Gardon,,1,Source,1,1,2,0.6,0.666667,0,75,71,0,0,0.002935,43
+Paulo Miguel S. Capuz,Paulo Miguel S. Capuz,,5,Source; Target,5,5,1,1,1,0,60,83,1,10,0.043825,22
+Allain Paolo Hiya,Allain Paolo Hiya,,4,Source; Target,4,4,8,0.252,0.321315,0,34,7,1,6,0.047537,1
+Brylle Joseph Quinto,Brylle Joseph Quinto,,4,; Target,4,4,6,0.295775,0.352381,0,34,7,1,6,0.061148,1
+Nikko T. Borja,Nikko T. Borja,,4,Source,4,4,5,0.269231,0.330423,0,39,7,1,6,0.045738,2
+Patricia Anne Eugenio,Patricia Anne Eugenio,,2,Source,2,2,3,0.470588,0.520833,0,64,5,1,1,0.023198,5
+Kelvin C. Buno,Kelvin C. Buno,,3,Source; Target,3,3,2,0.52381,0.545455,0,79,2,1,3,0.230006,0
+Neil Jonathan A. Joaquin,Neil Jonathan A. Joaquin,,6,Source; Target,6,6,2,0.55,0.590909,0,79,2,1,15,0.339732,0
+Sean Michael Amador,Sean Michael Amador,,5,Source; Target,5,5,2,0.777778,0.857143,0,35,39,1,10,0.047867,14
+Arvin Medina,Arvin Medina,,4,Source; Target,4,4,4,0.380952,0.5,0,64,5,1,6,0.028726,5
+Josephine S. Dela Cruz,Josephine S. Dela Cruz,,1,Source,1,1,3,0.45,0.5,0,89,48,0,0,0.005827,10
+Joshua Zambales,Joshua Zambales,,1,Source,1,1,4,0.311475,0.355263,0,91,16,0,0,0.005011,3
+Joel Addawe,Joel Addawe,,1,; Target,1,1,1,1,1,0,18,44,0,0,0.001684,81
+Judith J. Azcarraga,Judith J. Azcarraga,,5,; Target,5,5,7,0.198113,0.274112,0.001827,39,7,0.3,3,0.023802,2
+Marc Angelo P. Martinez,Marc Angelo P. Martinez,,7,Source; Target,7,7,1,1,1,0.000092,63,17,0.428571,9,0.040848,13
+Jason Occidental,Jason Occidental,,2,; Target,1,2,1,1,1,0,17,42,0,0,0.001684,82
+Ernesto C. Boydon,Ernesto C. Boydon,,5,; Target,5,5,1,1,1,0,60,83,1,10,0.043825,22
+Joshua Dizon,Joshua Dizon,,3,Source,3,3,2,0.52381,0.545455,0,79,2,1,3,0.144136,0
+Rafael Gerard Formes,Rafael Gerard Formes,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+M. T. Malit,M. T. Malit,,2,Source; Target,2,2,1,1,1,0,71,56,1,1,0.00512,51
+Paolo Gonzalez,Paolo Gonzalez,,2,Source; Target,2,2,1,1,1,0,77,84,1,1,0.00512,57
+Lorena R. Rabago,Lorena R. Rabago,,5,Source; Target,5,5,1,1,1,0,60,83,1,10,0.043825,22
+Louie Lester E. Pascual,Louie Lester E. Pascual,,3,Source,3,3,2,0.714286,0.8,0,45,72,1,3,0.014052,23
+Cymon Nicollo P. Marcaida,Cymon Nicollo P. Marcaida,,4,Source; Target,4,4,1,1,1,0,51,8,1,6,0.023356,26
+Justin David Pineda,Justin David Pineda,,4,Source,4,4,1,1,1,0,36,1,1,6,0.023356,25
+Prinz Nikko C. Palahang,Prinz Nikko C. Palahang,,3,Source; Target,3,3,1,1,1,0,68,12,1,3,0.011623,42
+Patricia Nicole Uy,Patricia Nicole Uy,,2,Source,2,2,1,1,1,0,83,47,1,1,0.00512,58
+Albert A. Vinluan,Albert A. Vinluan,,3,Source; Target,3,3,2,0.636364,0.714286,0,63,17,1,3,0.018918,13
+Nathaniel Oco,Nathaniel Oco,,18,Source; Target,12,18,7,0.329843,0.453515,0.003162,34,7,0.242424,16,0.133206,1
+Jacob Chan,Jacob Chan,,2,Source,2,2,1,1,1,0,77,84,1,1,0.00512,57
+Danny Cheng,Danny Cheng,,2,Source; Target,2,2,3,0.45,0.5,0,24,29,1,1,0.02041,4
+Deanne Erika Buena,Deanne Erika Buena,,4,Source; Target,4,4,1,1,1,0,76,79,1,6,0.023356,32
+Jared Luke C. Pangilinan,Jared Luke C. Pangilinan,,4,Source; Target,4,4,5,0.269231,0.330423,0,39,7,1,6,0.045738,2
+Warren AdamÂ Sto. Tomas,Warren AdamÂ Sto. Tomas,,5,; Target,5,5,1,1,1,0,56,34,1,10,0.043825,18
+Marvin Limson,Marvin Limson,,4,Source; Target,4,4,8,0.258197,0.335072,0,28,7,1,6,0.06366,7
+Paul John O. Argarin,Paul John O. Argarin,,6,Source,6,6,2,0.55,0.590909,0,79,2,1,15,0.339732,0
+Ann Franchesca Laguna,Ann Franchesca Laguna,,4,; Target,4,4,1,1,1,0,54,28,1,6,0.023356,28
+Richelle Ann B. Juayon,Richelle Ann B. Juayon,,3,Source; Target,3,3,2,0.52381,0.545455,0,79,2,1,3,0.144136,0
+Juan Lorenzo Hagad,Juan Lorenzo Hagad,,5,Source; Target,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Oliver Isaac L. Chan,Oliver Isaac L. Chan,,3,Source,3,3,5,0.28,0.340212,0,39,7,1,3,0.040945,2
+Deion C. Menor,Deion C. Menor,,3,Source,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Annette G. Lagman,Annette G. Lagman,,5,Source; Target,5,5,2,0.727273,0.8125,0,50,13,1,10,0.050978,11
+Carlo Adriano,Carlo Adriano,,4,Source,4,4,1,1,1,0,54,28,1,6,0.023356,28
+Ervin Fernandez,Ervin Fernandez,,8,Source; Target,4,8,6,0.234201,0.299471,0,39,7,1,6,0.036336,2
+Andrei D. Coronel,Andrei D. Coronel,,15,; Target,15,15,1,1,1,0.000688,55,3,0.142857,15,0.099736,6
+Angie M. Ceniza,Angie M. Ceniza,,3,Source; Target,3,3,1,1,1,0,62,75,1,3,0.011623,40
+LawrenceÂ Miguel Antonio,LawrenceÂ Miguel Antonio,,5,Source,5,5,1,1,1,0,56,34,1,10,0.043825,18
+Sony Renz Manalo,Sony Renz Manalo,,4,Source; Target,4,4,8,0.252,0.321315,0,34,7,1,6,0.047537,1
+Fatima Suzanne G. De Villa,Fatima Suzanne G. De Villa,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Kurt Junshean P. Espinosa,Kurt Junshean P. Espinosa,,2,; Target,2,2,1,1,1,0.000008,8,24,0,0,0.003597,59
+John D. Ultra,John D. Ultra,,1,; Target,1,1,1,1,1,0,15,36,0,0,0.001684,71
+Miguel Paolo A.Â Maglaque,Miguel Paolo A.Â Maglaque,,3,Source; Target,3,3,1,1,1,0,44,63,1,3,0.011623,39
+Job Eliezek Bangayan,Job Eliezek Bangayan,,3,Source,3,3,4,0.422222,0.5,0,91,16,1,3,0.024417,3
+Carlos Alberto Arcenas,Carlos Alberto Arcenas,,2,Source,2,2,1,1,1,0,57,78,1,1,0.00512,60
+Jonathan B. Mamplata,Jonathan B. Mamplata,,1,; Target,1,1,1,1,1,0,73,85,0,0,0.001684,88
+Diane Manzano,Diane Manzano,,1,Source,1,1,1,1,1,0,72,86,0,0,0.001684,87
+Katrina B. Calpito,Katrina B. Calpito,,4,Source,4,4,1,1,1,0,82,57,1,6,0.023356,30
+Cedric Festin,Cedric Festin,,15,Source; Target,15,15,1,1,1,0.000688,58,38,0.142857,15,0.099736,8
+Ivy Ordanel,Ivy Ordanel,,1,Source,1,1,2,0.507692,0.515152,0,79,2,0,0,0.110299,0
+Ethel Ong,Ethel Ong,,14,Source; Target,14,14,1,1,1,0.000527,59,45,0.241758,22,0.135643,9
+Berwin Jarret T. Yu,Berwin Jarret T. Yu,,1,Source,1,1,2,0.666667,0.75,0,65,87,0,0,0.002295,61
+C.D.S. Ergina,C.D.S. Ergina,,1,Source,1,1,1,1,1,0,70,88,0,0,0.001684,83
+Enrico Sison,Enrico Sison,,3,Source; Target,3,3,2,0.615385,0.6875,0,86,62,1,3,0.023001,12
+Dionne Peter P. Cailipan,Dionne Peter P. Cailipan,,6,Source; Target,6,6,2,0.55,0.590909,0,79,2,1,15,0.395389,0
+Ann Renzel Lagunda,Ann Renzel Lagunda,,3,Source,3,3,2,0.52381,0.545455,0,79,2,1,3,0.200885,0
+Joshua Manto,Joshua Manto,,4,Source; Target,4,4,4,0.380952,0.5,0,64,5,1,6,0.028726,5
+Christian Quinzon,Christian Quinzon,,5,Source; Target,5,5,2,0.608696,0.678571,0,59,45,1,10,0.070369,9
+Eva R. Samillano,Eva R. Samillano,,5,Source; Target,5,5,1,1,1,0,60,83,1,10,0.043825,22
+Neil Patrick Del Gallego,Neil Patrick Del Gallego,,3,Source; Target,3,3,2,0.714286,0.8,0.000054,9,25,0,0,0.007344,24
+Jasmine Irene Ng,Jasmine Irene Ng,,1,; Target,1,1,2,0.518519,0.535714,0,59,45,0,0,0.023064,9
+Zechariah B. Jimenez,Zechariah B. Jimenez,,6,Source; Target,6,6,2,0.55,0.590909,0,79,2,1,15,0.367501,0
+John Meynard Sanchez,John Meynard Sanchez,,6,Source; Target,6,6,1,1,1,0,81,61,1,15,0.078637,16
+Jhon Rick Salvedia,Jhon Rick Salvedia,,6,Source; Target,6,6,1,1,1,0,81,61,1,15,0.078637,16
+Ephraim D. Mendoza,Ephraim D. Mendoza,,4,Source; Target,4,4,2,0.532258,0.560606,0,79,2,1,6,0.257058,0
+Chiara Veronica D. SeÃ±ires,Chiara Veronica D. SeÃ±ires,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Francis JonÂ Olaso,Francis JonÂ Olaso,,5,Source; Target,5,5,1,1,1,0,56,34,1,10,0.043825,18
+Sahnir Yap,Sahnir Yap,,4,Source; Target,4,4,2,0.583333,0.642857,0,59,45,1,6,0.050062,9
+Clarissa Mae Garcia,Clarissa Mae Garcia,,4,Source; Target,4,4,1,1,1,0,76,79,1,6,0.023356,32
+John Roy Geralde,John Roy Geralde,,1,Source,1,1,2,0.6,0.666667,0,75,71,0,0,0.002935,43
+Lorraine Policarpio,Lorraine Policarpio,,4,Source; Target,4,4,6,0.295775,0.352381,0,34,7,1,6,0.061148,1
+Febrev F. Dela Cruz,Febrev F. Dela Cruz,,5,Source; Target,5,5,1,1,1,0,61,55,1,10,0.043825,19
+Cecil JoseÂ Delfinado,Cecil JoseÂ Delfinado,,5,Source; Target,5,5,1,1,1,0,56,34,1,10,0.043825,18
+Jhoirene B. Clemente,Jhoirene B. Clemente,,3,Source; Target,2,3,2,0.515625,0.530303,0,79,2,1,1,0.124892,0
+Laurenz Adriel Tolentino,Laurenz Adriel Tolentino,,3,Source; Target,3,3,6,0.313433,0.366931,0.000549,34,7,0.333333,1,0.045093,1
+Bartolome T. Tanguilig III,Bartolome T. Tanguilig III,,2,; Target,2,2,1,1,1,0,67,89,1,1,0.00512,62
+Maritoni Escalona,Maritoni Escalona,,5,Source,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Kok-Lim Low,Kok-Lim Low,,2,; Target,2,2,2,0.666667,0.75,0,37,67,1,1,0.006716,35
+Proceso  Fernandez Jr.,Proceso  Fernandez Jr.,,1,; Target,1,1,1,1,1,0,38,68,0,0,0.001684,84
+Jaymee A. OlaÃ±o,Jaymee A. OlaÃ±o,,4,Source; Target,4,4,1,1,1,0,16,37,1,6,0.023356,33
+Jeffrey A. Aborot,Jeffrey A. Aborot,,3,Source,2,3,2,0.515625,0.530303,0,79,2,1,1,0.124892,0
+Ma. Christina R. Aragon,Ma. Christina R. Aragon,,5,Source; Target,5,5,1,1,1,0,61,55,1,10,0.043825,19
+Andrew Laron,Andrew Laron,,3,Source,3,3,4,0.418605,0.5,0,24,29,1,3,0.023506,4
+Richard Denton,Richard Denton,,2,; Target,2,2,1,1,1,0,74,43,1,1,0.00512,50
+Val Randolf M. Madrid,Val Randolf M. Madrid,,2,Source,2,2,3,0.461538,0.583333,0,21,50,1,1,0.006438,15
+Christian dela Cruz,Christian dela Cruz,,1,Source,1,1,1,1,1,0,43,70,0,0,0.001684,77
+Joanna Pauline Rivera,Joanna Pauline Rivera,,1,Source,1,1,1,1,1,0,4,18,0,0,0.001684,66
+Ronald John O. Cabatic,Ronald John O. Cabatic,,5,Source; Target,5,5,1,1,1,0,48,74,1,10,0.043825,20
+Kim Christian T. Cubillan,Kim Christian T. Cubillan,,2,Source; Target,2,2,1,1,1,0,46,15,1,1,0.00512,45
+Mary B. Malana,Mary B. Malana,,3,Source; Target,3,3,8,0.166667,0.220087,0,39,7,1,3,0.014804,2
+Michael B. Simora,Michael B. Simora,,5,Source; Target,5,5,1,1,1,0,48,74,1,10,0.043825,20
+Marc Ericson Santos,Marc Ericson Santos,,2,; Target,2,2,3,0.473684,0.555556,0,89,48,1,1,0.009006,10
+David Jonathan L. Relacion,David Jonathan L. Relacion,,4,Source; Target,4,4,1,1,1,0,82,57,1,6,0.023356,30
+Eduardo R. Mendoza,Eduardo R. Mendoza,,2,; Target,2,2,1,1,1,0,66,31,1,1,0.00512,49
+Nestine Hope S. Hernandez,Nestine Hope S. Hernandez,,16,Source; Target,13,16,2,0.622642,0.69697,0.000138,79,2,0.461538,36,0.626233,0
+Jay Chester Usero,Jay Chester Usero,,6,Source; Target,6,6,1,1,1,0,81,61,1,15,0.078637,16
+Marvin Joseph R. OcceÃ±o,Marvin Joseph R. OcceÃ±o,,1,Source,1,1,2,0.666667,0.75,0,65,87,0,0,0.002295,61
+Samantha G. Mallari,Samantha G. Mallari,,5,Source,5,5,1,1,1,0,60,83,1,10,0.043825,22
+Nathaniel Laxina,Nathaniel Laxina,,3,Source; Target,3,3,3,0.545455,0.694444,0,21,50,1,3,0.012991,15
+Carlo D. Mendoza,Carlo D. Mendoza,,3,Source; Target,3,3,4,0.422222,0.5,0,91,16,1,3,0.024417,3
+Anne Grace H. Peralta,Anne Grace H. Peralta,,1,Source,1,1,1,1,1,0,30,64,0,0,0.001684,85
+Redan Benedict Alcaide,Redan Benedict Alcaide,,2,Source; Target,2,2,2,0.625,0.7,0,45,72,1,1,0.008674,23
+Tita R. Herradura,Tita R. Herradura,,3,Source,2,3,7,0.316583,0.380763,0,28,7,1,1,0.065095,7
+Vanlalhruaii Swansi,Vanlalhruaii Swansi,,1,Source,1,1,8,0.165789,0.204214,0,39,7,0,0,0.006184,2
+Almie Carajay,Almie Carajay,,5,Source,5,5,1,1,1,0,13,33,1,10,0.043825,21
+Janica Mae M. Lam,Janica Mae M. Lam,,4,Source; Target,4,4,2,0.583333,0.642857,0,59,45,1,6,0.050062,9
+Aaron Jan Baldomar,Aaron Jan Baldomar,,3,Source; Target,3,3,4,0.418605,0.5,0,24,29,1,3,0.023506,4
+Joshua CastaÃ±eda,Joshua CastaÃ±eda,,3,Source,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Alden Luc R. Hade,Alden Luc R. Hade,,4,Source; Target,4,4,2,0.583333,0.642857,0,59,45,1,6,0.050062,9
+Charl Amaba,Charl Amaba,,3,Source,3,3,1,1,1,0,62,75,1,3,0.011623,40
+Maria Art Antonette ClariÃ±o,Maria Art Antonette ClariÃ±o,,4,Source; Target,4,4,2,0.75,0.833333,0.000069,21,50,0.5,3,0.015905,15
+Carlo Marco S. Ortiz,Carlo Marco S. Ortiz,,4,; Target,4,4,2,0.7,0.785714,0,63,17,1,6,0.02896,13
+Christine Faith Tango,Christine Faith Tango,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Karl Joseph Centillo,Karl Joseph Centillo,,4,Source,4,4,4,0.410256,0.53125,0,64,5,1,6,0.038558,5
+Patricia Angela Abu,Patricia Angela Abu,,4,Source; Target,4,4,3,0.44186,0.526316,0.000268,91,16,0.166667,1,0.017593,3
+May Marie P. Talandron,May Marie P. Talandron,,2,Source; Target,2,2,1,1,1,0,10,26,1,1,0.00512,47
+Christian Terrence Esguerra,Christian Terrence Esguerra,,1,Source,1,1,2,0.571429,0.625,0,37,67,0,0,0.003884,35
+Richard Bryann L. Chua,Richard Bryann L. Chua,,2,; Target,2,2,1,1,1,0.000008,65,87,0,0,0.003597,61
+Carlene P.C. Pilar-Arceo,Carlene P.C. Pilar-Arceo,,2,Source; Target,2,2,1,1,1,0,66,31,1,1,0.00512,49
+Melissa P. Juanillo,Melissa P. Juanillo,,5,Source; Target,5,5,1,1,1,0,61,55,1,10,0.043825,19
+Francis Bien Jan Viernes,Francis Bien Jan Viernes,,3,Source,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Mark Allen Secreto Saclot,Mark Allen Secreto Saclot,,1,; Target,1,1,1,1,1,0,5,21,0,0,0.001684,68
+Cher T. Panlilio,Cher T. Panlilio,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Jan Nicole Domingo,Jan Nicole Domingo,,5,Source; Target,5,5,2,0.727273,0.8125,0,86,62,1,10,0.050978,12
+Xavier Jeaspher Eser,Xavier Jeaspher Eser,,2,Source,2,2,3,0.422222,0.473684,0,91,16,1,1,0.014274,3
+Clarisa Albarillo,Clarisa Albarillo,,1,Source,1,1,3,0.395833,0.429825,0,91,16,0,0,0.009263,3
+Tony Y. T. Chan,Tony Y. T. Chan,,2,Source; Target,2,2,1,1,1,0,11,30,1,1,0.00512,48
+Rowena C. Solamo,Rowena C. Solamo,,5,Source; Target,5,5,2,0.727273,0.8125,0,50,13,1,10,0.050978,11
+Proceso Fernandez Jr,Proceso Fernandez Jr,,8,Source; Target,8,8,2,0.633333,0.710526,0.000841,91,16,0.071429,2,0.038639,3
+Ricardo Q. Camungao,Ricardo Q. Camungao,,2,Source,2,2,1,1,1,0,67,89,1,1,0.00512,62
+Anthony Brian Dy,Anthony Brian Dy,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Somnath Bera,Somnath Bera,,3,Source; Target,3,3,2,0.52381,0.545455,0,79,2,1,3,0.144136,0
+Christelle R. Villezas,Christelle R. Villezas,,3,Source; Target,3,3,1,1,1,0,68,12,1,3,0.011623,42
+Earl Jay F. Ledesma,Earl Jay F. Ledesma,,1,Source,1,1,1,1,1,0,84,90,0,0,0.001684,86
+Allan A. Sioson,Allan A. Sioson,,5,; Target,5,5,1,1,1,0.000046,45,72,0.4,4,0.018907,23
+Nathalie Rose Lim-Cheng,Nathalie Rose Lim-Cheng,,11,Source; Target,10,11,3,0.642857,0.759259,0.000722,24,29,0.177778,8,0.058492,4
+Raymund E. Dilan,Raymund E. Dilan,,1,Source,1,1,3,0.395833,0.429825,0,91,16,0,0,0.009263,3
+Danny C. Cheng,Danny C. Cheng,,6,Source; Target,6,6,3,0.5625,0.648148,0.000428,24,29,0.466667,7,0.046721,4
+Allan Borra,Allan Borra,,5,; Target,4,5,7,0.285068,0.351663,0.000656,34,7,0.166667,1,0.037363,1
+Eliezer A. Albacea,Eliezer A. Albacea,,3,; Target,3,3,2,0.666667,0.75,0.000061,21,50,0.333333,1,0.010354,15
+Ulyses A. Solon Jr,Ulyses A. Solon Jr,,4,Source; Target,4,4,1,1,1,0,87,81,1,6,0.023356,34
+Rachel Anne G. Concepcion,Rachel Anne G. Concepcion,,1,Source,1,1,2,0.6,0.666667,0,2,9,0,0,0.002935,37
+Marie Yvette de Robles,Marie Yvette de Robles,,1,; Target,1,1,1,1,1,0,23,54,0,0,0.001684,72
+Maureen Lyndel C. Lauron,Maureen Lyndel C. Lauron,,1,Source,1,1,1,1,1,0,69,80,0,0,0.001684,80
+V.M.II Romero,V.M.II Romero,,1,; Target,1,1,1,1,1,0,70,88,0,0,0.001684,83
+Francis,Francis,,6,Source; Target,6,6,2,0.55,0.590909,0,79,2,1,15,0.339732,0
+Jaime Samaniego,Jaime Samaniego,,5,; Target,5,5,1,1,1,0,13,33,1,10,0.043825,21
+Mark Lorenz F. Eustaquio,Mark Lorenz F. Eustaquio,,5,; Target,5,5,1,1,1,0,61,55,1,10,0.043825,19
+Bobby D. Gerardo,Bobby D. Gerardo,,2,Source; Target,2,2,1,1,1,0,67,89,1,1,0.00512,62
+Ryan ChristopherÂ Pinca,Ryan ChristopherÂ Pinca,,4,; Target,4,4,8,0.252,0.321315,0,34,7,1,6,0.047537,1
+Christoffer F. Kho,Christoffer F. Kho,,2,Source,2,2,1,1,1,0,1,6,1,1,0.00512,56
+John Raymound Lemuel Javier,John Raymound Lemuel Javier,,4,Source; Target,4,4,4,0.410256,0.53125,0,64,5,1,6,0.038558,5
+Patrick Joseph M. Sadornas,Patrick Joseph M. Sadornas,,3,Source; Target,3,3,5,0.28,0.340212,0,39,7,1,3,0.040945,2
+Raymund C. Sison,Raymund C. Sison,,3,; Target,3,3,2,0.714286,0.8,0.000046,9,25,0.333333,1,0.008662,24
+Wilben Christie R. Pagtaconan,Wilben Christie R. Pagtaconan,,1,Source,1,1,1,1,1,0,14,35,0,0,0.001684,70
+Armina Francisco,Armina Francisco,,1,; Target,1,1,1,1,1,0,0,0,0,0,0.001684,64
+III,III,,4,Source; Target,4,4,1,1,1,0,16,37,1,6,0.023356,33
+Rex Bringula,Rex Bringula,,5,Source,5,5,2,0.777778,0.857143,0,35,39,1,10,0.047867,14
+J. L. Agapito,J. L. Agapito,,2,; Target,2,2,1,1,1,0,71,56,1,1,0.00512,51
+Jonathan Yiu,Jonathan Yiu,,1,; Target,1,1,4,0.4,0.444444,0,24,29,0,0,0.012556,4
+Renier G. Mendoza,Renier G. Mendoza,,2,Source; Target,2,2,1,1,1,0,88,40,1,1,0.00512,63
+Samantha Jade Sadural,Samantha Jade Sadural,,1,; Target,1,1,1,1,1,0,72,86,0,0,0.001684,87
+Adrian R. Llamado,Adrian R. Llamado,,1,Source,1,1,1,1,1,0,73,85,0,0,0.001684,88
+Marjo-Anne B. Acob,Marjo-Anne B. Acob,,1,Source,1,1,1,1,1,0,22,53,0,0,0.001684,89
+Macliing Gabriel Q. Aydinan,Macliing Gabriel Q. Aydinan,,3,Source; Target,3,3,1,1,1,0,47,73,1,3,0.011623,41
+Jonathan Danao,Jonathan Danao,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Fritz Kevin Flores,Fritz Kevin Flores,,6,Source; Target,6,6,3,0.533333,0.645833,0.000367,64,5,0.466667,7,0.044802,5
+Adrian Martin S. Sy,Adrian Martin S. Sy,,7,Source; Target,4,7,8,0.252,0.321315,0,34,7,1,6,0.055197,1
+Allen L. Nazareno,Allen L. Nazareno,,2,; Target,2,2,1,1,1,0,6,22,1,1,0.00512,54
+Rex P. Bringula,Rex P. Bringula,,2,Source,2,2,2,0.583333,0.642857,0,35,39,1,1,0.014542,14
+Jorge Gil Angeles,Jorge Gil Angeles,,5,Source; Target,5,5,1,1,1,0,13,33,1,10,0.043825,21
+Nikkol John Morales,Nikkol John Morales,,5,Source; Target,5,5,3,0.516129,0.614583,0,64,5,1,10,0.062666,5
+Ariel S. Betan,Ariel S. Betan,,5,Source; Target,5,5,2,0.727273,0.8125,0,50,13,1,10,0.050978,11
+Michael Angeles,Michael Angeles,,3,Source,3,3,3,0.545455,0.694444,0,21,50,1,3,0.012991,15
+Stephen Beale,Stephen Beale,,2,Source; Target,2,2,1,1,1,0,74,43,1,1,0.00512,50
+Kardi Teknomo,Kardi Teknomo,,3,; Target,3,3,1,1,1,0.000023,75,71,0,0,0.005748,43
+Alexis Pantola,Alexis Pantola,,4,Source,4,4,1,1,1,0,76,79,1,6,0.023356,32
+Ruahden F. Dang-awan,Ruahden F. Dang-awan,,2,Source; Target,2,2,2,0.515625,0.530303,0,79,2,1,1,0.124892,0
+Mervin Stewart C. Uy,Mervin Stewart C. Uy,,4,Source; Target,4,4,5,0.269231,0.330423,0,39,7,1,6,0.045738,2
+Aaron Manaloto,Aaron Manaloto,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Irene Therese Bermejo,Irene Therese Bermejo,,5,Source,5,5,2,0.727273,0.8125,0,86,62,1,10,0.050978,12
+Enrico M. Tria,Enrico M. Tria,,2,Source; Target,2,2,4,0.413043,0.473684,0,91,16,1,1,0.01749,3
+Joel D. Ilao,Joel D. Ilao,,2,Source; Target,2,2,5,0.323077,0.372487,0,39,7,1,1,0.051674,2
+Gabriel Alberto A. Sanchez,Gabriel Alberto A. Sanchez,,2,Source,2,2,3,0.5,0.535088,0,91,16,1,1,0.022427,3
+Ella Mara Melanie Perez,Ella Mara Melanie Perez,,2,; Target,2,2,1,1,1,0,77,84,1,1,0.00512,57
+Jazmine Paola B. Barroga,Jazmine Paola B. Barroga,,2,Source,2,2,1,1,1,0,3,14,1,1,0.00512,44
+Daniel Stanley Tan,Daniel Stanley Tan,,3,Source; Target,3,3,4,0.418605,0.5,0,24,29,1,3,0.023506,4
+Ronald Pascual,Ronald Pascual,,5,; Target,5,5,1,1,1,0,78,10,1,10,0.043825,17
+Kennedy E. Espina,Kennedy E. Espina,,5,; Target,5,5,2,0.727273,0.8125,0,86,62,1,10,0.050978,12
+Jasper Haven S. Briones,Jasper Haven S. Briones,,2,Source,2,2,2,0.666667,0.75,0,49,4,1,1,0.007032,36
+Remedios de Dios Bulos,Remedios de Dios Bulos,,1,; Target,1,1,3,0.454545,0.533333,0,9,25,0,0,0.003207,24
+Henry N. Adorna,Henry N. Adorna,,46,Source; Target,33,46,1,1,1,0.003122,79,2,0.121212,64,1,0
+Leif Romeritch Syliongka,Leif Romeritch Syliongka,,5,Source; Target,3,5,7,0.311881,0.376795,0,34,7,1,3,0.068749,1
+Teresita C. Limoanco,Teresita C. Limoanco,,2,Source,2,2,3,0.5,0.633333,0,9,25,1,1,0.006173,24
+Jym Paul Carandang,Jym Paul Carandang,,9,Source; Target,7,9,2,0.559322,0.606061,0.00001,79,2,0.809524,17,0.389323,0
+Miguel Palma,Miguel Palma,,1,; Target,1,1,1,1,1,0,20,46,0,0,0.001684,90
+Arnulfo Azcarraga,Arnulfo Azcarraga,,1,; Target,1,1,1,1,1,0,80,77,0,0,0.001684,79
+Bryan Adam B. Tan,Bryan Adam B. Tan,,3,; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Gabriel K. De Jesus,Gabriel K. De Jesus,,3,Source,3,3,4,0.422222,0.5,0,91,16,1,3,0.024417,3
+Sang N. Le,Sang N. Le,,2,Source; Target,2,2,2,0.666667,0.75,0,37,67,1,1,0.006716,35
+Al Jamil L. Arazas,Al Jamil L. Arazas,,3,Source; Target,3,3,2,0.714286,0.8,0,45,72,1,3,0.014052,23
+Rancelli Jane Roxas,Rancelli Jane Roxas,,4,Source,4,4,2,0.583333,0.642857,0,59,45,1,6,0.050062,9
+Francis George C. Cabarle,Francis George C. Cabarle,,21,Source; Target,14,21,2,0.634615,0.712121,0.000182,79,2,0.395604,36,0.635994,0
+Anthony B. Castillo,Anthony B. Castillo,,5,Source; Target,5,5,1,1,1,0,48,74,1,10,0.043825,20
+Ava Marie Villareal,Ava Marie Villareal,,6,Source; Target,6,6,1,1,1,0,81,61,1,15,0.078637,16
+Camille Alexis T.R. Saavedra,Camille Alexis T.R. Saavedra,,4,Source; Target,4,4,2,0.583333,0.642857,0,59,45,1,6,0.050062,9
+Maricor N. Soriano,Maricor N. Soriano,,2,Source; Target,2,2,3,0.461538,0.583333,0,21,50,1,1,0.006438,15
+John Paul C. Vergara,John Paul C. Vergara,,11,; Target,11,11,3,0.655172,0.77193,0.00091,91,16,0.145455,8,0.06022,3
+Christian Chan,Christian Chan,,3,Source,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Juan Miguel C. Roman,Juan Miguel C. Roman,,4,Source; Target,4,4,1,1,1,0,82,57,1,6,0.023356,30
+Katrina Joy Abriol-Santos,Katrina Joy Abriol-Santos,,5,Source; Target,5,5,1,1,1,0,13,33,1,10,0.043825,21
+Christine Lourrine S. Tablatin,Christine Lourrine S. Tablatin,,1,Source,1,1,3,0.45,0.5,0,89,48,0,0,0.005827,10
+Gener Angelo Lopez,Gener Angelo Lopez,,2,; Target,2,2,1,1,1,0,83,47,1,1,0.00512,58
+Regine Danica Regino,Regine Danica Regino,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Allison Mae Yu,Allison Mae Yu,,4,; Target,4,4,1,1,1,0,76,79,1,6,0.023356,32
+Ara Abigail Ambita,Ara Abigail Ambita,,2,Source; Target,2,2,2,0.666667,0.75,0,42,69,1,1,0.007032,31
+Ruy Josel Verano,Ruy Josel Verano,,4,Source; Target,4,4,1,1,1,0,36,1,1,6,0.023356,25
+Jeno Paolo Rigor,Jeno Paolo Rigor,,5,; Target,5,5,3,0.516129,0.614583,0,64,5,1,10,0.062666,5
+Angelica H. Dela Cruz,Angelica H. Dela Cruz,,7,Source,4,7,8,0.252,0.321315,0,34,7,1,6,0.055197,1
+Marie Yvette B. de Robles,Marie Yvette B. de Robles,,1,; Target,1,1,1,1,1,0,84,90,0,0,0.001684,86
+Leona Jean A. Lao,Leona Jean A. Lao,,1,Source,1,1,1,1,1,0,32,65,0,0,0.001684,74
+Roland Joseph M. Gudani,Roland Joseph M. Gudani,,2,Source; Target,2,2,1,1,1,0,3,14,1,1,0.00512,44
+Emmanuel M. Malaay,Emmanuel M. Malaay,,5,Source,5,5,1,1,1,0,48,74,1,10,0.043825,20
+Maria Isabel Saludares,Maria Isabel Saludares,,2,Source,2,2,2,0.666667,0.75,0,42,69,1,1,0.007032,31
+Miguel Adrian C. Domingo,Miguel Adrian C. Domingo,,2,Source; Target,2,2,2,0.666667,0.75,0,25,27,1,1,0.007032,27
+Edward Tighe,Edward Tighe,,5,Source; Target,5,5,8,0.259259,0.343008,0,28,7,1,10,0.085932,7
+Francis Percival M. Caparas,Francis Percival M. Caparas,,4,Source; Target,4,4,1,1,1,0,92,52,1,6,0.023356,29
+Sherlyne L. Francia,Sherlyne L. Francia,,3,Source,3,3,2,0.52381,0.545455,0,79,2,1,3,0.144136,0
+Rachel Edita Roxas,Rachel Edita Roxas,,9,Source; Target,6,9,7,0.316583,0.400605,0.000581,34,7,0.6,9,0.093068,1
+Jerik G. Beltran,Jerik G. Beltran,,1,; Target,1,1,1,1,1,0,85,82,0,0,0.001684,91
+Faith I. Ballesteros,Faith I. Ballesteros,,5,Source; Target,5,5,1,1,1,0,60,83,1,10,0.043825,22
+Vincent Paul L. Carpio,Vincent Paul L. Carpio,,2,Source,2,2,1,1,1,0,26,58,1,1,0.00512,52
+Jayzon Ty,Jayzon Ty,,2,Source,2,2,3,0.473684,0.555556,0,89,48,1,1,0.009006,10
+Maureen M. Villamor,Maureen M. Villamor,,2,Source,1,2,3,0.45,0.5,0,89,48,0,0,0.005827,10
+Angelyn Lao,Angelyn Lao,,3,; Target,3,3,4,0.418605,0.5,0,24,29,1,3,0.023506,4
+Dewey L. Sia,Dewey L. Sia,,2,Source,2,2,2,0.666667,0.75,0,49,4,1,1,0.007032,36
+Ma. Regina Estuar,Ma. Regina Estuar,,8,Source; Target,8,8,1,1,1,0.000115,86,62,0.464286,13,0.064103,12
+Karlo Soriano,Karlo Soriano,,3,Source; Target,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Roger Luis Uy,Roger Luis Uy,,14,Source; Target,14,14,5,0.409091,0.514021,0.005941,34,7,0.252747,23,0.214391,1
+Aimee B. Rarugal,Aimee B. Rarugal,,4,Source; Target,4,4,1,1,1,0,87,81,1,6,0.023356,34
+Fernito Llanita,Fernito Llanita,,4,Source; Target,4,4,4,0.391304,0.490741,0,24,29,1,6,0.029496,4
+Jun Rangie C. Obispo,Jun Rangie C. Obispo,,2,; Target,2,2,1,1,1,0,10,26,1,1,0.00512,47
+Genesis Ian Palaganas,Genesis Ian Palaganas,,3,Source; Target,3,3,2,0.52381,0.545455,0,79,2,1,3,0.200885,0
+Ligaya Leah Figueroa,Ligaya Leah Figueroa,,4,; Target,4,4,1,1,1,0.000031,42,69,0.333333,2,0.011475,31
+John Paul S. Guzman,John Paul S. Guzman,,2,Source; Target,2,2,3,0.5,0.633333,0,9,25,1,1,0.006173,24
+Justin San Pedro,Justin San Pedro,,3,Source; Target,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Edgar Bryan B. Nicart,Edgar Bryan B. Nicart,,2,Source,2,2,1,1,1,0,11,30,1,1,0.00512,48
+John Matthew Villaflores,John Matthew Villaflores,,3,Source; Target,3,3,2,0.52381,0.545455,0,79,2,1,3,0.220437,0
+Jayrah Bena E. RiÃ±on,Jayrah Bena E. RiÃ±on,,2,Source,2,2,1,1,1,0,88,40,1,1,0.00512,63
+Ryan Rey M. Daga,Ryan Rey M. Daga,,1,Source,1,1,3,0.395833,0.429825,0,91,16,0,0,0.009263,3
+April Gale V. Guevara,April Gale V. Guevara,,2,Source,2,2,2,0.666667,0.75,0,25,27,1,1,0.007032,27
+Jr.,Jr.,,3,; Target,3,3,1,1,1,0,47,73,1,3,0.011623,41
+Marlene De Leon,Marlene De Leon,,2,; Target,2,2,1,1,1,0,57,78,1,1,0.00512,60
+Erika Ritzelle P. Bondoc,Erika Ritzelle P. Bondoc,,4,Source,4,4,1,1,1,0,92,52,1,6,0.023356,29
+John Dinnex M. Valeros,John Dinnex M. Valeros,,3,Source; Target,3,3,2,0.714286,0.8,0,45,72,1,3,0.014052,23
+Jasper S. Agustin,Jasper S. Agustin,,1,Source,1,1,3,0.395833,0.429825,0,91,16,0,0,0.009263,3
+Ma. Mercedes T. Rodrigo,Ma. Mercedes T. Rodrigo,,7,Source; Target,6,7,2,0.75,0.833333,0.000222,89,48,0.066667,1,0.018722,10
+Jansen Keith Domoguen,Jansen Keith Domoguen,,2,Source,2,2,2,0.515625,0.530303,0,79,2,1,1,0.124892,0
+Emilio Angelo D. Alindogan,Emilio Angelo D. Alindogan,,5,Source,5,5,1,1,1,0,61,55,1,10,0.043825,19
+Maria Katrina Donato,Maria Katrina Donato,,3,Source,3,3,2,0.555556,0.6,0,55,3,1,3,0.032643,6
+Joel M. Addawe,Joel M. Addawe,,1,Source,1,1,1,1,1,0,27,60,0,0,0.001684,92
+Conrad Olega,Conrad Olega,,3,Source,3,3,2,0.555556,0.6,0,58,38,1,3,0.032643,8
+Darren Josef M. Kho,Darren Josef M. Kho,,3,Source; Target,3,3,1,1,1,0,62,75,1,3,0.011623,40
+Drew Dolot,Drew Dolot,,6,Source; Target,6,6,1,1,1,0,81,61,1,15,0.078637,16
+Fili Emerson Chua,Fili Emerson Chua,,5,Source; Target,5,5,3,0.516129,0.614583,0,64,5,1,10,0.062666,5
+Maria Cristina P. Co,Maria Cristina P. Co,,7,Source; Target,4,7,8,0.252,0.321315,0,34,7,1,6,0.055197,1
+Jane D. Palacio,Jane D. Palacio,,2,Source,2,2,1,1,1,0,33,66,1,1,0.00512,53
+Camille C. Diez,Camille C. Diez,,2,Source,2,2,4,0.413043,0.473684,0,91,16,1,1,0.01749,3
+Ren Tristan dela Cruz,Ren Tristan dela Cruz,,12,Source,9,12,2,0.578947,0.636364,0.000017,79,2,0.75,27,0.504707,0
+Ayman P. Cabotaje,Ayman P. Cabotaje,,5,; Target,5,5,1,1,1,0,48,74,1,10,0.043825,20
+Maryene B. Sy Piecco,Maryene B. Sy Piecco,,1,Source,1,1,2,0.6,0.666667,0,2,9,0,0,0.002935,37
+JosephÂ Ordillano,JosephÂ Ordillano,,5,Source; Target,5,5,1,1,1,0,56,34,1,10,0.043825,18
+Ken V. Hosoya,Ken V. Hosoya,,4,Source; Target,4,4,5,0.269231,0.330423,0,39,7,1,6,0.045738,2
+Jennifer C. Ureta,Jennifer C. Ureta,,1,Source,1,1,2,0.571429,0.625,0,37,67,0,0,0.003884,35
+Jerald Aldin A. Dagaang,Jerald Aldin A. Dagaang,,3,; Target,3,3,1,1,1,0,68,12,1,3,0.011623,42
+Ariel Sison,Ariel Sison,,3,Source; Target,3,3,1,1,1,0,90,51,1,3,0.011623,38
+John Lawrence PeÃ±afiel,John Lawrence PeÃ±afiel,,5,Source; Target,5,5,3,0.516129,0.614583,0,64,5,1,10,0.062666,5
+Dollen Lour Huang,Dollen Lour Huang,,4,Source; Target,4,4,2,0.583333,0.642857,0,59,45,1,6,0.050062,9
+Lawrence Yap,Lawrence Yap,,4,Source; Target,4,4,8,0.258197,0.335072,0,28,7,1,6,0.06366,7
+Alyssa Nicole N. Ty,Alyssa Nicole N. Ty,,3,Source; Target,3,3,4,0.422222,0.5,0,91,16,1,3,0.024417,3
+Guido David,Guido David,,4,Source; Target,4,4,1,1,1,0,87,81,1,6,0.023356,34
+John Eddie D. Macias,John Eddie D. Macias,,4,Source; Target,4,4,1,1,1,0,92,52,1,6,0.023356,29
+Gabriel Dominik E. Sison,Gabriel Dominik E. Sison,,4,Source,4,4,1,1,1,0,87,81,1,6,0.023356,34
+John Carlo A. Ariola,John Carlo A. Ariola,,4,Source,4,4,1,1,1,0,16,37,1,6,0.023356,33
