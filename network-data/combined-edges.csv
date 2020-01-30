@@ -92,18 +92,18 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 10,Almie Carajay,Jorge Gil Angeles,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Almie Carajay,Rocky Marcelino,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Almie Carajay,Maria Art Antonette Clariño,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Almie Carajay,Katrina Joy Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
+10,Almie Carajay,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Almie Carajay,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Jorge Gil Angeles,Rocky Marcelino,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Jorge Gil Angeles,Maria Art Antonette Clariño,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Jorge Gil Angeles,Katrina Joy Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
+10,Jorge Gil Angeles,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Jorge Gil Angeles,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Rocky Marcelino,Maria Art Antonette Clariño,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Rocky Marcelino,Katrina Joy Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
+10,Rocky Marcelino,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Rocky Marcelino,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Maria Art Antonette Clariño,Katrina Joy Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
+10,Maria Art Antonette Clariño,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 10,Maria Art Antonette Clariño,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Katrina Joy Abriol-Santos,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
+10,Katrina Joy M. Abriol-Santos,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
 11,Jayrah Bena E. Riñon,Renier G. Mendoza,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2019
 11,Jayrah Bena E. Riñon,Victoria May Paguio Mendoza,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2019
 11,Renier G. Mendoza,Victoria May Paguio Mendoza,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2019
@@ -671,7 +671,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 39,Kelvin C. Buño,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2018
 39,Kelvin C. Buño,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2018
 39,Nestine Hope S. Hernandez,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2018
-40,Shenamae Borja,John Ultra,"Advanced World Solutions, Inc.",University of the Philippines - Visayas Tacloban College,local,2018
+40,Shenamae Borja,John D. Ultra,"Advanced World Solutions, Inc.",University of the Philippines - Visayas Tacloban College,local,2018
 41,Laurenz Adriel Tolentino,Allan Borra,De La Salle University,De La Salle University,local,2018
 42,Maryene B. Sy Piecco,Marrick C. Neri,University of the Philippines - Visayas,University of the Philippines - Diliman,local,2018
 43,Mary Grace Malana,Laurenz Adriel Tolentino,De La Salle University,De La Salle University,local,2018
@@ -1330,9 +1330,9 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 90,Jacob Chan,Paolo Gonzalez,Ateneo de Manila University,Ateneo de Manila University,local,2016
 90,Jacob Chan,Ella Mara Melanie Perez,Ateneo de Manila University,Ateneo de Manila University,local,2016
 90,Paolo Gonzalez,Ella Mara Melanie Perez,Ateneo de Manila University,Ateneo de Manila University,local,2016
-91,Glen Charles Lopez,Jun Rangie Obispo,Ateneo de Manila University,Ateneo de Manila University,local,2016
+91,Glen Charles Lopez,Jun Rangie C. Obispo,Ateneo de Manila University,Ateneo de Manila University,local,2016
 91,Glen Charles Lopez,Mark Joseph Ronquillo,Ateneo de Manila University,Ateneo de Manila University,local,2016
-91,Jun Rangie Obispo,Mark Joseph Ronquillo,Ateneo de Manila University,Ateneo de Manila University,local,2016
+91,Jun Rangie C. Obispo,Mark Joseph Ronquillo,Ateneo de Manila University,Ateneo de Manila University,local,2016
 92,Lemuel Clark P. Velasco,Prinz Nikko C. Palahang,MSU – Iligan Institute of Technology,WebForest IT Consultancy,local,2016
 92,Lemuel Clark P. Velasco,Christelle R. Villezas,MSU – Iligan Institute of Technology,"Advanced World Solutions, Inc.",local,2016
 92,Lemuel Clark P. Velasco,Jerald Aldin A. Dagaang,MSU – Iligan Institute of Technology,Convergys Corporation,local,2016
@@ -1381,15 +1381,15 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 99,John Matthew B. Villaflores,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2016
 99,Francis George C. Cabarle,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2016
 100,Charibeth Cheng,Louie Anson Ng,De La Salle University,De La Salle University,local,2016
-101,Lawrence Miguel Antonio,Cecil Jose Delfinado,University of Santo Tomas,University of Santo Tomas,local,2016
+101,Lawrence Miguel Antonio,Cecil Jose A. Delfinado,University of Santo Tomas,University of Santo Tomas,local,2016
 101,Lawrence Miguel Antonio,Francis Jon Olaso,University of Santo Tomas,University of Santo Tomas,local,2016
 101,Lawrence Miguel Antonio,Joseph Ordillano,University of Santo Tomas,University of Santo Tomas,local,2016
 101,Lawrence Miguel Antonio,Novelle Anne Sinco,University of Santo Tomas,University of Santo Tomas,local,2016
 101,Lawrence Miguel Antonio,Warren Adam Sto. Tomas,University of Santo Tomas,University of Santo Tomas,local,2016
-101,Cecil Jose Delfinado,Francis Jon Olaso,University of Santo Tomas,University of Santo Tomas,local,2016
-101,Cecil Jose Delfinado,Joseph Ordillano,University of Santo Tomas,University of Santo Tomas,local,2016
-101,Cecil Jose Delfinado,Novelle Anne Sinco,University of Santo Tomas,University of Santo Tomas,local,2016
-101,Cecil Jose Delfinado,Warren Adam Sto. Tomas,University of Santo Tomas,University of Santo Tomas,local,2016
+101,Cecil Jose A. Delfinado,Francis Jon Olaso,University of Santo Tomas,University of Santo Tomas,local,2016
+101,Cecil Jose A. Delfinado,Joseph Ordillano,University of Santo Tomas,University of Santo Tomas,local,2016
+101,Cecil Jose A. Delfinado,Novelle Anne Sinco,University of Santo Tomas,University of Santo Tomas,local,2016
+101,Cecil Jose A. Delfinado,Warren Adam Sto. Tomas,University of Santo Tomas,University of Santo Tomas,local,2016
 101,Francis Jon Olaso,Joseph Ordillano,University of Santo Tomas,University of Santo Tomas,local,2016
 101,Francis Jon Olaso,Novelle Anne Sinco,University of Santo Tomas,University of Santo Tomas,local,2016
 101,Francis Jon Olaso,Warren Adam Sto. Tomas,University of Santo Tomas,University of Santo Tomas,local,2016
@@ -1584,11 +1584,11 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 146,Ramon Rodriguez,Joel P. Ilao,De La Salle University,De La Salle University,local,2014
 146,Ramon Rodriguez,Joel P. Ilao,De La Salle University,De La Salle University,local,2014
 146,Ramon Rodriguez,Joel P. Ilao,De La Salle University,De La Salle University,local,2014
-147,Rex Bringula,Aaron Noel De Leon,University of the East,University of the East,local,2014
-147,Rex Bringula,Daryll Santos,University of the East,University of the East,local,2014
-147,Rex Bringula,Jose Mari Ramos,University of the East,University of the East,local,2014
-147,Rex Bringula,Sean Michael Amador,University of the East,University of the East,local,2014
-147,Rex Bringula,Roselle S. Basa,University of the East,University of the East,local,2014
+147,Rex P. Bringula,Aaron Noel De Leon,University of the East,University of the East,local,2014
+147,Rex P. Bringula,Daryll Santos,University of the East,University of the East,local,2014
+147,Rex P. Bringula,Jose Mari Ramos,University of the East,University of the East,local,2014
+147,Rex P. Bringula,Sean Michael Amador,University of the East,University of the East,local,2014
+147,Rex P. Bringula,Roselle S. Basa,University of the East,University of the East,local,2014
 147,Aaron Noel De Leon,Daryll Santos,University of the East,University of the East,local,2014
 147,Aaron Noel De Leon,Jose Mari Ramos,University of the East,University of the East,local,2014
 147,Aaron Noel De Leon,Sean Michael Amador,University of the East,University of the East,local,2014
@@ -1959,7 +1959,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 162,Elijah Joshua Cayabyab,Jonathan Danao,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
 162,Elijah Joshua Cayabyab,Cedric Festin,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
 162,Jonathan Danao,Cedric Festin,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
-163,Adrian John Biton,Marie Yvette de Robles,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2014
+163,Adrian John Biton,Marie Yvette B. de Robles,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2014
 164,Joseph Benjamin Ferrer,Anthony Brian Dy,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
 164,Joseph Benjamin Ferrer,Christian Edensor Arbon,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
 164,Joseph Benjamin Ferrer,Cedric Festin,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
@@ -1975,7 +1975,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 166,Chynna Julia Cordevilla,Rafael Gerard Formes,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
 166,Chynna Julia Cordevilla,Cedric Festin,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
 166,Rafael Gerard Formes,Cedric Festin,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2014
-167,Val Randolf Madrid,Renior Abrea,University of the Philippines - Los Baños,Mindanao State University at Naawan,local,2014
+167,Val Randolf M. Madrid,Renior Abrea,University of the Philippines - Los Baños,Mindanao State University at Naawan,local,2014
 168,Jazmine Paola B. Barroga,Roland Joseph M. Gudani,Ateneo de Manila University,Ateneo de Manila University,local,2014
 168,Jazmine Paola B. Barroga,Miguel Paolo M. Quijano,Ateneo de Manila University,Ateneo de Manila University,local,2014
 168,Roland Joseph M. Gudani,Miguel Paolo M. Quijano,Ateneo de Manila University,Ateneo de Manila University,local,2014
@@ -1988,11 +1988,11 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 170,Sun Arthur Ojeda,Jaime D.L. Caro,University of the Philippines - Manila,University of the Philippines - Diliman,local,2018
 171,Nicole Marie T. Del Rosario,Marrick C. Neri,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2018
 172,Nerio Pascual,Ariel Sison,Technological Institute of the Philippines,Technological Institute of the Philippines,local,2018
-172,Nerio Pascual,Bobby Gerardo,Technological Institute of the Philippines,Western Visayas State University,local,2018
-172,Nerio Pascual,Ruji Medina,Technological Institute of the Philippines,Technological Institute of the Philippines,local,2018
-172,Ariel Sison,Bobby Gerardo,Technological Institute of the Philippines,Western Visayas State University,local,2018
-172,Ariel Sison,Ruji Medina,Technological Institute of the Philippines,Technological Institute of the Philippines,local,2018
-172,Bobby Gerardo,Ruji Medina,Western Visayas State University,Technological Institute of the Philippines,local,2018
+172,Nerio Pascual,Bobby D. Gerardo,Technological Institute of the Philippines,Western Visayas State University,local,2018
+172,Nerio Pascual,Ruji P. Medina,Technological Institute of the Philippines,Technological Institute of the Philippines,local,2018
+172,Ariel Sison,Bobby D. Gerardo,Technological Institute of the Philippines,Western Visayas State University,local,2018
+172,Ariel Sison,Ruji P. Medina,Technological Institute of the Philippines,Technological Institute of the Philippines,local,2018
+172,Bobby D. Gerardo,Ruji P. Medina,Western Visayas State University,Technological Institute of the Philippines,local,2018
 173,Christian Paulo De Leon,Allan Adrian Gatchalian,Far Eastern University - Institute of Technology,Far Eastern University - Institute of Technology,local,2018
 173,Christian Paulo De Leon,Juan Miguel Ninobla,Far Eastern University - Institute of Technology,Far Eastern University - Institute of Technology,local,2018
 173,Christian Paulo De Leon,Nigel Roi Concepcion,Far Eastern University - Institute of Technology,Far Eastern University - Institute of Technology,local,2018
@@ -2260,11 +2260,11 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047313749,Ramon Vicente Marquez,Neil Irwin Bernardo,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85047313749,Charleston Dale M. Ambatali,Neil Irwin Bernardo,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85047777137,Jo Ann V. Magsumbol,Gerard Kevin B. Cagatan,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047777137,Jo Ann V. Magsumbol,Laurence Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047777137,Jo Ann V. Magsumbol,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047777137,Jo Ann V. Magsumbol,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047777137,Gerard Kevin B. Cagatan,Laurence Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047777137,Gerard Kevin B. Cagatan,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047777137,Gerard Kevin B. Cagatan,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047777137,Laurence Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047777137,Laurence A. Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773692,Jimwell L. Soliman,Nino Rigo Emil G. Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773692,Jimwell L. Soliman,John Patrick D. Mercado,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773692,Jimwell L. Soliman,Muhaimin Rex C. Lagurin,De La Salle University,De La Salle University,international,2018
@@ -2312,20 +2312,20 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047818904,Ryback Tyrone G. Po,Jay Robert B. Del Rosario,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047818904,Argel A. Bandala,Jay Robert B. Del Rosario,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Engr Arvin H. Fernando,Argel A. Bandala,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047773384,Engr Arvin H. Fernando,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047773384,Engr Arvin H. Fernando,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Engr Arvin H. Fernando,Archie B. Maglaya,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Engr Arvin H. Fernando,Nadine Adellia A. Ledesma,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Engr Arvin H. Fernando,Ryan Rhay P. Vicerra,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Engr Arvin H. Fernando,Engr Jeremias Gonzaga,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047773384,Argel A. Bandala,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047773384,Argel A. Bandala,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Argel A. Bandala,Archie B. Maglaya,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Argel A. Bandala,Nadine Adellia A. Ledesma,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Argel A. Bandala,Ryan Rhay P. Vicerra,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Argel A. Bandala,Engr Jeremias Gonzaga,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047773384,Laurence A.Gan Lim,Archie B. Maglaya,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047773384,Laurence A.Gan Lim,Nadine Adellia A. Ledesma,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047773384,Laurence A.Gan Lim,Ryan Rhay P. Vicerra,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047773384,Laurence A.Gan Lim,Engr Jeremias Gonzaga,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047773384,Laurence A. Gan Lim,Archie B. Maglaya,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047773384,Laurence A. Gan Lim,Nadine Adellia A. Ledesma,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047773384,Laurence A. Gan Lim,Ryan Rhay P. Vicerra,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047773384,Laurence A. Gan Lim,Engr Jeremias Gonzaga,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Archie B. Maglaya,Nadine Adellia A. Ledesma,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Archie B. Maglaya,Ryan Rhay P. Vicerra,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047773384,Archie B. Maglaya,Engr Jeremias Gonzaga,De La Salle University,De La Salle University,international,2018
@@ -2348,8 +2348,8 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047777167,Kathleen B. Aviso,Anthony Shun Fung Chiu,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047777167,Raymond R. Tan,Anthony Shun Fung Chiu,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047764550,Neil Stephen Lopez,Jeremias A. Gonzaga,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047764550,Neil Stephen Lopez,Laurence Gan Lim,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047764550,Jeremias A. Gonzaga,Laurence Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047764550,Neil Stephen Lopez,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047764550,Jeremias A. Gonzaga,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047749341,Aristotle T. Ubando,Jeremias A. Gonzaga,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047749341,Aristotle T. Ubando,Ivan Henderson V. Gue,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047749341,Aristotle T. Ubando,Jose Bienvenido Manuel M. Biona,De La Salle University,De La Salle University,international,2018
@@ -2377,17 +2377,17 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047763796,John R. Dela Cruz,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763796,John R. Dela Cruz,Renann G. Baldovino,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763796,John R. Dela Cruz,Francisco B. Culibrina,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047763796,John R. Dela Cruz,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047763796,John R. Dela Cruz,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763796,Jo Ann V. Magsumbol,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763796,Jo Ann V. Magsumbol,Renann G. Baldovino,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763796,Jo Ann V. Magsumbol,Francisco B. Culibrina,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047763796,Jo Ann V. Magsumbol,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047763796,Jo Ann V. Magsumbol,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763796,Elmer P. Dadios,Renann G. Baldovino,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763796,Elmer P. Dadios,Francisco B. Culibrina,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047763796,Elmer P. Dadios,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047763796,Elmer P. Dadios,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763796,Renann G. Baldovino,Francisco B. Culibrina,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047763796,Renann G. Baldovino,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047763796,Francisco B. Culibrina,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047763796,Renann G. Baldovino,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047763796,Francisco B. Culibrina,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047840884,Francisco Emmanuel T. Munsayac,Lea Monica B. Alonzo,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047840884,Francisco Emmanuel T. Munsayac,Delfin Enrique G. Lindo,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047840884,Francisco Emmanuel T. Munsayac,Renann G. Baldovino,De La Salle University,De La Salle University,international,2018
@@ -2425,20 +2425,20 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047744929,Kathleen B. Aviso,Raymond R. Tan,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047744929,Aristotle T. Ubando,Raymond R. Tan,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Robert G. De Luna,Renann G. Baldovino,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757187,Robert G. De Luna,Ezekiel A. Cotoco,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757187,Robert G. De Luna,Ezekiel Karl A. Cotoco,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Robert G. De Luna,Anton Louise P. De Ocampo,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Robert G. De Luna,Ira Valenzuela,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Robert G. De Luna,Alvin B. Culaba,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Robert G. De Luna,Elmer P.Dadios Gokongwei,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757187,Renann G. Baldovino,Ezekiel A. Cotoco,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757187,Renann G. Baldovino,Ezekiel Karl A. Cotoco,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Renann G. Baldovino,Anton Louise P. De Ocampo,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Renann G. Baldovino,Ira Valenzuela,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Renann G. Baldovino,Alvin B. Culaba,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Renann G. Baldovino,Elmer P.Dadios Gokongwei,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757187,Ezekiel A. Cotoco,Anton Louise P. De Ocampo,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757187,Ezekiel A. Cotoco,Ira Valenzuela,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757187,Ezekiel A. Cotoco,Alvin B. Culaba,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757187,Ezekiel A. Cotoco,Elmer P.Dadios Gokongwei,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757187,Ezekiel Karl A. Cotoco,Anton Louise P. De Ocampo,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757187,Ezekiel Karl A. Cotoco,Ira Valenzuela,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757187,Ezekiel Karl A. Cotoco,Alvin B. Culaba,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757187,Ezekiel Karl A. Cotoco,Elmer P.Dadios Gokongwei,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Anton Louise P. De Ocampo,Ira Valenzuela,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Anton Louise P. De Ocampo,Alvin B. Culaba,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757187,Anton Louise P. De Ocampo,Elmer P.Dadios Gokongwei,De La Salle University,De La Salle University,international,2018
@@ -2500,13 +2500,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047757430,Mark Lester F. Padilla,Selwyn Jenson C. Lao,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757430,Mark Lester F. Padilla,Renann G. Baldovino,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757430,Mark Lester F. Padilla,Argel A. Bandala,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757430,Mark Lester F. Padilla,Elmer B. Dadios,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757430,Mark Lester F. Padilla,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757430,Selwyn Jenson C. Lao,Renann G. Baldovino,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757430,Selwyn Jenson C. Lao,Argel A. Bandala,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757430,Selwyn Jenson C. Lao,Elmer B. Dadios,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757430,Selwyn Jenson C. Lao,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047757430,Renann G. Baldovino,Argel A. Bandala,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757430,Renann G. Baldovino,Elmer B. Dadios,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047757430,Argel A. Bandala,Elmer B. Dadios,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757430,Renann G. Baldovino,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047757430,Argel A. Bandala,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047779317,Kyle Darryl T. Aguilar,Aristotle T. Ubando,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047779317,Kyle Darryl T. Aguilar,Isidro Antonio V. Marfori,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047779317,Kyle Darryl T. Aguilar,Alvin B. Culaba,De La Salle University,De La Salle University,international,2018
@@ -2539,9 +2539,9 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047759821,Raphael Benedict G. Luta,Renann G. Baldovino,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047759821,Raphael Benedict G. Luta,Nilo T. Bugtai,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047759821,Renann G. Baldovino,Nilo T. Bugtai,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047767479,Jed I. Tapiador,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047767479,Jed I. Tapiador,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047767479,Jed I. Tapiador,Gerardo L. Augusto,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047767479,Laurence A.Gan Lim,Gerardo L. Augusto,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047767479,Laurence A. Gan Lim,Gerardo L. Augusto,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763345,Adrian Christian Uy,Albert Dominic Caoile,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763345,Adrian Christian Uy,Allen Jay Gagarin,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047763345,Adrian Christian Uy,Joshua Jiwee Samio,De La Salle University,De La Salle University,international,2018
@@ -2675,9 +2675,9 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047752684,Kyle Darryl T. Aguilar,Robby B. Manrique,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047752684,Kyle Darryl T. Aguilar,Alvin B. Culaba,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047752684,Robby B. Manrique,Alvin B. Culaba,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047753287,Laurence A.Gan Lim,Aristotle T. Ubando,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047753287,Laurence A.Gan Lim,Arvin H. Fernando,De La Salle University,De La Salle University,international,2018
-2-s2.0-85047753287,Laurence A.Gan Lim,Gerardo L. Augusto,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047753287,Laurence A. Gan Lim,Aristotle T. Ubando,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047753287,Laurence A. Gan Lim,Arvin H. Fernando,De La Salle University,De La Salle University,international,2018
+2-s2.0-85047753287,Laurence A. Gan Lim,Gerardo L. Augusto,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047753287,Aristotle T. Ubando,Arvin H. Fernando,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047753287,Aristotle T. Ubando,Gerardo L. Augusto,De La Salle University,De La Salle University,international,2018
 2-s2.0-85047753287,Arvin H. Fernando,Gerardo L. Augusto,De La Salle University,De La Salle University,international,2018
@@ -2731,18 +2731,18 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85046291681,Marc Caesar R. Talampas,Joel S. Marciano,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85046088950,Robert Kerwin C. Billones,Argel A. Bandala,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Robert Kerwin C. Billones,Edwin Sybingco,De La Salle University,De La Salle University,international,2018
-2-s2.0-85046088950,Robert Kerwin C. Billones,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85046088950,Robert Kerwin C. Billones,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Robert Kerwin C. Billones,Alexis M. Fillone,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Robert Kerwin C. Billones,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Argel A. Bandala,Edwin Sybingco,De La Salle University,De La Salle University,international,2018
-2-s2.0-85046088950,Argel A. Bandala,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85046088950,Argel A. Bandala,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Argel A. Bandala,Alexis M. Fillone,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Argel A. Bandala,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
-2-s2.0-85046088950,Edwin Sybingco,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2018
+2-s2.0-85046088950,Edwin Sybingco,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Edwin Sybingco,Alexis M. Fillone,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Edwin Sybingco,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
-2-s2.0-85046088950,Laurence A.Gan Lim,Alexis M. Fillone,De La Salle University,De La Salle University,international,2018
-2-s2.0-85046088950,Laurence A.Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
+2-s2.0-85046088950,Laurence A. Gan Lim,Alexis M. Fillone,De La Salle University,De La Salle University,international,2018
+2-s2.0-85046088950,Laurence A. Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046088950,Alexis M. Fillone,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046037389,Alexander C. Abad,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85034570071,Michael Angelo B. Promentilla,Raymond R. Tan,De La Salle University,De La Salle University,international,2018
@@ -2755,17 +2755,17 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85022215285,Isachar Bernaldez,Mili Ann M. Tamayao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85043599466,Charmae B. Antonio,Louise Gillian C. Bautista,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85043599466,Charmae B. Antonio,Alfonso B. Labao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
-2-s2.0-85043599466,Charmae B. Antonio,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
+2-s2.0-85043599466,Charmae B. Antonio,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85043599466,Louise Gillian C. Bautista,Alfonso B. Labao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
-2-s2.0-85043599466,Louise Gillian C. Bautista,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
-2-s2.0-85043599466,Alfonso B. Labao,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
+2-s2.0-85043599466,Louise Gillian C. Bautista,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
+2-s2.0-85043599466,Alfonso B. Labao,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85043518219,Alfonso B. Labao,Mark A. Clutario,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
-2-s2.0-85043518219,Alfonso B. Labao,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
-2-s2.0-85043518219,Mark A. Clutario,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
+2-s2.0-85043518219,Alfonso B. Labao,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
+2-s2.0-85043518219,Mark A. Clutario,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85021422829,Juan Carlo M. Figueroa,Raul Alberto B. Arellano,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85021422829,Juan Carlo M. Figueroa,Janeen Mikee E. Calinisan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85021422829,Raul Alberto B. Arellano,Janeen Mikee E. Calinisan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
-2-s2.0-85043586258,Kristofer Delas Peñas,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
+2-s2.0-85043586258,Kristofer E. Delas Peñas,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85045197991,John Amos Tan,Alvin Y. Chua,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045211618,Marc Gelian E. Ante,Karlo Almario N. Garcia,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045211618,Marc Gelian E. Ante,Bryan Angelo A. Gonzales,De La Salle University,De La Salle University,international,2018
@@ -2852,13 +2852,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85045209229,Sidney Carlo Lopez,Sidney Sheldon Tan,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045209229,Sidney Carlo Lopez,Wellington Villasin,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045209229,Sidney Carlo Lopez,Aaron John Zarzoso,De La Salle University,De La Salle University,international,2018
-2-s2.0-85045209229,Sidney Carlo Lopez,Mark Lorenze Torregaza,De La Salle University,De La Salle University,international,2018
+2-s2.0-85045209229,Sidney Carlo Lopez,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045209229,Sidney Sheldon Tan,Wellington Villasin,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045209229,Sidney Sheldon Tan,Aaron John Zarzoso,De La Salle University,De La Salle University,international,2018
-2-s2.0-85045209229,Sidney Sheldon Tan,Mark Lorenze Torregaza,De La Salle University,De La Salle University,international,2018
+2-s2.0-85045209229,Sidney Sheldon Tan,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045209229,Wellington Villasin,Aaron John Zarzoso,De La Salle University,De La Salle University,international,2018
-2-s2.0-85045209229,Wellington Villasin,Mark Lorenze Torregaza,De La Salle University,De La Salle University,international,2018
-2-s2.0-85045209229,Aaron John Zarzoso,Mark Lorenze Torregaza,De La Salle University,De La Salle University,international,2018
+2-s2.0-85045209229,Wellington Villasin,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2018
+2-s2.0-85045209229,Aaron John Zarzoso,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045211546,Bianca Irene P. Dimaliwat,Paulo Emmanuel T. Francisco,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045211546,Bianca Irene P. Dimaliwat,Jasper Alvin D. Gan,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045211546,Bianca Irene P. Dimaliwat,George Lawrence C. See,De La Salle University,De La Salle University,international,2018
@@ -2873,7 +2873,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85045220012,Stanley Glenn E. Brucal,Aaron Don M. Africa,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045220012,Stanley Glenn E. Brucal,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045220012,Aaron Don M. Africa,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
-2-s2.0-85045187408,Mark Lorenze R. Torregoza,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
+2-s2.0-85045187408,Mark Lorenze Torregoza,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045196731,Gretchel Karen L. Alcantara,Ivan Darren J. Evangelista,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045196731,Gretchel Karen L. Alcantara,Jerome Vincent B. Malinao,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045196731,Gretchel Karen L. Alcantara,Ofelia B. Ong,De La Salle University,De La Salle University,international,2018
@@ -2986,13 +2986,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85045853794,Reneé Dominique M. Castillo,Mima Maiden B. Tejada,De La Salle University,De La Salle University,international,2017
 2-s2.0-85045853794,Reneé Dominique M. Castillo,Macario O. Cordel II,De La Salle University,De La Salle University,international,2017
 2-s2.0-85045853794,Reneé Dominique M. Castillo,Ann Franchesca B. Laguna,De La Salle University,De La Salle University,international,2017
-2-s2.0-85045853794,Reneé Dominique M. Castillo,Joel Paz Ilao,De La Salle University,De La Salle University,international,2017
+2-s2.0-85045853794,Reneé Dominique M. Castillo,Joel P. Ilao,De La Salle University,De La Salle University,international,2017
 2-s2.0-85045853794,Mima Maiden B. Tejada,Macario O. Cordel II,De La Salle University,De La Salle University,international,2017
 2-s2.0-85045853794,Mima Maiden B. Tejada,Ann Franchesca B. Laguna,De La Salle University,De La Salle University,international,2017
-2-s2.0-85045853794,Mima Maiden B. Tejada,Joel Paz Ilao,De La Salle University,De La Salle University,international,2017
+2-s2.0-85045853794,Mima Maiden B. Tejada,Joel P. Ilao,De La Salle University,De La Salle University,international,2017
 2-s2.0-85045853794,Macario O. Cordel II,Ann Franchesca B. Laguna,De La Salle University,De La Salle University,international,2017
-2-s2.0-85045853794,Macario O. Cordel II,Joel Paz Ilao,De La Salle University,De La Salle University,international,2017
-2-s2.0-85045853794,Ann Franchesca B. Laguna,Joel Paz Ilao,De La Salle University,De La Salle University,international,2017
+2-s2.0-85045853794,Macario O. Cordel II,Joel P. Ilao,De La Salle University,De La Salle University,international,2017
+2-s2.0-85045853794,Ann Franchesca B. Laguna,Joel P. Ilao,De La Salle University,De La Salle University,international,2017
 2-s2.0-85044214786,John Patrick C. Agustin,Joshua H. Jacinto,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85044214786,John Patrick C. Agustin,Wilbert Jethro R. Limjoco,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85044214786,John Patrick C. Agustin,Jhoanna Rhodette Ibabao Pedrasa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
@@ -3329,7 +3329,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85043457649,Charlie S. Marzan,Remedios de Dios Bulos,De La Salle University,De La Salle University,international,2017
 2-s2.0-85043457649,Charlie S. Marzan,Conrado Ruiz,De La Salle University,De La Salle University,international,2017
 2-s2.0-85043457649,Remedios de Dios Bulos,Conrado Ruiz,De La Salle University,De La Salle University,international,2017
-2-s2.0-85009958894,Neil Patrick Del Gallego,Joel Paz Ilao,De La Salle University,De La Salle University,international,2017
+2-s2.0-85009958894,Neil Patrick Del Gallego,Joel P. Ilao,De La Salle University,De La Salle University,international,2017
 2-s2.0-85039743112,Melchizedek I. Alipio,Nestor Michael C. Tiglao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85037352368,Homer M. Pagkalinawan,Nerissa B. Gatdula,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85037352368,Homer M. Pagkalinawan,Ronalyn P. Jose,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
@@ -3486,7 +3486,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85041394284,Martin Ernesto L. Kalaw,Raymond R. Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85041394284,Kathleen B. Aviso,Raymond R. Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85041426894,Raymond R. Tan,Kathleen B. Aviso,De La Salle University,De La Salle University,international,2017
-2-s2.0-85029374922,Kristofer E.Delas Penas,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85029374922,Kristofer E. Delas Peñas,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85039034490,Charlie S. Marzan,Remedios de Dios Bulos,De La Salle University,De La Salle University,international,2017
 2-s2.0-85039034490,Charlie S. Marzan,Maria Jeseca C. Baculo,De La Salle University,De La Salle University,international,2017
 2-s2.0-85039034490,Charlie S. Marzan,Conrado Ruiz,De La Salle University,De La Salle University,international,2017
@@ -3508,7 +3508,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85030264132,Yuhsiang Huang,Roderick Yap,De La Salle University,De La Salle University,international,2017
 2-s2.0-85030264132,Yuhsiang Huang,Lawrence Y. Materum,De La Salle University,De La Salle University,international,2017
 2-s2.0-85030264132,Roderick Yap,Lawrence Y. Materum,De La Salle University,De La Salle University,international,2017
-2-s2.0-85029925395,Danny Cheng,Nathalie Rose Lim-Cheng,De La Salle University,De La Salle University,international,2017
+2-s2.0-85029925395,Danny C. Cheng,Nathalie Rose Lim-Cheng,De La Salle University,De La Salle University,international,2017
 2-s2.0-85021646345,Jadze Narag,Nathaniel P. Hermosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85025426255,Julie Ann Salido,Conrado Ruiz,De La Salle University,De La Salle University,international,2017
 2-s2.0-85029716577,Meldie Apag,Raymund C. Sison,De La Salle University,De La Salle University,international,2017
@@ -3662,13 +3662,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85019128539,Edgar A. Vallar,Maria Cecilia D. Galvez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85019128539,Edgar A. Vallar,Raquel V. Francisco,De La Salle University,University of the Philippines - Diliman,international,2017
 2-s2.0-85019128539,Maria Cecilia D. Galvez,Raquel V. Francisco,De La Salle University,University of the Philippines - Diliman,international,2017
-2-s2.0-85016620736,Gerard Ely U. Faelden,Laurence Gan Lim,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016620736,Gerard Ely U. Faelden,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016620736,Gerard Ely U. Faelden,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016620736,Gerard Ely U. Faelden,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016620736,Gerard Ely U. Faelden,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016620736,Laurence Gan Lim,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016620736,Laurence Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016620736,Laurence Gan Lim,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016620736,Laurence A. Gan Lim,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016620736,Laurence A. Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016620736,Laurence A. Gan Lim,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016620736,Edwin Sybingco,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016620736,Edwin Sybingco,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016620736,Elmer P. Dadios,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
@@ -3678,33 +3678,33 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85019142809,Red M. Castilla,Edgar A. Vallar,De La Salle University,De La Salle University,international,2017
 2-s2.0-85019142809,Red M. Castilla,Maria Cecilia D. Galvez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85019142809,Edgar A. Vallar,Maria Cecilia D. Galvez,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016575457,Reiichiro Christian S. Nakano,Laurence Gan Lim,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016575457,Reiichiro Christian S. Nakano,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016575457,Reiichiro Christian S. Nakano,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016575457,Reiichiro Christian S. Nakano,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016575457,Reiichiro Christian S. Nakano,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016575457,Laurence Gan Lim,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016575457,Laurence Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016575457,Laurence Gan Lim,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016575457,Laurence A. Gan Lim,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016575457,Laurence A. Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016575457,Laurence A. Gan Lim,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016575457,Edwin Sybingco,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016575457,Edwin Sybingco,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016575457,Elmer P. Dadios,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
 2-s2.0-85019070759,Prane Mariel B. Ong,Maria Cecilia D. Galvez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85019070759,Prane Mariel B. Ong,Edgar A. Vallar,De La Salle University,De La Salle University,international,2017
 2-s2.0-85019070759,Maria Cecilia D. Galvez,Edgar A. Vallar,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016601349,Jose Martin Z. Maningo,Laurence Gan Lim,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016601349,Jose Martin Z. Maningo,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016601349,Jose Martin Z. Maningo,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016601349,Jose Martin Z. Maningo,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016601349,Jose Martin Z. Maningo,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016601349,Laurence Gan Lim,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016601349,Laurence Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
-2-s2.0-85016601349,Laurence Gan Lim,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016601349,Laurence A. Gan Lim,Edwin Sybingco,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016601349,Laurence A. Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
+2-s2.0-85016601349,Laurence A. Gan Lim,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016601349,Edwin Sybingco,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016601349,Edwin Sybingco,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
 2-s2.0-85016601349,Elmer P. Dadios,Argel A. Bandala,De La Salle University,De La Salle University,international,2017
 2-s2.0-85012284473,Miguel D. Fortes,Monica Sarceda,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85022185791,Ryan Anthony J. De Belen,Maria Isabel S. Saludaresy,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85022185791,Ryan Anthony J. De Belen,Rowel O. Atienzaz,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85022185791,Maria Isabel S. Saludaresy,Rowel O. Atienzaz,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85022185791,Ryan Anthony J. De Belen,Maria Isabel S. Saludares,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85022185791,Ryan Anthony J. De Belen,Rowel O. Atienza,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85022185791,Maria Isabel S. Saludares,Rowel O. Atienza,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85022220654,Kristine Faith Javier Roque,Rowel O. Atienza,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85020899115,Aaron U. Aquino,Mary Grace Ann C. Bautista,De La Salle University,De La Salle University,international,2017
 2-s2.0-85020899115,Aaron U. Aquino,Renann G. Baldovino,De La Salle University,De La Salle University,international,2017
@@ -3786,28 +3786,28 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85015417517,Joan Baez U Dimatira,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Joan Baez U Dimatira,Francisco B. Culibrina,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Joan Baez U Dimatira,Jo Ann V. Magsumbol,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015417517,Joan Baez U Dimatira,John Dela Cruz,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015417517,Joan Baez U Dimatira,John R. Dela Cruz,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Joan Baez U Dimatira,Kristine Sumage,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Joan Baez U Dimatira,Marytamar Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Joan Baez U Dimatira,Mike Gomez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Elmer P. Dadios,Francisco B. Culibrina,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Elmer P. Dadios,Jo Ann V. Magsumbol,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015417517,Elmer P. Dadios,John Dela Cruz,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015417517,Elmer P. Dadios,John R. Dela Cruz,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Elmer P. Dadios,Kristine Sumage,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Elmer P. Dadios,Marytamar Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Elmer P. Dadios,Mike Gomez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Francisco B. Culibrina,Jo Ann V. Magsumbol,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015417517,Francisco B. Culibrina,John Dela Cruz,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015417517,Francisco B. Culibrina,John R. Dela Cruz,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Francisco B. Culibrina,Kristine Sumage,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Francisco B. Culibrina,Marytamar Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Francisco B. Culibrina,Mike Gomez,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015417517,Jo Ann V. Magsumbol,John Dela Cruz,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015417517,Jo Ann V. Magsumbol,John R. Dela Cruz,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Jo Ann V. Magsumbol,Kristine Sumage,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Jo Ann V. Magsumbol,Marytamar Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Jo Ann V. Magsumbol,Mike Gomez,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015417517,John Dela Cruz,Kristine Sumage,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015417517,John Dela Cruz,Marytamar Tan,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015417517,John Dela Cruz,Mike Gomez,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015417517,John R. Dela Cruz,Kristine Sumage,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015417517,John R. Dela Cruz,Marytamar Tan,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015417517,John R. Dela Cruz,Mike Gomez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Kristine Sumage,Marytamar Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Kristine Sumage,Mike Gomez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015417517,Marytamar Tan,Mike Gomez,De La Salle University,De La Salle University,international,2017
@@ -3875,13 +3875,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85015412718,Elmer R. Magsino,Karl Obias,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015412718,Elmer R. Magsino,John Paul Samarista,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015412718,Elmer R. Magsino,Marc Francis Say,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015412718,Elmer R. Magsino,Johnamos Tan,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015412718,Elmer R. Magsino,John Amos Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015412718,Karl Obias,John Paul Samarista,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015412718,Karl Obias,Marc Francis Say,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015412718,Karl Obias,Johnamos Tan,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015412718,Karl Obias,John Amos Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015412718,John Paul Samarista,Marc Francis Say,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015412718,John Paul Samarista,Johnamos Tan,De La Salle University,De La Salle University,international,2017
-2-s2.0-85015412718,Marc Francis Say,Johnamos Tan,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015412718,John Paul Samarista,John Amos Tan,De La Salle University,De La Salle University,international,2017
+2-s2.0-85015412718,Marc Francis Say,John Amos Tan,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015424222,Aristotle T. Ubando,Ivan Henderson V. Gue,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015424222,Aristotle T. Ubando,Kyle Darryl T. Aguilar,De La Salle University,De La Salle University,international,2017
 2-s2.0-85015424222,Ivan Henderson V. Gue,Kyle Darryl T. Aguilar,De La Salle University,De La Salle University,international,2017
@@ -3912,10 +3912,10 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85015382687,Sophia Gracia P Agustin,Maria Theresa Cunanan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85015428609,Ciprian D. Billones,Olivia Jan Louville D Demetria,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85015428609,Ciprian D. Billones,David Earl D Hostallero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85015428609,Ciprian D. Billones,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85015428609,Ciprian D. Billones,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85015428609,Olivia Jan Louville D Demetria,David Earl D Hostallero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85015428609,Olivia Jan Louville D Demetria,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85015428609,David Earl D Hostallero,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85015428609,Olivia Jan Louville D Demetria,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85015428609,David Earl D Hostallero,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85015367005,Jordan Rel C. Orillaza,Angelico Angeles,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85015367005,Jordan Rel C. Orillaza,Arnulfo L. Barra,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85015367005,Jordan Rel C. Orillaza,Louella B. Orillaza,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
@@ -3995,7 +3995,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85013212382,Daniel Dominic N. Abinoja,Lawrence Y. Materum,De La Salle University,De La Salle University,international,2017
 2-s2.0-85012024047,Patth Rick L Ramirez,Joel Joseph S. Marciano,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85041167509,John Carlo S. Garcia,Menandro Serrano Berana,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85018508835,Alfonso B. Labao,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85018508835,Alfonso B. Labao,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85025123861,Ronalyn P. Jose,Ransie Joy A. Apura,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85025123861,Ronalyn P. Jose,Daniel Marc G. Dela Torre,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85025123861,Ronalyn P. Jose,Ariel C. Blanco,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
@@ -4241,11 +4241,11 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84992618539,Janina Angeli Ferrer,Arrenzo Paul Perea,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-84992618539,Janina Angeli Ferrer,Alyssa Jean A. Portus,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-84992618539,Arrenzo Paul Perea,Alyssa Jean A. Portus,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85047000119,Charmaine A. Cruz,Daniel Marc Dela Torre,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85047000119,Charmaine A. Cruz,Daniel Marc G. Dela Torre,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85047000119,Charmaine A. Cruz,Ayin M. Tamondong,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85047000119,Charmaine A. Cruz,Ariel C. Blanco,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85047000119,Daniel Marc Dela Torre,Ayin M. Tamondong,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85047000119,Daniel Marc Dela Torre,Ariel C. Blanco,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85047000119,Daniel Marc G. Dela Torre,Ayin M. Tamondong,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85047000119,Daniel Marc G. Dela Torre,Ariel C. Blanco,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85047000119,Ayin M. Tamondong,Ariel C. Blanco,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85042183384,Nathalie Joy Sucgang,Manuel C. Ramos,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85042183384,Nathalie Joy Sucgang,Nicolette Ann A. Arriola,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
@@ -4326,11 +4326,11 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85047395210,Mark Vener D. Vergara,Alexis Richard C. Claridades,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85047395210,Mark Vener D. Vergara,Ayin M. Tamondong,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85047395210,Alexis Richard C. Claridades,Ayin M. Tamondong,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85019991486,Jym Paul A. Carandang,John Matthew B. Villaores,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85019991486,Jym Paul A. Carandang,John Matthew B. Villaflores,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85019991486,Jym Paul A. Carandang,Francis George C. Cabarle,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85019991486,Jym Paul A. Carandang,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85019991486,John Matthew B. Villaores,Francis George C. Cabarle,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85019991486,John Matthew B. Villaores,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85019991486,John Matthew B. Villaflores,Francis George C. Cabarle,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
+2-s2.0-85019991486,John Matthew B. Villaflores,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85019991486,Francis George C. Cabarle,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85047397178,Angelo Benedict Ragunjan,Gay Jane P. Perez,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85046413329,Melissa Lopez Reyes,Laurene Chua-Garcia,De La Salle University,De La Salle University,international,2017
@@ -4384,8 +4384,8 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85006337240,Reiichiro Christian S. Nakano,Elmer P. Dadios,De La Salle University,De La Salle University,international,2016
 2-s2.0-85006337240,Ryan Rhay P. Vicerra,Elmer P. Dadios,De La Salle University,De La Salle University,international,2016
 2-s2.0-85006954184,Ryan Anthony,J. De Belen,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-85006954184,Ryan Anthony,Rowel O. Atienzay,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-85006954184,J. De Belen,Rowel O. Atienzay,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
+2-s2.0-85006954184,Ryan Anthony,Rowel O. Atienza,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
+2-s2.0-85006954184,J. De Belen,Rowel O. Atienza,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85007170440,Arnulfo P. Azcarraga,Arturo P. Caronongan,De La Salle University,De La Salle University,international,2016
 2-s2.0-84994047167,Alexis Richard C. Claridades,Jara Kaye S. Villanueva,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84994047167,Alexis Richard C. Claridades,Edgardo G. Macatulad,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
@@ -4465,8 +4465,8 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84979992302,Aileen H. Orbecido,Michelle Almendrala,De La Salle University,De La Salle University,international,2016
 2-s2.0-84979992302,Luis F. Razón,Michelle Almendrala,De La Salle University,De La Salle University,international,2016
 2-s2.0-84978872973,Christine C. Balili,Ma Caryssa C Sobrepeña,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-84978872973,Christine C. Balili,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-84978872973,Ma Caryssa C Sobrepeña,Prospero C. Naval,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
+2-s2.0-84978872973,Christine C. Balili,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
+2-s2.0-84978872973,Ma Caryssa C Sobrepeña,Prospero C. Naval Jr.,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84978513256,Elmer R. Magsino,Franchesca Agatha V Beltran,De La Salle University,De La Salle University,international,2016
 2-s2.0-84978513256,Elmer R. Magsino,Hazel Anne P Cruzat,De La Salle University,De La Salle University,international,2016
 2-s2.0-84978513256,Elmer R. Magsino,Gia Nadine M De Sagun,De La Salle University,De La Salle University,international,2016
@@ -4571,8 +4571,8 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84964955483,Andres Philip Mayol,Aristotle T. Ubando,De La Salle University,De La Salle University,international,2016
 2-s2.0-84964955483,Charles B. Felix,Aristotle T. Ubando,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965145828,Gerardo L. Augusto,Alvin B. Culaba,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965145828,Gerardo L. Augusto,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965145828,Alvin B. Culaba,Laurence A.Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965145828,Gerardo L. Augusto,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965145828,Alvin B. Culaba,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965181000,Geoffrey L. Abulencia,Alexander C. Abad,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965167801,Aaron Christian P. Uy,Rhen Anjerome R. Bedruz,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965167801,Aaron Christian P. Uy,Ana Riza F. Quiros,De La Salle University,De La Salle University,international,2016
@@ -4680,13 +4680,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84965152959,Daniel Dominic N. Abinoja,Rhen Anjerome R. Bedruz,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965152959,Daniel Dominic N. Abinoja,Kevin Loo Jovellanos,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965152959,Daniel Dominic N. Abinoja,Marielle Anne Roque,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965152959,Daniel Dominic N. Abinoja,Mark Lorenze D R Torregoza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965152959,Daniel Dominic N. Abinoja,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965152959,Rhen Anjerome R. Bedruz,Kevin Loo Jovellanos,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965152959,Rhen Anjerome R. Bedruz,Marielle Anne Roque,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965152959,Rhen Anjerome R. Bedruz,Mark Lorenze D R Torregoza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965152959,Rhen Anjerome R. Bedruz,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965152959,Kevin Loo Jovellanos,Marielle Anne Roque,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965152959,Kevin Loo Jovellanos,Mark Lorenze D R Torregoza,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965152959,Marielle Anne Roque,Mark Lorenze D R Torregoza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965152959,Kevin Loo Jovellanos,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965152959,Marielle Anne Roque,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965126159,Cyrill O. Escolano,Elmer P. Dadios,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965126159,Cyrill O. Escolano,Alexis M. Fillone,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965126159,Elmer P. Dadios,Alexis M. Fillone,De La Salle University,De La Salle University,international,2016
@@ -4745,14 +4745,14 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84965116518,Joel C. Delos Angeles,Elmer P. Dadios,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965161274,E. B. Adoptante,K. D. Cadag,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965161274,E. B. Adoptante,V. R. Lualhati,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965161274,E. B. Adoptante,Mark Lorenze D R Torregoza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965161274,E. B. Adoptante,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965161274,E. B. Adoptante,Alexander C. Abad,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965161274,K. D. Cadag,V. R. Lualhati,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965161274,K. D. Cadag,Mark Lorenze D R Torregoza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965161274,K. D. Cadag,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965161274,K. D. Cadag,Alexander C. Abad,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965161274,V. R. Lualhati,Mark Lorenze D R Torregoza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965161274,V. R. Lualhati,Mark Lorenze Torregoza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965161274,V. R. Lualhati,Alexander C. Abad,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965161274,Mark Lorenze D R Torregoza,Alexander C. Abad,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965161274,Mark Lorenze Torregoza,Alexander C. Abad,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965162419,Bryan Leonard O David,Princess Mae D Macatuno,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965162419,Bryan Leonard O David,Monika Louize C Valdez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965162419,Bryan Leonard O David,Ron Denzel N Yau,De La Salle University,De La Salle University,international,2016
@@ -4811,10 +4811,10 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84965104105,Adrian Neil M Surposa,Reggie C. Gustilo,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Robert Kerwin C. Billones,Elmer P. Dadios,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Robert Kerwin C. Billones,Melvin K. Cabatuan,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Robert Kerwin C. Billones,Laurence Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Robert Kerwin C. Billones,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Robert Kerwin C. Billones,Reagan L. Galvez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Robert Kerwin C. Billones,Jose Santos R. Carandang VI,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Robert Kerwin C. Billones,Eric Camilo Punzalan,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Robert Kerwin C. Billones,Eric Camilo R. Punzalan,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Robert Kerwin C. Billones,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Robert Kerwin C. Billones,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Robert Kerwin C. Billones,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
@@ -4823,10 +4823,10 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84965117333,Robert Kerwin C. Billones,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Robert Kerwin C. Billones,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Elmer P. Dadios,Melvin K. Cabatuan,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Elmer P. Dadios,Laurence Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Elmer P. Dadios,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Elmer P. Dadios,Reagan L. Galvez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Elmer P. Dadios,Jose Santos R. Carandang VI,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Elmer P. Dadios,Eric Camilo Punzalan,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Elmer P. Dadios,Eric Camilo R. Punzalan,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Elmer P. Dadios,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Elmer P. Dadios,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Elmer P. Dadios,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
@@ -4834,10 +4834,10 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84965117333,Elmer P. Dadios,Balintawak Sison-Gareza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Elmer P. Dadios,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Elmer P. Dadios,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Melvin K. Cabatuan,Laurence Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Melvin K. Cabatuan,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Melvin K. Cabatuan,Reagan L. Galvez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Melvin K. Cabatuan,Jose Santos R. Carandang VI,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Melvin K. Cabatuan,Eric Camilo Punzalan,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Melvin K. Cabatuan,Eric Camilo R. Punzalan,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Melvin K. Cabatuan,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Melvin K. Cabatuan,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Melvin K. Cabatuan,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
@@ -4845,18 +4845,18 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84965117333,Melvin K. Cabatuan,Balintawak Sison-Gareza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Melvin K. Cabatuan,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Melvin K. Cabatuan,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Reagan L. Galvez,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Jose Santos R. Carandang VI,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Eric Camilo Punzalan,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Romeo Teruel,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Balintawak Sison-Gareza,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Laurence Gan Lim,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Reagan L. Galvez,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Jose Santos R. Carandang VI,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Eric Camilo R. Punzalan,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Romeo Teruel,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Balintawak Sison-Gareza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Laurence A. Gan Lim,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Reagan L. Galvez,Jose Santos R. Carandang VI,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Reagan L. Galvez,Eric Camilo Punzalan,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Reagan L. Galvez,Eric Camilo R. Punzalan,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Reagan L. Galvez,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Reagan L. Galvez,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Reagan L. Galvez,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
@@ -4864,7 +4864,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84965117333,Reagan L. Galvez,Balintawak Sison-Gareza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Reagan L. Galvez,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Reagan L. Galvez,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Jose Santos R. Carandang VI,Eric Camilo Punzalan,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Jose Santos R. Carandang VI,Eric Camilo R. Punzalan,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Jose Santos R. Carandang VI,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Jose Santos R. Carandang VI,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Jose Santos R. Carandang VI,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
@@ -4872,13 +4872,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84965117333,Jose Santos R. Carandang VI,Balintawak Sison-Gareza,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Jose Santos R. Carandang VI,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Jose Santos R. Carandang VI,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Eric Camilo Punzalan,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Eric Camilo Punzalan,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Eric Camilo Punzalan,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Eric Camilo Punzalan,Romeo Teruel,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Eric Camilo Punzalan,Balintawak Sison-Gareza,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Eric Camilo Punzalan,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
-2-s2.0-84965117333,Eric Camilo Punzalan,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Eric Camilo R. Punzalan,Ma Luisa D. Enriquez,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Eric Camilo R. Punzalan,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Eric Camilo R. Punzalan,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Eric Camilo R. Punzalan,Romeo Teruel,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Eric Camilo R. Punzalan,Balintawak Sison-Gareza,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Eric Camilo R. Punzalan,Ma Ellenita Carandang,De La Salle University,De La Salle University,international,2016
+2-s2.0-84965117333,Eric Camilo R. Punzalan,Julien L. Carandang,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Ma Luisa D. Enriquez,Dennis S. Erasga,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Ma Luisa D. Enriquez,Michael Bagui Ples,De La Salle University,De La Salle University,international,2016
 2-s2.0-84965117333,Ma Luisa D. Enriquez,Romeo Teruel,De La Salle University,De La Salle University,international,2016
@@ -4967,13 +4967,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84962150436,John Anthony C. Jose,Melvin K. Cabatuan,De La Salle University,De La Salle University,international,2016
 2-s2.0-84962150436,John Anthony C. Jose,Robert Kerwin C. Billones,De La Salle University,De La Salle University,international,2016
 2-s2.0-84962150436,John Anthony C. Jose,Elmer P. Dadios,De La Salle University,De La Salle University,international,2016
-2-s2.0-84962150436,John Anthony C. Jose,Laurence Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84962150436,John Anthony C. Jose,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
 2-s2.0-84962150436,Melvin K. Cabatuan,Robert Kerwin C. Billones,De La Salle University,De La Salle University,international,2016
 2-s2.0-84962150436,Melvin K. Cabatuan,Elmer P. Dadios,De La Salle University,De La Salle University,international,2016
-2-s2.0-84962150436,Melvin K. Cabatuan,Laurence Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84962150436,Melvin K. Cabatuan,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
 2-s2.0-84962150436,Robert Kerwin C. Billones,Elmer P. Dadios,De La Salle University,De La Salle University,international,2016
-2-s2.0-84962150436,Robert Kerwin C. Billones,Laurence Gan Lim,De La Salle University,De La Salle University,international,2016
-2-s2.0-84962150436,Elmer P. Dadios,Laurence Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84962150436,Robert Kerwin C. Billones,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
+2-s2.0-84962150436,Elmer P. Dadios,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2016
 2-s2.0-84962144547,Roger Luis Uy,Nelson Marcos,De La Salle University,De La Salle University,international,2016
 2-s2.0-84962157696,Reginal Caldez,Jan Gilbert Castro,De La Salle University,De La Salle University,international,2016
 2-s2.0-84962157696,Reginal Caldez,Kelvin Richie Co,De La Salle University,De La Salle University,international,2016
@@ -5618,17 +5618,17 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84971276118,Ria Rodette G De La Cruz,John Daryl G Rosas,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,Ria Rodette G De La Cruz,Charles Vincent M Vera Cruz,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,Ria Rodette G De La Cruz,Macario O. Cordel II,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971276118,Ria Rodette G De La Cruz,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971276118,Ria Rodette G De La Cruz,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,Trizia Roby Ann C Roque,John Daryl G Rosas,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,Trizia Roby Ann C Roque,Charles Vincent M Vera Cruz,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,Trizia Roby Ann C Roque,Macario O. Cordel II,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971276118,Trizia Roby Ann C Roque,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971276118,Trizia Roby Ann C Roque,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,John Daryl G Rosas,Charles Vincent M Vera Cruz,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,John Daryl G Rosas,Macario O. Cordel II,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971276118,John Daryl G Rosas,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971276118,John Daryl G Rosas,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,Charles Vincent M Vera Cruz,Macario O. Cordel II,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971276118,Charles Vincent M Vera Cruz,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971276118,Macario O. Cordel II,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971276118,Charles Vincent M Vera Cruz,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971276118,Macario O. Cordel II,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971356845,Juan Raphael M Cornejo,Lorenzo Mari A Mapili,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971356845,Juan Raphael M Cornejo,Rigel Pesit,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971356845,Juan Raphael M Cornejo,Emmett N. Young,De La Salle University,De La Salle University,international,2015
@@ -5652,13 +5652,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84971222344,Jonathan Clark S Camacho,Anthea Marina A Co,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971222344,Jonathan Clark S Camacho,Jan Percival Sj Hao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971222344,Jonathan Clark S Camacho,Ana Carmela P Salazar,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971222344,Jonathan Clark S Camacho,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971222344,Jonathan Clark S Camacho,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971222344,Anthea Marina A Co,Jan Percival Sj Hao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971222344,Anthea Marina A Co,Ana Carmela P Salazar,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971222344,Anthea Marina A Co,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971222344,Anthea Marina A Co,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971222344,Jan Percival Sj Hao,Ana Carmela P Salazar,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971222344,Jan Percival Sj Hao,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971222344,Ana Carmela P Salazar,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971222344,Jan Percival Sj Hao,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971222344,Ana Carmela P Salazar,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84940531298,John Clifford Konwat,Roderick Yap,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971315399,Karol Paulette Constantino,Elisha Jeremy Gonzales,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971315399,Karol Paulette Constantino,Lordd Michael Lazaro,De La Salle University,De La Salle University,international,2015
@@ -5694,20 +5694,20 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84940500393,Jorge Emmanuel S Miciano,Maria Lourdes C Sayo,De La Salle University,De La Salle University,international,2015
 2-s2.0-84940502530,Rey Anthony A. Masilang,Melvin K. Cabatuan,De La Salle University,De La Salle University,international,2015
 2-s2.0-84940502530,Rey Anthony A. Masilang,Elmer P. Dadios,De La Salle University,De La Salle University,international,2015
-2-s2.0-84940502530,Rey Anthony A. Masilang,Laurence Gan Lim,De La Salle University,De La Salle University,international,2015
+2-s2.0-84940502530,Rey Anthony A. Masilang,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2015
 2-s2.0-84940502530,Melvin K. Cabatuan,Elmer P. Dadios,De La Salle University,De La Salle University,international,2015
-2-s2.0-84940502530,Melvin K. Cabatuan,Laurence Gan Lim,De La Salle University,De La Salle University,international,2015
-2-s2.0-84940502530,Elmer P. Dadios,Laurence Gan Lim,De La Salle University,De La Salle University,international,2015
+2-s2.0-84940502530,Melvin K. Cabatuan,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2015
+2-s2.0-84940502530,Elmer P. Dadios,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971225763,Kyle Mc Hale Dela Cruz,John Paul Garcia,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971225763,Kyle Mc Hale Dela Cruz,Kristine Ma Dominique F Kalaw,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971225763,John Paul Garcia,Kristine Ma Dominique F Kalaw,De La Salle University,De La Salle University,international,2015
 2-s2.0-84939181049,Macario O. Cordel II,Arnulfo P. Azcarraga,De La Salle University,De La Salle University,international,2015
 2-s2.0-84940501294,John Anthony C. Jose,Melvin K. Cabatuan,De La Salle University,De La Salle University,international,2015
 2-s2.0-84940501294,John Anthony C. Jose,Elmer P. Dadios,De La Salle University,De La Salle University,international,2015
-2-s2.0-84940501294,John Anthony C. Jose,Laurence Gan Lim,De La Salle University,De La Salle University,international,2015
+2-s2.0-84940501294,John Anthony C. Jose,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2015
 2-s2.0-84940501294,Melvin K. Cabatuan,Elmer P. Dadios,De La Salle University,De La Salle University,international,2015
-2-s2.0-84940501294,Melvin K. Cabatuan,Laurence Gan Lim,De La Salle University,De La Salle University,international,2015
-2-s2.0-84940501294,Elmer P. Dadios,Laurence Gan Lim,De La Salle University,De La Salle University,international,2015
+2-s2.0-84940501294,Melvin K. Cabatuan,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2015
+2-s2.0-84940501294,Elmer P. Dadios,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2015
 2-s2.0-84946908757,Leah Gustilo,Minie Rose C Lapinid,De La Salle University,De La Salle University,international,2015
 2-s2.0-84946908757,Leah Gustilo,Jessie S. Barrot,De La Salle University,De La Salle University,international,2015
 2-s2.0-84946908757,Leah Gustilo,Mari Karen Lebumfacil Gabinete,De La Salle University,De La Salle University,international,2015
@@ -5790,23 +5790,23 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84973659235,Carlos Anthony B Petilla,Gary Daniel G Yap,De La Salle University,De La Salle University,international,2015
 2-s2.0-84973659235,Carlos Anthony B Petilla,Nathaniel Y. Zheng,De La Salle University,De La Salle University,international,2015
 2-s2.0-84973659235,Carlos Anthony B Petilla,Patrick Laurence L Yuson,De La Salle University,De La Salle University,international,2015
-2-s2.0-84973659235,Carlos Anthony B Petilla,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84973659235,Carlos Anthony B Petilla,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84973659235,Gary Daniel G Yap,Nathaniel Y. Zheng,De La Salle University,De La Salle University,international,2015
 2-s2.0-84973659235,Gary Daniel G Yap,Patrick Laurence L Yuson,De La Salle University,De La Salle University,international,2015
-2-s2.0-84973659235,Gary Daniel G Yap,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84973659235,Gary Daniel G Yap,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84973659235,Nathaniel Y. Zheng,Patrick Laurence L Yuson,De La Salle University,De La Salle University,international,2015
-2-s2.0-84973659235,Nathaniel Y. Zheng,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
-2-s2.0-84973659235,Patrick Laurence L Yuson,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84973659235,Nathaniel Y. Zheng,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84973659235,Patrick Laurence L Yuson,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971268499,Carlos Anthony B Petilla,Gary Daniel G Yap,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971268499,Carlos Anthony B Petilla,Nathaniel Y. Zheng,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971268499,Carlos Anthony B Petilla,Patrick Laurence L Yuson,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971268499,Carlos Anthony B Petilla,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971268499,Carlos Anthony B Petilla,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971268499,Gary Daniel G Yap,Nathaniel Y. Zheng,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971268499,Gary Daniel G Yap,Patrick Laurence L Yuson,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971268499,Gary Daniel G Yap,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971268499,Gary Daniel G Yap,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971268499,Nathaniel Y. Zheng,Patrick Laurence L Yuson,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971268499,Nathaniel Y. Zheng,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
-2-s2.0-84971268499,Patrick Laurence L Yuson,Joel Paz Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971268499,Nathaniel Y. Zheng,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
+2-s2.0-84971268499,Patrick Laurence L Yuson,Joel P. Ilao,De La Salle University,De La Salle University,international,2015
 2-s2.0-84945958680,Mary Jane B Arcilla,Viana Celina T Ang,De La Salle University,De La Salle University,international,2015
 2-s2.0-84945958680,Mary Jane B Arcilla,Mikaela Nazarene Ochoa,De La Salle University,De La Salle University,international,2015
 2-s2.0-84945958680,Mary Jane B Arcilla,Christian Paulo L Padua,De La Salle University,De La Salle University,international,2015
@@ -6024,35 +6024,35 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84964076414,Carlyn Ann G. Ibañez,Fe Andrea M. Tandoc,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Carlyn Ann G. Ibañez,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Carlyn Ann G. Ibañez,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964076414,Carlyn Ann G. Ibañez,Nathaniel C. Batayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
+2-s2.0-84964076414,Carlyn Ann G. Ibañez,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Enrico Camero Paringit,Reginald Jay L. Argamosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Enrico Camero Paringit,Nancy A. Dimayacyac,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Enrico Camero Paringit,Regine Anne G. Faelga,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Enrico Camero Paringit,Fe Andrea M. Tandoc,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Enrico Camero Paringit,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Enrico Camero Paringit,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964076414,Enrico Camero Paringit,Nathaniel C. Batayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
+2-s2.0-84964076414,Enrico Camero Paringit,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Reginald Jay L. Argamosa,Nancy A. Dimayacyac,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Reginald Jay L. Argamosa,Regine Anne G. Faelga,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Reginald Jay L. Argamosa,Fe Andrea M. Tandoc,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Reginald Jay L. Argamosa,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Reginald Jay L. Argamosa,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964076414,Reginald Jay L. Argamosa,Nathaniel C. Batayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
+2-s2.0-84964076414,Reginald Jay L. Argamosa,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Nancy A. Dimayacyac,Regine Anne G. Faelga,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Nancy A. Dimayacyac,Fe Andrea M. Tandoc,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Nancy A. Dimayacyac,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Nancy A. Dimayacyac,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964076414,Nancy A. Dimayacyac,Nathaniel C. Batayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
+2-s2.0-84964076414,Nancy A. Dimayacyac,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Regine Anne G. Faelga,Fe Andrea M. Tandoc,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Regine Anne G. Faelga,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Regine Anne G. Faelga,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964076414,Regine Anne G. Faelga,Nathaniel C. Batayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
+2-s2.0-84964076414,Regine Anne G. Faelga,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Fe Andrea M. Tandoc,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Fe Andrea M. Tandoc,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964076414,Fe Andrea M. Tandoc,Nathaniel C. Batayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
+2-s2.0-84964076414,Fe Andrea M. Tandoc,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964076414,Mark Anthony V. Posilero,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964076414,Mark Anthony V. Posilero,Nathaniel C. Batayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964076414,Gio P. Zaragosa,Nathaniel C. Batayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
+2-s2.0-84964076414,Mark Anthony V. Posilero,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
+2-s2.0-84964076414,Gio P. Zaragosa,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964059132,Francesca Llanes,Peter Khallil Ferrer,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964059132,Francesca Llanes,Romer Gacusan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964059132,Francesca Llanes,Victoriano Realino,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
@@ -6208,7 +6208,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84988222604,Renann G. Baldovino,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
 2-s2.0-84988222493,Francisco B. Culibrina,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
 2-s2.0-84988254387,Armyn C. Sy,Nilo T. Bugtai,De La Salle University,De La Salle University,international,2014
-2-s2.0-84988246875,Mark Lorenze D R Torregoza,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
+2-s2.0-84988246875,Mark Lorenze Torregoza,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
 2-s2.0-84988292049,Brian Kieffer G. Mara,Brian Christopher C. Mercado,De La Salle University,De La Salle University,international,2014
 2-s2.0-84988292049,Brian Kieffer G. Mara,Luigi Andrew B. Mercado,De La Salle University,De La Salle University,international,2014
 2-s2.0-84988292049,Brian Kieffer G. Mara,Jose Miguel G. Pascual,De La Salle University,De La Salle University,international,2014
@@ -6369,18 +6369,18 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84988241462,Aristotle T. Ubando,Alvin B. Culaba,De La Salle University,De La Salle University,international,2014
 2-s2.0-84906902985,Federico Ang,Rowena Cristina L. Guevara,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Federico Ang,Rhandley D. Cajote,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
-2-s2.0-84906902985,Federico Ang,Joel Paz Ilao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
+2-s2.0-84906902985,Federico Ang,Joel P. Ilao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Federico Ang,Michael Gringo Angelo Bayona,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Federico Ang,Ann Franchesca B. Laguna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Rowena Cristina L. Guevara,Rhandley D. Cajote,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
-2-s2.0-84906902985,Rowena Cristina L. Guevara,Joel Paz Ilao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
+2-s2.0-84906902985,Rowena Cristina L. Guevara,Joel P. Ilao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Rowena Cristina L. Guevara,Michael Gringo Angelo Bayona,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Rowena Cristina L. Guevara,Ann Franchesca B. Laguna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
-2-s2.0-84906902985,Rhandley D. Cajote,Joel Paz Ilao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
+2-s2.0-84906902985,Rhandley D. Cajote,Joel P. Ilao,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Rhandley D. Cajote,Michael Gringo Angelo Bayona,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Rhandley D. Cajote,Ann Franchesca B. Laguna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
-2-s2.0-84906902985,Joel Paz Ilao,Michael Gringo Angelo Bayona,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
-2-s2.0-84906902985,Joel Paz Ilao,Ann Franchesca B. Laguna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
+2-s2.0-84906902985,Joel P. Ilao,Michael Gringo Angelo Bayona,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
+2-s2.0-84906902985,Joel P. Ilao,Ann Franchesca B. Laguna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906902985,Michael Gringo Angelo Bayona,Ann Franchesca B. Laguna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906736252,Justin De Los Reyes,Avery Nigel Rodriguez,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906736252,Justin De Los Reyes,Erwin Dennis Umali,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
@@ -6462,13 +6462,13 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84906724402,Geoffrey A. Solano,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84906724402,Jhoirene B. Clemente,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2014
 2-s2.0-84905858500,Melvin K. Cabatuan,Rey Anthony A. Masilang,De La Salle University,De La Salle University,international,2014
-2-s2.0-84905858500,Melvin K. Cabatuan,Laurence Gan Lim,De La Salle University,De La Salle University,international,2014
+2-s2.0-84905858500,Melvin K. Cabatuan,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2014
 2-s2.0-84905858500,Melvin K. Cabatuan,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
-2-s2.0-84905858500,Rey Anthony A. Masilang,Laurence Gan Lim,De La Salle University,De La Salle University,international,2014
+2-s2.0-84905858500,Rey Anthony A. Masilang,Laurence A. Gan Lim,De La Salle University,De La Salle University,international,2014
 2-s2.0-84905858500,Rey Anthony A. Masilang,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
-2-s2.0-84905858500,Laurence Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
+2-s2.0-84905858500,Laurence A. Gan Lim,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
 2-s2.0-84911978124,Argel A. Bandala,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
-2-s2.0-84988287294,Nicco Nocon,Joel Paz Ilao,De La Salle University,De La Salle University,international,2014
+2-s2.0-84988287294,Nicco Nocon,Joel P. Ilao,De La Salle University,De La Salle University,international,2014
 2-s2.0-84911952856,Argel A. Bandala,Elmer P. Dadios,De La Salle University,De La Salle University,international,2014
 2-s2.0-84908472948,Arnulfo P. Azcarraga,Paolo Tensuan,De La Salle University,De La Salle University,international,2014
 2-s2.0-84988234125,Chit Wityi Oo,Masahiro Shioji,De La Salle University,De La Salle University,international,2014
