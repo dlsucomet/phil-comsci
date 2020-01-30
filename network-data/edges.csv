@@ -31,18 +31,18 @@ paperID,author1,author2
 9,Christian Terrence Esguerra,Conrado R. Ruiz Jr
 10,Almie Carajay,Jorge Gil Angeles
 10,Almie Carajay,Rocky Marcelino
-10,Almie Carajay,Maria Art Antonette Clari​ñ​o
+10,Almie Carajay,Maria Art Antonette Clariño
 10,Almie Carajay,Katrina Joy Abriol-Santos
 10,Almie Carajay,Jaime Samaniego
 10,Jorge Gil Angeles,Rocky Marcelino
-10,Jorge Gil Angeles,Maria Art Antonette Clari​ñ​o
+10,Jorge Gil Angeles,Maria Art Antonette Clariño
 10,Jorge Gil Angeles,Katrina Joy Abriol-Santos
 10,Jorge Gil Angeles,Jaime Samaniego
-10,Rocky Marcelino,Maria Art Antonette Clari​ñ​o
+10,Rocky Marcelino,Maria Art Antonette Clariño
 10,Rocky Marcelino,Katrina Joy Abriol-Santos
 10,Rocky Marcelino,Jaime Samaniego
-10,Maria Art Antonette Clari​ñ​o,Katrina Joy Abriol-Santos
-10,Maria Art Antonette Clari​ñ​o,Jaime Samaniego
+10,Maria Art Antonette Clariño,Katrina Joy Abriol-Santos
+10,Maria Art Antonette Clariño,Jaime Samaniego
 10,Katrina Joy Abriol-Santos,Jaime Samaniego
 11,Jayrah Bena E. Riñon,Renier G. Mendoza
 11,Jayrah Bena E. Riñon,Victoria May Paguio Mendoza
@@ -109,7 +109,7 @@ paperID,author1,author2
 28,Kristine Mae M. Adlaon,Judith J. Azcarraga
 29,Neil Patrick Del Gallego,Remedios de Dios Bulos
 30,Christine Lourrine S. Tablatin,Ma. Mercedes T. Rodrigo
-31,Joanna Pauline Rivera,Clement Ong
+31,Joanna Pauline Rivera,Clement Y. Ong
 32,Berwin Jarret T. Yu,Richard Bryann L. Chua
 33,Irene Therese Bermejo,Jan Nicole Domingo
 33,Irene Therese Bermejo,Dion Alfonso Velasco
@@ -395,14 +395,14 @@ paperID,author1,author2
 94,Chiara Veronica D. Señires,Andrei D. Coronel
 95,Nathalie Rose Lim-Cheng,Emmanuel Asuncion Jr.
 95,Nathalie Rose Lim-Cheng,Aaron Jan Baldomar
-95,Nathalie Rose Lim-Cheng,William James Custodio
+95,Nathalie Rose Lim-Cheng,William James Custodio
 95,Nathalie Rose Lim-Cheng,Yun Sup Lee
 95,Emmanuel Asuncion Jr.,Aaron Jan Baldomar
-95,Emmanuel Asuncion Jr.,William James Custodio
+95,Emmanuel Asuncion Jr.,William James Custodio
 95,Emmanuel Asuncion Jr.,Yun Sup Lee
-95,Aaron Jan Baldomar,William James Custodio
+95,Aaron Jan Baldomar,William James Custodio
 95,Aaron Jan Baldomar,Yun Sup Lee
-95,William James Custodio,Yun Sup Lee
+95,William James Custodio,Yun Sup Lee
 97,Ricardo Q. Camungao,Bobby D. Gerardo
 97,Ricardo Q. Camungao,Bartolome T. Tanguilig III
 97,Bobby D. Gerardo,Bartolome T. Tanguilig III
@@ -434,21 +434,21 @@ paperID,author1,author2
 99,John Matthew Villaflores,Henry N. Adorna
 99,Francis George C. Cabarle,Henry N. Adorna
 100,Charibeth Cheng,Louie Anson Ng
-101,Lawrence Miguel Antonio,Cecil Jose Delfinado
-101,Lawrence Miguel Antonio,Francis Jon Olaso
-101,Lawrence Miguel Antonio,Joseph Ordillano
-101,Lawrence Miguel Antonio,Novelle Anne Sinco
-101,Lawrence Miguel Antonio,Warren Adam Sto. Tomas
-101,Cecil Jose Delfinado,Francis Jon Olaso
-101,Cecil Jose Delfinado,Joseph Ordillano
-101,Cecil Jose Delfinado,Novelle Anne Sinco
-101,Cecil Jose Delfinado,Warren Adam Sto. Tomas
-101,Francis Jon Olaso,Joseph Ordillano
-101,Francis Jon Olaso,Novelle Anne Sinco
-101,Francis Jon Olaso,Warren Adam Sto. Tomas
-101,Joseph Ordillano,Novelle Anne Sinco
-101,Joseph Ordillano,Warren Adam Sto. Tomas
-101,Novelle Anne Sinco,Warren Adam Sto. Tomas
+101,Lawrence Miguel Antonio,Cecil Jose Delfinado
+101,Lawrence Miguel Antonio,Francis Jon Olaso
+101,Lawrence Miguel Antonio,Joseph Ordillano
+101,Lawrence Miguel Antonio,Novelle Anne Sinco
+101,Lawrence Miguel Antonio,Warren Adam Sto. Tomas
+101,Cecil Jose Delfinado,Francis Jon Olaso
+101,Cecil Jose Delfinado,Joseph Ordillano
+101,Cecil Jose Delfinado,Novelle Anne Sinco
+101,Cecil Jose Delfinado,Warren Adam Sto. Tomas
+101,Francis Jon Olaso,Joseph Ordillano
+101,Francis Jon Olaso,Novelle Anne Sinco
+101,Francis Jon Olaso,Warren Adam Sto. Tomas
+101,Joseph Ordillano,Novelle Anne Sinco
+101,Joseph Ordillano,Warren Adam Sto. Tomas
+101,Novelle Anne Sinco,Warren Adam Sto. Tomas
 102,Danny C. Cheng,Nathalie Rose Lim-Cheng
 102,Danny C. Cheng,Roberto Legaspi
 102,Nathalie Rose Lim-Cheng,Roberto Legaspi
@@ -467,13 +467,13 @@ paperID,author1,author2
 106,Carlo Adriano,Raphael Bihis
 106,Carlo Adriano,Jaimie Bringas
 106,Carlo Adriano,Charisse Hong
-106,Carlo Adriano,Ann Franchesca Laguna
+106,Carlo Adriano,Ann Franchesca B. Laguna
 106,Raphael Bihis,Jaimie Bringas
 106,Raphael Bihis,Charisse Hong
-106,Raphael Bihis,Ann Franchesca Laguna
+106,Raphael Bihis,Ann Franchesca B. Laguna
 106,Jaimie Bringas,Charisse Hong
-106,Jaimie Bringas,Ann Franchesca Laguna
-106,Charisse Hong,Ann Franchesca Laguna
+106,Jaimie Bringas,Ann Franchesca B. Laguna
+106,Charisse Hong,Ann Franchesca B. Laguna
 107,Katrina B. Gapuz,Ephraim D. Mendoza
 107,Katrina B. Gapuz,Richelle Ann B. Juayong
 107,Katrina B. Gapuz,Nestine Hope S. Hernandez
@@ -526,12 +526,12 @@ paperID,author1,author2
 123,Rex P. Bringula,Roselle S. Basa
 123,Rex P. Bringula,Cecilio Dela Cruz
 123,Roselle S. Basa,Cecilio Dela Cruz
-124,Emmanuel Jon A. Magdaluyo,Miguel Paolo A. Maglaque
-124,Emmanuel Jon A. Magdaluyo,Geronimo Miguel M. Mantes
-124,Emmanuel Jon A. Magdaluyo,Andrei D. Coronel
-124,Miguel Paolo A. Maglaque,Geronimo Miguel M. Mantes
-124,Miguel Paolo A. Maglaque,Andrei D. Coronel
-124,Geronimo Miguel M. Mantes,Andrei D. Coronel
+124,Emmanuel Jon A. Magdaluyo,Miguel Paolo A. Maglaque
+124,Emmanuel Jon A. Magdaluyo,Geronimo Miguel M. Mantes
+124,Emmanuel Jon A. Magdaluyo,Andrei D. Coronel
+124,Miguel Paolo A. Maglaque,Geronimo Miguel M. Mantes
+124,Miguel Paolo A. Maglaque,Andrei D. Coronel
+124,Geronimo Miguel M. Mantes,Andrei D. Coronel
 125,Earl Jay F. Ledesma,Marie Yvette B. de Robles
 126,Emilio Angelo D. Alindogan,Jerry Y. Hom
 126,Emilio Angelo D. Alindogan,Febrev F. Dela Cruz
@@ -551,13 +551,13 @@ paperID,author1,author2
 127,Nathaniel Oco,Allain Paolo Hiya
 127,Nathaniel Oco,Sony Renz Manalo
 127,Nathaniel Oco,Manolito Octaviano Jr.
-127,Nathaniel Oco,Ryan Christopher Pinca
+127,Nathaniel Oco,Ryan Christopher Pinca
 127,Allain Paolo Hiya,Sony Renz Manalo
 127,Allain Paolo Hiya,Manolito Octaviano Jr.
-127,Allain Paolo Hiya,Ryan Christopher Pinca
+127,Allain Paolo Hiya,Ryan Christopher Pinca
 127,Sony Renz Manalo,Manolito Octaviano Jr.
-127,Sony Renz Manalo,Ryan Christopher Pinca
-127,Manolito Octaviano Jr.,Ryan Christopher Pinca
+127,Sony Renz Manalo,Ryan Christopher Pinca
+127,Manolito Octaviano Jr.,Ryan Christopher Pinca
 128,Reinald Kim Amplayo,Jason Occidental
 129,Krystel Arriane A. Cortez,Katrina Joy H. Magno
 130,Aaron Spencer K. Ngo,John Darill B. Desingco
@@ -660,7 +660,7 @@ paperID,author1,author2
 150,Nikkol John Morales,John Lawrence Peñafiel
 150,Nikkol John Morales,Jeno Paolo Rigor
 150,John Lawrence Peñafiel,Jeno Paolo Rigor
-151,Thomas James Tiam-Lee,Solomon See
+151,Thomas James Z. Tiam-Lee,Solomon See
 152,Jayzon Ty,Ma. Mercedes T. Rodrigo
 152,Jayzon Ty,Marc Ericson Santos
 152,Ma. Mercedes T. Rodrigo,Marc Ericson Santos
@@ -670,7 +670,7 @@ paperID,author1,author2
 153,Regine Danica Regino,Christine Faith Tango
 153,Regine Danica Regino,Andrei D. Coronel
 153,Christine Faith Tango,Andrei D. Coronel
-154,Paolo Tensuan,Arnulfo Azcarraga
+154,Paolo Tensuan,Arnulfo P. Azcarraga
 155,Nathaniel Oco,Leif Romeritch Syliongka
 155,Nathaniel Oco,Rachel Edita Roxas
 155,Nathaniel Oco,Joel P. Ilao
@@ -704,18 +704,18 @@ paperID,author1,author2
 159,Anna Janeri B. Ongcol,Bryan Adam B. Tan
 160,Maritoni Escalona,Ricco Laxamana
 160,Maritoni Escalona,Kevin Pagtakhan
-160,Maritoni Escalona,Edward Tighe
+160,Maritoni Escalona,Edward P. Tighe
 160,Maritoni Escalona,Merlin Teodosia C. Suarez
 160,Maritoni Escalona,Rhia Trogo
 160,Ricco Laxamana,Kevin Pagtakhan
-160,Ricco Laxamana,Edward Tighe
+160,Ricco Laxamana,Edward P. Tighe
 160,Ricco Laxamana,Merlin Teodosia C. Suarez
 160,Ricco Laxamana,Rhia Trogo
-160,Kevin Pagtakhan,Edward Tighe
+160,Kevin Pagtakhan,Edward P. Tighe
 160,Kevin Pagtakhan,Merlin Teodosia C. Suarez
 160,Kevin Pagtakhan,Rhia Trogo
-160,Edward Tighe,Merlin Teodosia C. Suarez
-160,Edward Tighe,Rhia Trogo
+160,Edward P. Tighe,Merlin Teodosia C. Suarez
+160,Edward P. Tighe,Rhia Trogo
 160,Merlin Teodosia C. Suarez,Rhia Trogo
 161,John Roy Geralde,Kardi Teknomo
 162,Joshua Castañeda,Elijah Joshua Cayabyab
@@ -745,12 +745,12 @@ paperID,author1,author2
 168,Jazmine Paola B. Barroga,Miguel Paolo M. Quijano
 168,Roland Joseph M. Gudani,Miguel Paolo M. Quijano
 169,Francis Jomer Gallardo,Armina Francisco
-170,Geoffrey Solano,Bianca Camille Silmaro
-170,Geoffrey Solano,Sun Arthur Ojeda
-170,Geoffrey Solano,Jaime DL Caro
+170,Geoffrey A. Solano,Bianca Camille Silmaro
+170,Geoffrey A. Solano,Sun Arthur Ojeda
+170,Geoffrey A. Solano,Jaime D.L. Caro
 170,Bianca Camille Silmaro,Sun Arthur Ojeda
-170,Bianca Camille Silmaro,Jaime DL Caro
-170,Sun Arthur Ojeda,Jaime DL Caro
+170,Bianca Camille Silmaro,Jaime D.L. Caro
+170,Sun Arthur Ojeda,Jaime D.L. Caro
 171,Nicole Marie T. Del Rosario,Marrick C. Neri
 172,Nerio Pascual,Ariel Sison
 172,Nerio Pascual,Bobby Gerardo
@@ -865,8 +865,8 @@ paperID,author1,author2
 188,Nathaniel Laxina,Maria Art Antonette Clariño
 188,Nathaniel Laxina,Rizza Mercado
 188,Maria Art Antonette Clariño,Rizza Mercado
-189,Manolito Octaviano Jr,Nathaniel Oco
-189,Manolito Octaviano Jr,Allan Borra
+189,Manolito Octaviano Jr.,Nathaniel Oco
+189,Manolito Octaviano Jr.,Allan Borra
 189,Nathaniel Oco,Allan Borra
 190,Diane Manzano,Samantha Jade Sadural
 191,Jeffrey A. Aborot,Henry N. Adorna
@@ -885,11 +885,11 @@ paperID,author1,author2
 193,Aimee B. Rarugal,Guido David
 193,Aimee B. Rarugal,Giovanni A. Tapang
 193,Guido David,Giovanni A. Tapang
-195,Jaime DL Caro,Rommel P. Feria
-195,Jaime DL Caro,Ariel S. Betan
-195,Jaime DL Caro,Annette G. Lagman
-195,Jaime DL Caro,Rowena C. Solamo
-195,Jaime DL Caro,Paulo Noel G. Paje
+195,Jaime D.L. Caro,Rommel P. Feria
+195,Jaime D.L. Caro,Ariel S. Betan
+195,Jaime D.L. Caro,Annette G. Lagman
+195,Jaime D.L. Caro,Rowena C. Solamo
+195,Jaime D.L. Caro,Paulo Noel G. Paje
 195,Rommel P. Feria,Ariel S. Betan
 195,Rommel P. Feria,Annette G. Lagman
 195,Rommel P. Feria,Rowena C. Solamo
