@@ -1,4 +1,4 @@
-﻿name,dept,affiliation
+name,dept,affiliation
 Maureen M. Villamor,Institute of Computing,University of Southeastern Philippines
 Ma. Mercedes T. Rodrigo,Department of Information Systems and Computer Science,Ateneo de Manila University
 Deion C. Menor,Department of Information Systems and Computer Science,Ateneo de Manila University
@@ -12,14 +12,14 @@ Joshua Dizon,,Philippine Genome Center
 Aldrich Ellis C. Asuncion,Department of Information Systems and Computer Science,Ateneo de Manila University
 Brian Christopher T. Guadalupe,Department of Information Systems and Computer Science,Ateneo de Manila University
 William Emmanuel S. Yu,Department of Information Systems and Computer Science,Ateneo de Manila University
-Proceso Fernandez Jr,Department of Information Systems and Computer Science,Ateneo de Manila University
+Proceso Fernandez Jr.,Department of Information Systems and Computer Science,Ateneo de Manila University
 Clarisa Albarillo,College of Computer Science,Don Mariano Marcos Memorial State University
-Ligaya Leah Figueroa,,University of the Philippines - Diliman
+Ligaya Leah Lara-Figueroa,,University of the Philippines - Diliman
 Ara Abigail Ambita,,University of the Philippines - Diliman
 Harvey Ian Arbas,,University of the Philippines - Diliman
-Ligaya Leah Figueroa,Department of Computer Science,University of the Philippines - Diliman
+Ligaya Leah Lara-Figueroa,Department of Computer Science,University of the Philippines - Diliman
 Charles Kevin Verdad,Department of Computer Science,University of the Philippines - Diliman
-Maria Isabel Saludares,Department of Computer Science,University of the Philippines - Diliman
+Maria Isabel S. Saludares,Department of Computer Science,University of the Philippines - Diliman
 Michelle P. Banawan,,Ateneo de Davao University
 Kennethe Ann Q. Mina,,Ateneo de Davao University
 Jasper Haven S. Briones,,Ateneo de Davao University
@@ -29,7 +29,7 @@ Conrado R. Ruiz Jr,Software Technology Department,De La Salle University
 Christian Terrence Esguerra,Software Technology Department,De La Salle University
 Jaime Samaniego,Institute of Computer Science,University of the Philippines - Los Ba​ños
 Katrina Joy Abriol-Santos,Institute of Computer Science,University of the Philippines - Los Ba​ños
-Maria Art Antonette Clari​ñ​o,Institute of Computer Science,University of the Philippines - Los Ba​ños
+Maria Art Antonette Clariño,Institute of Computer Science,University of the Philippines - Los Ba​ños
 Rocky Marcelino,Institute of Statistics,University of the Philippines - Los Ba​ños
 Jorge Gil Angeles,"Philippine Genome Center - Program for Agriculture, Livestock, Forestry, Fisheries",University of the Philippines - Los Ba​ños
 Almie Carajay,Institute of Computer Science,University of the Philippines - Los Ba​ños
@@ -62,7 +62,7 @@ Patricia Nicole Uy,Department of Information Systems and Computer Science,Ateneo
 Justin San Pedro,Department of Information Systems and Computer Science,Ateneo de Manila University
 Jose Mirabueno,Department of Information Systems and Computer Science,Ateneo de Manila University
 Christian Chan,Department of Information Systems and Computer Science,Ateneo de Manila University
-Raymund Sison,Software Technology Department,De La Salle University
+Raymund C. Sison,Software Technology Department,De La Salle University
 Neila Paglinawan,Department of Computer Science,University of the Philippines - Diliman
 Mygel Andrei Martija,Department of Computer Science,University of the Philippines - Diliman
 John Paul S. Guzman,Software Technology Department,De La Salle University
@@ -83,7 +83,7 @@ Judith J. Azcarraga,Software Technology Department,De La Salle University
 Remedios de Dios Bulos,Software Technology Department,De La Salle University
 Christine Lourrine S. Tablatin,Department of Information Systems and Computer Science,Ateneo de Manila University
 Joanna Pauline Rivera,Software Technology Department,De La Salle University
-Clement Ong,Computer Technology Department,De La Salle University
+Clement Y. Ong,Computer Technology Department,De La Salle University
 Richard Bryann L. Chua,Department of Physical Sciences and Mathematics,University of the Philippines - Manila
 Berwin Jarret T. Yu,Department of Physical Sciences and Mathematics,University of the Philippines - Manila
 Irene Therese Bermejo,Department of Information Systems and Computer Science,Ateneo de Manila University
@@ -105,14 +105,12 @@ Patricia Anne Eugenio,Computer Technology Department,De La Salle University
 Gregory Cu,Computer Technology Department,De La Salle University
 Fritz Kevin Flores,Computer Technology Department,De La Salle University
 Marco C. Lucena,Department of Information Systems and Computer Science,Ateneo de Manila University
-John Paul C. Vergara,Department of Information Systems and Computer Science,Ateneo de Manila University
 Ren Tristan dela Cruz,Department of Computer Science,University of the Philippines - Diliman
 Dionne Peter P. Cailipan,Department of Computer Science,University of the Philippines - Diliman
 Jym Paul A. Carandang,Department of Computer Science,University of the Philippines - Diliman
 Francis George C. Cabarle,Department of Computer Science,University of the Philippines - Diliman
-Kelvin Buño,Department of Computer Science,University of the Philippines - Diliman
+Kelvin C. Buño,Department of Computer Science,University of the Philippines - Diliman
 Nestine Hope S. Hernandez,Department of Computer Science,University of the Philippines - Diliman
-Henry N. Adorna,Department of Computer Science,University of the Philippines - Diliman
 John Ultra,,University of the Philippines - Visayas Tacloban College
 Shenamae Borja,,"Advanced World Solutions, Inc."
 Laurenz Adriel Tolentino,Software Technology Department,De La Salle University
@@ -120,15 +118,13 @@ Allan Borra,Software Technology Department,De La Salle University
 Marrick C. Neri,Institute of Mathematics,University of the Philippines - Diliman
 Maryene B. Sy Piecco,Division of Physical Sciences and Mathematics,University of the Philippines - Visayas
 Mary Grace Malana,Software Technology Department,De La Salle University
-Laurenz Adriel Tolentino,Software Technology Department,De La Salle University
 Roger Luis Uy,Computer Technology Department,De La Salle University
 Amiel John B. Atienza,,New Era University
 Art Maco T. Del Rosario,,New Era University
 John Carlo R. Gonzales,,New Era University
-Marc Angelo P. Martinez,,New Era University
 Carlo Marco S. Ortiz,,New Era University
 Macliing Gabriel Q. Aydinan,Department of Computer Science,University of the Philippines - Diliman
-"Prospero C. Naval, Jr.",Department of Computer Science,University of the Philippines - Diliman
+Prospero C. Naval Jr.,Department of Computer Science,University of the Philippines - Diliman
 John Eric Z. Sy,Department of Computer Science,University of the Philippines - Diliman
 Nikko T. Borja,Software Technology Department,De La Salle University
 Ken V. Hosoya,Software Technology Department,De La Salle University
@@ -175,7 +171,6 @@ Ruy Josel Verano,,Asia Pacific College
 Jan Michael Bernardo,,Asia Pacific College
 Camille C. Diez,Department of Information Systems and Computer Science,Ateneo de Manila University
 Enrico M. Tria,Department of Information Systems and Computer Science,Ateneo de Manila University
-John Paul C. Vergara,Department of Information Systems and Computer Science,Ateneo de Manila University
 Andrew Laron,Software Technology Department,De La Salle University
 Daniel Stanley Tan,Software Technology Department,De La Salle University
 Nathalie Rose Lim-Cheng,Software Technology Department,De La Salle University
@@ -240,7 +235,6 @@ Javier Teodoro Flavier,Department of Information Systems and Computer Science,At
 Eliezer A. Albacea,Institute of Computer Science,University of the Philippines - Los Baños
 Maricor N. Soriano,National Institute of Physics,University of the Philippines - Diliman
 Val Randolf M. Madrid,Institute of Computer Science,University of the Philippines - Los Baños
-Maria Art Antonette Clariño,Institute of Computer Science,University of the Philippines - Los Baños
 Nicole Marie T. Del Rosario,Institute of Mathematics,University of the Philippines - Diliman
 Jacob Chan,Department of Information Systems and Computer Science,Ateneo de Manila University
 Paolo Gonzalez,Department of Information Systems and Computer Science,Ateneo de Manila University
@@ -266,15 +260,14 @@ Ricardo Q. Camungao,,Technological Institute of the Philippines
 Paul John O. Argarin,Department of Computer Science,University of the Philippines - Diliman
 Neil Jonathan A. Joaquin,Department of Computer Science,University of the Philippines - Diliman
 Richelle Ann B. Juayong,Department of Computer Science,University of the Philippines - Diliman
-Nestine Hope S. Hernandez,Department of Computer Science,University of the Philippines - Diliman
-John Matthew Villaflores,Department of Computer Science,University of the Philippines - Diliman
+John Matthew B. Villaflores,Department of Computer Science,University of the Philippines - Diliman
 Louie Anson Ng,Software Technology Department,De La Salle University
-Lawrence Miguel Antonio,Institute of Information and Computing Sciences,University of Santo Tomas
-Cecil Jose Delfinado,Institute of Information and Computing Sciences,University of Santo Tomas
-Francis Jon Olaso,Institute of Information and Computing Sciences,University of Santo Tomas
-Joseph Ordillano,Institute of Information and Computing Sciences,University of Santo Tomas
-Novelle Anne Sinco,Institute of Information and Computing Sciences,University of Santo Tomas
-Warren Adam Sto. Tomas,Institute of Information and Computing Sciences,University of Santo Tomas
+Lawrence Miguel Antonio,Institute of Information and Computing Sciences,University of Santo Tomas
+Cecil Jose Delfinado,Institute of Information and Computing Sciences,University of Santo Tomas
+Francis Jon Olaso,Institute of Information and Computing Sciences,University of Santo Tomas
+Joseph Ordillano,Institute of Information and Computing Sciences,University of Santo Tomas
+Novelle Anne Sinco,Institute of Information and Computing Sciences,University of Santo Tomas
+Warren Adam Sto. Tomas,Institute of Information and Computing Sciences,University of Santo Tomas
 Roberto Legaspi,Transdisciplinary Research Integration Center,The Institute of Statistical Mathematics
 Kok-Lim Low,School of Computing,National University of Singapore
 Sang N. Le,Department of Computer Science,Digipen Institute of Technology
@@ -288,11 +281,9 @@ Carlo Adriano,Computer Technology Department,De La Salle University
 Raphael Bihis,Computer Technology Department,De La Salle University
 Jaimie Bringas,Computer Technology Department,De La Salle University
 Charisse Hong,Computer Technology Department,De La Salle University
-Ann Franchesca Laguna,Computer Technology Department,De La Salle University
+Ann Franchesca B. Laguna,Computer Technology Department,De La Salle University
 Katrina B. Gapuz,Department of Computer Science,University of the Philippines - Diliman
 Ephraim D. Mendoza,Department of Computer Science,University of the Philippines - Diliman
-Richelle Ann B. Juayong,Department of Computer Science,University of the Philippines - Diliman
-Nestine Hope S. Hernandez,Department of Computer Science,University of the Philippines - Diliman
 Jordan Aiko Deja,Software Technology Department,De La Salle University
 Leif Romeritch Syliongka,College of Computer Studies,National University
 Xavier Jeaspher Eser,Department of Information Systems and Computer Science,Ateneo de Manila University
@@ -319,9 +310,9 @@ Jason Occidental,,Ateneo de Davao University
 Rex P. Bringula,,University of the East
 Roselle S. Basa,,University of the East
 Cecilio Dela Cruz,,University of the East
-Emmanuel Jon A. Magdaluyo,Department of Information Systems and Computer Science,Ateneo de Manila University
-Miguel Paolo A. Maglaque,Department of Information Systems and Computer Science,Ateneo de Manila University
-Geronimo Miguel M. Mantes,Department of Information Systems and Computer Science,Ateneo de Manila University
+Emmanuel Jon A. Magdaluyo,Department of Information Systems and Computer Science,Ateneo de Manila University
+Miguel Paolo A. Maglaque,Department of Information Systems and Computer Science,Ateneo de Manila University
+Geronimo Miguel M. Mantes,Department of Information Systems and Computer Science,Ateneo de Manila University
 Earl Jay F. Ledesma,Institute of Computer Science,University of the Philippines - Los Baños
 Marie Yvette B. de Robles,Institute of Computer Science,University of the Philippines - Los Baños
 Emilio Angelo D. Alindogan,,Technological Institute of the Philippines
@@ -333,15 +324,14 @@ Mark Lorenz F. Eustaquio,,Technological Institute of the Philippines
 Allain Paolo Hiya,,National University
 Sony Renz Manalo,,National University
 Manolito Octaviano Jr.,,National University
-Ryan Christopher Pinca,,National University
-Reinald Kim Amplayo,,Ateneo de Davao University
+Ryan Christopher Pinca,,National University
 Krystel Arriane A. Cortez,Institute of Computer Science,University of the Philippines - Los Baños
 Katrina Joy H. Magno,Institute of Computer Science,University of the Philippines - Los Baños
 Aaron Spencer K. Ngo,Computer Technology Department,De La Salle University
 John Darill B. Desingco,Computer Technology Department,De La Salle University
 Macario O. Cordel II,Computer Technology Department,De La Salle University
 Prane Mariel B. Ong,Computer Technology Department,De La Salle University
-Eric R. Punzalan,Computer Technology Department,De La Salle University
+Eric Camilo R. Punzalan,Computer Technology Department,De La Salle University
 Joel P. Ilao,Computer Technology Department,De La Salle University
 Rachel Anne G. Concepcion,Institute of Mathematics,University of the Philippines - Diliman
 Tita R. Herradura,College of Science and Computer Studies,De La Salle University - Dasmariñas
@@ -382,17 +372,16 @@ Ma. Anne Therese Musong,,Ateneo de Davao University
 Zyra Bravo,,Ateneo de Davao University
 Fili Emerson Chua,Computer Technology Department,De La Salle University
 Jocelynn Cu,Computer Technology Department,De La Salle University
-Gregory Cu,Software Technology Department,De La Salle University
 Nikkol John Morales,Computer Technology Department,De La Salle University
 John Lawrence Peñafiel,Computer Technology Department,De La Salle University
 Jeno Paolo Rigor,Computer Technology Department,De La Salle University
-Thomas James Tiam-Lee,Software Technology Department,De La Salle University
+Thomas James Z. Tiam-Lee,Software Technology Department,De La Salle University
 Jayzon Ty,Department of Information Systems and Computer Science,Ateneo de Manila University
 Marc Ericson Santos,Graduate School of Information Science,Nara Institute of Science and Technology
 Jonathan Audric Matias,Department of Information Systems and Computer Science,Ateneo de Manila University
 Regine Danica Regino,Department of Information Systems and Computer Science,Ateneo de Manila University
 Christine Faith Tango,Department of Information Systems and Computer Science,Ateneo de Manila University
-Arnulfo Azcarraga,Software Technology Department,De La Salle University
+Arnulfo P. Azcarraga,Software Technology Department,De La Salle University
 Paolo Tensuan,Software Technology Department,De La Salle University
 Mauro Edmund Arce,Software Technology Department,De La Salle University
 Marvin Limson,Software Technology Department,De La Salle University
@@ -408,7 +397,7 @@ Bryan Adam B. Tan,Department of Computer Science,University of the Philippines -
 Maritoni Escalona,Software Technology Department,De La Salle University
 Ricco Laxamana,Software Technology Department,De La Salle University
 Kevin Pagtakhan,Software Technology Department,De La Salle University
-Edward Tighe,Software Technology Department,De La Salle University
+Edward P. Tighe,Software Technology Department,De La Salle University
 Rhia Trogo,Software Technology Department,De La Salle University
 John Roy Geralde,,Ateneo de Davao University
 Joshua Castañeda,Department of Computer Science,University of the Philippines - Diliman
@@ -431,10 +420,10 @@ Roland Joseph M. Gudani,Department of Information Systems and Computer Science,A
 Miguel Paolo M. Quijano,Department of Information Systems and Computer Science,Ateneo de Manila University
 Francis Jomer Gallardo,Department of Computer Science,University of the Philippines - Diliman
 Armina Francisco,Department of Computer Science,University of the Philippines - Diliman
-Geoffrey Solano,,University of the Philippines - Manila
+Geoffrey A. Solano,,University of the Philippines - Manila
 Bianca Camille Silmaro,,University of the Philippines - Manila
 Sun Arthur Ojeda,,University of the Philippines - Manila
-Jaime DL Caro,Department of Computer Science,University of the Philippines - Diliman
+Jaime D.L. Caro,Department of Computer Science,University of the Philippines - Diliman
 Nerio Pascual,,Technological Institute of the Philippines
 Ariel Sison,,Technological Institute of the Philippines
 Bobby Gerardo,,Western Visayas State University
@@ -447,7 +436,7 @@ David Joseph Catemprate,,Far Eastern University - Institute of Technology
 Ronald M. Pascual,Computer Technology Department,De La Salle University
 Carlos Alberto Arcenas,Department of Information Systems and Computer Science,Ateneo de Manila University
 Miguel Galace,Department of Information Systems and Computer Science,Ateneo de Manila University
-Marlene De Leon,Department of Information Systems and Computer Science,Ateneo de Manila University
+Marlene M. De Leon,Department of Information Systems and Computer Science,Ateneo de Manila University
 Jan Apolline Estrella,,Philippine Science High School
 Christian Philip Gelera,,Philippine Science High School
 Christian Quinzon,,Philippine Science High School
@@ -480,7 +469,6 @@ Allen L. Nazareno,Institute of Mathematical Sciences and Physics,University of t
 Rodolfo Raga Jr,,Jose Rizal University
 Michael Angeles,Institute of Computer Science,University of the Philippines - Los Baños
 Nathaniel Laxina,Institute of Computer Science,University of the Philippines - Los Baños
-Maria Art Antonette Clariño,Institute of Computer Science,University of the Philippines - Los Baños
 Rizza Mercado,Institute of Computer Science,University of the Philippines - Los Baños
 Diane Manzano,,University of the Philippines - Los Baños
 Samantha Jade Sadural,,University of the Philippines - Los Baños
@@ -498,9 +486,7 @@ Ariel S. Betan,,University of the Philippines - Diliman
 Annette G. Lagman,,University of the Philippines - Diliman
 Rowena C. Solamo,,University of the Philippines - Diliman
 Paulo Noel G. Paje,,University of the Philippines - Diliman
-Richelle Ann B. Juayong,Department of Computer Science,University of the Philippines - Diliman
-Kelvin C. Buno,Department of Computer Science,University of the Philippines - Diliman
-Francis George C. Cabarle,Department of Computer Science,University of the Philippines - Diliman
+Kelvin C. Buño,Department of Computer Science,University of the Philippines - Diliman
 Marjo-Anne B. Acob,Institute of Mathematical Sciences and Physics,University of the Philippines - Los Baños
 Jean O. Loyola,Institute of Mathematical Sciences and Physics,University of the Philippines - Los Baños
 Sherlyne L. Francia,Department of Computer Science,University of the Philippines - Diliman
@@ -523,3 +509,4 @@ Layton Jan M. Tee,,University of the Philippines - Diliman
 Tod Allman,,Graduate Institute of Applied Linguistics
 Stephen Beale,,University of Maryland
 Richard Denton,,Dartmouth College
+Zechariah B. Jimenez,Department of Computer Science,University of the Philippines - Diliman

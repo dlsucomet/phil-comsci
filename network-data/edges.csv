@@ -17,11 +17,11 @@ paperID,author1,author2
 3,Brian Christopher T. Guadalupe,William Emmanuel S. Yu
 4,Clarisa Albarillo,Proceso Fernandez Jr
 5,Harvey Ian Arbas,Ara Abigail Ambita
-5,Harvey Ian Arbas,Ligaya Leah Figueroa
-5,Ara Abigail Ambita,Ligaya Leah Figueroa
-6,Maria Isabel Saludares,Charles Kevin Verdad
-6,Maria Isabel Saludares,Ligaya Leah Figueroa
-6,Charles Kevin Verdad,Ligaya Leah Figueroa
+5,Harvey Ian Arbas,Ligaya Leah Lara-Figueroa
+5,Ara Abigail Ambita,Ligaya Leah Lara-Figueroa
+6,Maria Isabel S. Saludares,Charles Kevin Verdad
+6,Maria Isabel S. Saludares,Ligaya Leah Lara-Figueroa
+6,Charles Kevin Verdad,Ligaya Leah Lara-Figueroa
 7,Jasper Haven S. Briones,Kennethe Ann Q. Mina
 7,Jasper Haven S. Briones,Michelle P. Banawan
 7,Kennethe Ann Q. Mina,Michelle P. Banawan
@@ -133,15 +133,11 @@ paperID,author1,author2
 34,Albert A. Vinluan,Marc Angelo P. Martinez
 34,Jedidiah B. Constantino,Marc Angelo P. Martinez
 35,John Carlo A. Ariola,Jaymee A. Olaño
-35,John Carlo A. Ariola,Mark Arthur A. Caro
-35,John Carlo A. Ariola,III
+35,John Carlo A. Ariola,Mark Arthur A. Caro III
 35,John Carlo A. Ariola,John Sixto G. Santos
-35,Jaymee A. Olaño,Mark Arthur A. Caro
-35,Jaymee A. Olaño,III
+35,Jaymee A. Olaño,Mark Arthur A. Caro III
 35,Jaymee A. Olaño,John Sixto G. Santos
-35,Mark Arthur A. Caro,III
-35,Mark Arthur A. Caro,John Sixto G. Santos
-35,III,John Sixto G. Santos
+35,Mark Arthur A. Caro III,John Sixto G. Santos
 36,Jennifer C. Ureta,Conrado R. Ruiz Jr
 37,Patricia Anne Eugenio,Gregory Cu
 37,Patricia Anne Eugenio,Fritz Kevin Flores
@@ -150,23 +146,23 @@ paperID,author1,author2
 39,Ren Tristan dela Cruz,Dionne Peter P. Cailipan
 39,Ren Tristan dela Cruz,Jym Paul A. Carandang
 39,Ren Tristan dela Cruz,Francis George C. Cabarle
-39,Ren Tristan dela Cruz,Kelvin Buño
+39,Ren Tristan dela Cruz,Kelvin C. Buño
 39,Ren Tristan dela Cruz,Nestine Hope S. Hernandez
 39,Ren Tristan dela Cruz,Henry N. Adorna
 39,Dionne Peter P. Cailipan,Jym Paul A. Carandang
 39,Dionne Peter P. Cailipan,Francis George C. Cabarle
-39,Dionne Peter P. Cailipan,Kelvin Buño
+39,Dionne Peter P. Cailipan,Kelvin C. Buño
 39,Dionne Peter P. Cailipan,Nestine Hope S. Hernandez
 39,Dionne Peter P. Cailipan,Henry N. Adorna
 39,Jym Paul A. Carandang,Francis George C. Cabarle
-39,Jym Paul A. Carandang,Kelvin Buño
+39,Jym Paul A. Carandang,Kelvin C. Buño
 39,Jym Paul A. Carandang,Nestine Hope S. Hernandez
 39,Jym Paul A. Carandang,Henry N. Adorna
-39,Francis George C. Cabarle,Kelvin Buño
+39,Francis George C. Cabarle,Kelvin C. Buño
 39,Francis George C. Cabarle,Nestine Hope S. Hernandez
 39,Francis George C. Cabarle,Henry N. Adorna
-39,Kelvin Buño,Nestine Hope S. Hernandez
-39,Kelvin Buño,Henry N. Adorna
+39,Kelvin C. Buño,Nestine Hope S. Hernandez
+39,Kelvin C. Buño,Henry N. Adorna
 39,Nestine Hope S. Hernandez,Henry N. Adorna
 40,Shenamae Borja,John Ultra
 41,Laurenz Adriel Tolentino,Allan Borra
@@ -187,30 +183,27 @@ paperID,author1,author2
 45,Ren Tristan dela Cruz,Zechariah B. Jimenez
 45,Ren Tristan dela Cruz,Francis George C. Cabarle
 45,Ren Tristan dela Cruz,Henry N. Adorna
-45,Ren Tristan dela Cruz,Kelvin Buño
-45,Ren Tristan dela Cruz,Nestine Hope Hernandez
-45,Ren Tristan dela Cruz,Jym Paul Carandang
+45,Ren Tristan dela Cruz,Kelvin C. Buño
+45,Ren Tristan dela Cruz,Nestine Hope S. Hernandez
+45,Ren Tristan dela Cruz,Jym Paul A. Carandang
 45,Zechariah B. Jimenez,Francis George C. Cabarle
 45,Zechariah B. Jimenez,Henry N. Adorna
-45,Zechariah B. Jimenez,Kelvin Buño
-45,Zechariah B. Jimenez,Nestine Hope Hernandez
-45,Zechariah B. Jimenez,Jym Paul Carandang
+45,Zechariah B. Jimenez,Kelvin C. Buño
+45,Zechariah B. Jimenez,Nestine Hope S. Hernandez
+45,Zechariah B. Jimenez,Jym Paul A. Carandang
 45,Francis George C. Cabarle,Henry N. Adorna
-45,Francis George C. Cabarle,Kelvin Buño
-45,Francis George C. Cabarle,Nestine Hope Hernandez
-45,Francis George C. Cabarle,Jym Paul Carandang
-45,Henry N. Adorna,Kelvin Buño
-45,Henry N. Adorna,Nestine Hope Hernandez
-45,Henry N. Adorna,Jym Paul Carandang
-45,Kelvin Buño,Nestine Hope Hernandez
-45,Kelvin Buño,Jym Paul Carandang
-45,Nestine Hope Hernandez,Jym Paul Carandang
+45,Francis George C. Cabarle,Kelvin C. Buño
+45,Francis George C. Cabarle,Nestine Hope S. Hernandez
+45,Francis George C. Cabarle,Jym Paul A. Carandang
+45,Henry N. Adorna,Kelvin C. Buño
+45,Henry N. Adorna,Nestine Hope S. Hernandez
+45,Henry N. Adorna,Jym Paul A. Carandang
+45,Kelvin C. Buño,Nestine Hope S. Hernandez
+45,Kelvin C. Buño,Jym Paul A. Carandang
+45,Nestine Hope S. Hernandez,Jym Paul A. Carandang
 46,John Eric Z. Sy,Macliing Gabriel Q. Aydinan
-46,John Eric Z. Sy,Prospero C. Naval
-46,John Eric Z. Sy,Jr.
-46,Macliing Gabriel Q. Aydinan,Prospero C. Naval
-46,Macliing Gabriel Q. Aydinan,Jr.
-46,Prospero C. Naval,Jr.
+46,John Eric Z. Sy,Prospero C. Naval Jr.
+46,Macliing Gabriel Q. Aydinan,Prospero C. Naval Jr.
 47,Nikko T. Borja,Ken V. Hosoya
 47,Nikko T. Borja,Jared Luke C. Pangilinan
 47,Nikko T. Borja,Mervin Stewart C. Uy
@@ -410,28 +403,22 @@ paperID,author1,author2
 98,Paul John O. Argarin,Richelle Ann B. Juayong
 98,Paul John O. Argarin,Nestine Hope S. Hernandez
 98,Paul John O. Argarin,Henry N. Adorna
-98,Paul John O. Argarin,Francis
-98,Paul John O. Argarin,George C. Cabarle
+98,Paul John O. Argarin,Francis George C. Cabarle
 98,Neil Jonathan A. Joaquin,Richelle Ann B. Juayong
 98,Neil Jonathan A. Joaquin,Nestine Hope S. Hernandez
 98,Neil Jonathan A. Joaquin,Henry N. Adorna
-98,Neil Jonathan A. Joaquin,Francis
-98,Neil Jonathan A. Joaquin,George C. Cabarle
+98,Neil Jonathan A. Joaquin,Francis George C. Cabarle
 98,Richelle Ann B. Juayong,Nestine Hope S. Hernandez
 98,Richelle Ann B. Juayong,Henry N. Adorna
-98,Richelle Ann B. Juayong,Francis
-98,Richelle Ann B. Juayong,George C. Cabarle
+98,Richelle Ann B. Juayong,Francis George C. Cabarle
 98,Nestine Hope S. Hernandez,Henry N. Adorna
-98,Nestine Hope S. Hernandez,Francis
-98,Nestine Hope S. Hernandez,George C. Cabarle
-98,Henry N. Adorna,Francis
-98,Henry N. Adorna,George C. Cabarle
-98,Francis,George C. Cabarle
-99,Jym Paul Carandang,John Matthew Villaflores
-99,Jym Paul Carandang,Francis George C. Cabarle
-99,Jym Paul Carandang,Henry N. Adorna
-99,John Matthew Villaflores,Francis George C. Cabarle
-99,John Matthew Villaflores,Henry N. Adorna
+98,Nestine Hope S. Hernandez,Francis George C. Cabarle
+98,Henry N. Adorna,Francis George C. Cabarle
+99,Jym Paul A. Carandang,John Matthew B. Villaflores
+99,Jym Paul A. Carandang,Francis George C. Cabarle
+99,Jym Paul A. Carandang,Henry N. Adorna
+99,John Matthew B. Villaflores,Francis George C. Cabarle
+99,John Matthew B. Villaflores,Henry N. Adorna
 99,Francis George C. Cabarle,Henry N. Adorna
 100,Charibeth Cheng,Louie Anson Ng
 101,Lawrence Miguel Antonio,Cecil Jose Delfinado
@@ -485,9 +472,9 @@ paperID,author1,author2
 107,Richelle Ann B. Juayong,Henry N. Adorna
 107,Nestine Hope S. Hernandez,Henry N. Adorna
 108,Jordan Aiko Deja,Rafael A. Cabredo
-109,Nathalie Rose Lim-Cheng,Danny Cheng
+109,Nathalie Rose Lim-Cheng,Danny C. Cheng
 109,Nathalie Rose Lim-Cheng,Roberto Legaspi
-109,Danny Cheng,Roberto Legaspi
+109,Danny C. Cheng,Roberto Legaspi
 110,Nathaniel Oco,Leif Romeritch Syliongka
 110,Nathaniel Oco,Rachel Edita Roxas
 110,Leif Romeritch Syliongka,Rachel Edita Roxas
@@ -564,23 +551,23 @@ paperID,author1,author2
 130,Aaron Spencer K. Ngo,Macario O. Cordel II
 130,Aaron Spencer K. Ngo,Roger Luis Uy
 130,Aaron Spencer K. Ngo,Prane Mariel B. Ong
-130,Aaron Spencer K. Ngo,Eric R. Punzalan
+130,Aaron Spencer K. Ngo,Eric Camilo R. Punzalan
 130,Aaron Spencer K. Ngo,Joel P. Ilao
 130,John Darill B. Desingco,Macario O. Cordel II
 130,John Darill B. Desingco,Roger Luis Uy
 130,John Darill B. Desingco,Prane Mariel B. Ong
-130,John Darill B. Desingco,Eric R. Punzalan
+130,John Darill B. Desingco,Eric Camilo R. Punzalan
 130,John Darill B. Desingco,Joel P. Ilao
 130,Macario O. Cordel II,Roger Luis Uy
 130,Macario O. Cordel II,Prane Mariel B. Ong
-130,Macario O. Cordel II,Eric R. Punzalan
+130,Macario O. Cordel II,Eric Camilo R. Punzalan
 130,Macario O. Cordel II,Joel P. Ilao
 130,Roger Luis Uy,Prane Mariel B. Ong
-130,Roger Luis Uy,Eric R. Punzalan
+130,Roger Luis Uy,Eric Camilo R. Punzalan
 130,Roger Luis Uy,Joel P. Ilao
-130,Prane Mariel B. Ong,Eric R. Punzalan
+130,Prane Mariel B. Ong,Eric Camilo R. Punzalan
 130,Prane Mariel B. Ong,Joel P. Ilao
-130,Eric R. Punzalan,Joel P. Ilao
+130,Eric Camilo R. Punzalan,Joel P. Ilao
 132,Rachel Anne G. Concepcion,Marrick C. Neri
 133,Tita R. Herradura,Merlin Teodosia C. Suarez
 134,Raymund E. Dilan,Proceso Fernandez Jr
@@ -621,9 +608,9 @@ paperID,author1,author2
 143,Annalyn Reganit,Juan Lorenzo Hagad
 143,Annalyn Reganit,Merlin Teodosia C. Suarez
 143,Juan Lorenzo Hagad,Merlin Teodosia C. Suarez
-144,Roger Luis Uy,Joel D. Ilao
+144,Roger Luis Uy,Joel P. Ilao
 144,Roger Luis Uy,Rafael A. Cabredo
-144,Joel D. Ilao,Rafael A. Cabredo
+144,Joel P. Ilao,Rafael A. Cabredo
 145,Courtney Ngo,Solomon See
 145,Courtney Ngo,Roberto Legaspi
 145,Solomon See,Roberto Legaspi
@@ -902,18 +889,18 @@ paperID,author1,author2
 195,Rowena C. Solamo,Paulo Noel G. Paje
 196,Jeffrey A. Aborot,Henry N. Adorna
 198,Richelle Ann B. Juayong,Henry N. Adorna
-198,Richelle Ann B. Juayong,Kelvin C. Buno
+198,Richelle Ann B. Juayong,Kelvin C. Buño
 198,Richelle Ann B. Juayong,Francis George C. Cabarle
-198,Henry N. Adorna,Kelvin C. Buno
+198,Henry N. Adorna,Kelvin C. Buño
 198,Henry N. Adorna,Francis George C. Cabarle
-198,Kelvin C. Buno,Francis George C. Cabarle
+198,Kelvin C. Buño,Francis George C. Cabarle
 200,Marjo-Anne B. Acob,Jean O. Loyola
 202,Sherlyne L. Francia,Denise Alyssa A. Francisco
-202,Sherlyne L. Francia,Richelle Ann B. Juayon
+202,Sherlyne L. Francia,Richelle Ann B. Juayong
 202,Sherlyne L. Francia,Henry N. Adorna
-202,Denise Alyssa A. Francisco,Richelle Ann B. Juayon
+202,Denise Alyssa A. Francisco,Richelle Ann B. Juayong
 202,Denise Alyssa A. Francisco,Henry N. Adorna
-202,Richelle Ann B. Juayon,Henry N. Adorna
+202,Richelle Ann B. Juayong,Henry N. Adorna
 203,Gabriel Alberto A. Sanchez,Proceso Fernandez Jr
 203,Gabriel Alberto A. Sanchez,John Paul C. Vergara
 203,Proceso Fernandez Jr,John Paul C. Vergara
