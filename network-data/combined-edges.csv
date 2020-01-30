@@ -89,21 +89,21 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 8,Dewey L. Sia,Michelle P. Banawan,Ateneo de Davao University,Ateneo de Davao University,local,2019
 8,Zuleika A. Yee,Michelle P. Banawan,Ateneo de Davao University,Ateneo de Davao University,local,2019
 9,Christian Terrence Esguerra,Conrado R. Ruiz Jr,De La Salle University,De La Salle University,local,2019
-10,Almie Carajay,Jorge Gil Angeles,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Almie Carajay,Rocky Marcelino,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Almie Carajay,Maria Art Antonette Clariño,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Almie Carajay,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Almie Carajay,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Jorge Gil Angeles,Rocky Marcelino,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Jorge Gil Angeles,Maria Art Antonette Clariño,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Jorge Gil Angeles,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Jorge Gil Angeles,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Rocky Marcelino,Maria Art Antonette Clariño,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Rocky Marcelino,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Rocky Marcelino,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Maria Art Antonette Clariño,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Maria Art Antonette Clariño,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
-10,Katrina Joy M. Abriol-Santos,Jaime Samaniego,University of the Philippines - Los Ba​ños,University of the Philippines - Los Ba​ños,local,2019
+10,Almie Carajay,Jorge Gil Angeles,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Almie Carajay,Rocky Marcelino,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Almie Carajay,Maria Art Antonette Clariño,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Almie Carajay,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Almie Carajay,Jaime Samaniego,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Jorge Gil Angeles,Rocky Marcelino,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Jorge Gil Angeles,Maria Art Antonette Clariño,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Jorge Gil Angeles,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Jorge Gil Angeles,Jaime Samaniego,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Rocky Marcelino,Maria Art Antonette Clariño,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Rocky Marcelino,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Rocky Marcelino,Jaime Samaniego,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Maria Art Antonette Clariño,Katrina Joy M. Abriol-Santos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Maria Art Antonette Clariño,Jaime Samaniego,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
+10,Katrina Joy M. Abriol-Santos,Jaime Samaniego,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2019
 11,Jayrah Bena E. Riñon,Renier G. Mendoza,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2019
 11,Jayrah Bena E. Riñon,Victoria May Paguio Mendoza,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2019
 11,Renier G. Mendoza,Victoria May Paguio Mendoza,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2019
@@ -1325,7 +1325,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 87,Val Randolf M. Madrid,Maricor N. Soriano,University of the Philippines - Los Baños,University of the Philippines - Diliman,local,2017
 87,Val Randolf M. Madrid,Eliezer A. Albacea,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2017
 87,Maricor N. Soriano,Eliezer A. Albacea,University of the Philippines - Diliman,University of the Philippines - Los Baños,local,2017
-88,Maria Art Antonette Clariño,Eliezer A. Albacea,University of the Philippines - Los Ba​ños,University of the Philippines - Los Baños,local,2017
+88,Maria Art Antonette Clariño,Eliezer A. Albacea,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2017
 89,Nicole Marie T. Del Rosario,Marrick C. Neri,University of the Philippines - Diliman,University of the Philippines - Diliman,local,2017
 90,Jacob Chan,Paolo Gonzalez,Ateneo de Manila University,Ateneo de Manila University,local,2016
 90,Jacob Chan,Ella Mara Melanie Perez,Ateneo de Manila University,Ateneo de Manila University,local,2016
@@ -1333,9 +1333,9 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 91,Glen Charles Lopez,Jun Rangie C. Obispo,Ateneo de Manila University,Ateneo de Manila University,local,2016
 91,Glen Charles Lopez,Mark Joseph Ronquillo,Ateneo de Manila University,Ateneo de Manila University,local,2016
 91,Jun Rangie C. Obispo,Mark Joseph Ronquillo,Ateneo de Manila University,Ateneo de Manila University,local,2016
-92,Lemuel Clark P. Velasco,Prinz Nikko C. Palahang,MSU – Iligan Institute of Technology,WebForest IT Consultancy,local,2016
-92,Lemuel Clark P. Velasco,Christelle R. Villezas,MSU – Iligan Institute of Technology,"Advanced World Solutions, Inc.",local,2016
-92,Lemuel Clark P. Velasco,Jerald Aldin A. Dagaang,MSU – Iligan Institute of Technology,Convergys Corporation,local,2016
+92,Lemuel Clark P. Velasco,Prinz Nikko C. Palahang,MSU - Iligan Institute of Technology,WebForest IT Consultancy,local,2016
+92,Lemuel Clark P. Velasco,Christelle R. Villezas,MSU - Iligan Institute of Technology,"Advanced World Solutions, Inc.",local,2016
+92,Lemuel Clark P. Velasco,Jerald Aldin A. Dagaang,MSU - Iligan Institute of Technology,Convergys Corporation,local,2016
 92,Prinz Nikko C. Palahang,Christelle R. Villezas,WebForest IT Consultancy,"Advanced World Solutions, Inc.",local,2016
 92,Prinz Nikko C. Palahang,Jerald Aldin A. Dagaang,WebForest IT Consultancy,Convergys Corporation,local,2016
 92,Christelle R. Villezas,Jerald Aldin A. Dagaang,"Advanced World Solutions, Inc.",Convergys Corporation,local,2016
@@ -2095,11 +2095,11 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 186,Adrian Martin S. Sy,Nathaniel Oco,National University,National University,local,2016
 187,Matthew Phillip Go,Allan Borra,De La Salle University,De La Salle University,local,2016
 188,Michael Angeles,Nathaniel Laxina,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2016
-188,Michael Angeles,Maria Art Antonette Clariño,University of the Philippines - Los Baños,University of the Philippines - Los Ba​ños,local,2016
+188,Michael Angeles,Maria Art Antonette Clariño,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2016
 188,Michael Angeles,Rizza Mercado,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2016
-188,Nathaniel Laxina,Maria Art Antonette Clariño,University of the Philippines - Los Baños,University of the Philippines - Los Ba​ños,local,2016
+188,Nathaniel Laxina,Maria Art Antonette Clariño,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2016
 188,Nathaniel Laxina,Rizza Mercado,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2016
-188,Maria Art Antonette Clariño,Rizza Mercado,University of the Philippines - Los Ba​ños,University of the Philippines - Los Baños,local,2016
+188,Maria Art Antonette Clariño,Rizza Mercado,University of the Philippines - Los Baños,University of the Philippines - Los Baños,local,2016
 189,Manolito Octaviano Jr.,Nathaniel Oco,National University,National University,local,2016
 189,Manolito Octaviano Jr.,Allan Borra,National University,De La Salle University,local,2016
 189,Nathaniel Oco,Allan Borra,National University,De La Salle University,local,2016
@@ -2746,7 +2746,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85046088950,Alexis M. Fillone,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85046037389,Alexander C. Abad,Elmer P. Dadios,De La Salle University,De La Salle University,international,2018
 2-s2.0-85034570071,Michael Angelo B. Promentilla,Raymond R. Tan,De La Salle University,De La Salle University,international,2018
-2-s2.0-85021751293,Lizbeth A. Mariano,Aura C. Matias,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2018
+2-s2.0-85021751293,Lizbeth A. Mariano,Aura C. Matias,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2018
 2-s2.0-85022346604,Josiel Catherine V. Almeda,Majella Cayley J. Domingo,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85022346604,Josiel Catherine V. Almeda,Alyannah Bianca L. Saringan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85022346604,Majella Cayley J. Domingo,Alyannah Bianca L. Saringan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
@@ -2904,7 +2904,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85045224233,Jeremy Christian B. Reccion,Carl Michael O. Sy,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045224233,Jeremy Christian B. Reccion,Jay Robert B. Del Rosario,De La Salle University,De La Salle University,international,2018
 2-s2.0-85045224233,Carl Michael O. Sy,Jay Robert B. Del Rosario,De La Salle University,De La Salle University,international,2018
-2-s2.0-85044236529,Rowena B. Carpio,Rizalinda L. De Leon,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2018
+2-s2.0-85044236529,Rowena B. Carpio,Rizalinda L. De Leon,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2018
 2-s2.0-85047439539,Cherrie May Olaya,Wilson O. Garcia,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85047439539,Cherrie May Olaya,Nathaniel P. Hermosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
 2-s2.0-85047439539,Wilson O. Garcia,Nathaniel P. Hermosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2018
@@ -3419,9 +3419,9 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85040922650,Aira Patrice R. Ong,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85040922650,Paul Dominick E. Baniqued,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85040953484,Renann G. Baldovino,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
-2-s2.0-85040863032,Davood Pour Yousefian Barfeh,Eliezer A. Albacea,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
-2-s2.0-85040863032,Davood Pour Yousefian Barfeh,Editha C. Jose,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
-2-s2.0-85040863032,Eliezer A. Albacea,Editha C. Jose,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
+2-s2.0-85040863032,Davood Pour Yousefian Barfeh,Eliezer A. Albacea,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
+2-s2.0-85040863032,Davood Pour Yousefian Barfeh,Editha C. Jose,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
+2-s2.0-85040863032,Eliezer A. Albacea,Editha C. Jose,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
 2-s2.0-85039984564,Renann G. Baldovino,Elmer P. Dadios,De La Salle University,De La Salle University,international,2017
 2-s2.0-85039948910,Aaron Christian P. Uy,Rhen Anjerome R. Bedruz,De La Salle University,De La Salle University,international,2017
 2-s2.0-85039948910,Aaron Christian P. Uy,Ana Riza F. Quiros,De La Salle University,De La Salle University,international,2017
@@ -3635,12 +3635,12 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85019124227,Red M. Castilla,Edgar A. Vallar,De La Salle University,De La Salle University,international,2017
 2-s2.0-85019124227,Red M. Castilla,Maria Cecilia D. Galvez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85019124227,Edgar A. Vallar,Maria Cecilia D. Galvez,De La Salle University,De La Salle University,international,2017
-2-s2.0-85011116086,Alexandra B. Santos-Putungan,Hernanie T. Salazar,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2017
-2-s2.0-85011116086,Alexandra B. Santos-Putungan,Eloise P. Anguluan,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2017
-2-s2.0-85011116086,Alexandra B. Santos-Putungan,Elmer Surat Estacio,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2017
-2-s2.0-85011116086,Alexandra B. Santos-Putungan,Armando Somintac,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2017
-2-s2.0-85011116086,Alexandra B. Santos-Putungan,Arnel A. Salvador,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2017
-2-s2.0-85011116086,Alexandra B. Santos-Putungan,Roland V. Sarmago,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2017
+2-s2.0-85011116086,Alexandra B. Santos-Putungan,Hernanie T. Salazar,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2017
+2-s2.0-85011116086,Alexandra B. Santos-Putungan,Eloise P. Anguluan,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2017
+2-s2.0-85011116086,Alexandra B. Santos-Putungan,Elmer Surat Estacio,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2017
+2-s2.0-85011116086,Alexandra B. Santos-Putungan,Armando Somintac,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2017
+2-s2.0-85011116086,Alexandra B. Santos-Putungan,Arnel A. Salvador,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2017
+2-s2.0-85011116086,Alexandra B. Santos-Putungan,Roland V. Sarmago,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2017
 2-s2.0-85011116086,Hernanie T. Salazar,Eloise P. Anguluan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85011116086,Hernanie T. Salazar,Elmer Surat Estacio,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85011116086,Hernanie T. Salazar,Armando Somintac,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
@@ -4147,7 +4147,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85032881155,B. MacAspac,P. Roxas,De La Salle University,De La Salle University,international,2017
 2-s2.0-85032881155,B. MacAspac,K. Ybanez,De La Salle University,De La Salle University,international,2017
 2-s2.0-85032881155,P. Roxas,K. Ybanez,De La Salle University,De La Salle University,international,2017
-2-s2.0-85028554638,Herbert S. Palines,Romar B. Dela Cruz,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2017
+2-s2.0-85028554638,Herbert S. Palines,Romar B. Dela Cruz,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2017
 2-s2.0-84986308284,Maria Josefina Fider,Ma Andrea Naguit,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-84986308284,Maria Josefina Fider,Mary Jef Rose Orata,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-84986308284,Maria Josefina Fider,Benette P. Custodio,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
@@ -4252,12 +4252,12 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85042183384,Manuel C. Ramos,Nicolette Ann A. Arriola,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85041207070,Seyed Hamed H. Sohi,Gerald Jo C. Denoga,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
 2-s2.0-85041202327,Jake Avila,Bituin Cabarrubias,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
-2-s2.0-85047491481,Ritche U. Nuevo,Ronaldo B. Saludes,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
-2-s2.0-85047491481,Ritche U. Nuevo,Moises A. Dorado,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
-2-s2.0-85047491481,Ritche U. Nuevo,Nathaniel C. Bantayan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
-2-s2.0-85047491481,Ronaldo B. Saludes,Moises A. Dorado,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
-2-s2.0-85047491481,Ronaldo B. Saludes,Nathaniel C. Bantayan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
-2-s2.0-85047491481,Moises A. Dorado,Nathaniel C. Bantayan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2017
+2-s2.0-85047491481,Ritche U. Nuevo,Ronaldo B. Saludes,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
+2-s2.0-85047491481,Ritche U. Nuevo,Moises A. Dorado,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
+2-s2.0-85047491481,Ritche U. Nuevo,Nathaniel C. Bantayan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
+2-s2.0-85047491481,Ronaldo B. Saludes,Moises A. Dorado,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
+2-s2.0-85047491481,Ronaldo B. Saludes,Nathaniel C. Bantayan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
+2-s2.0-85047491481,Moises A. Dorado,Nathaniel C. Bantayan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2017
 2-s2.0-85032978547,John William F. Orillo,Coleen Dizon,De La Salle University,De La Salle University,international,2017
 2-s2.0-85043454712,Donna Lyn Gloriane Labangon,May Laureno Cajes,De La Salle University,De La Salle University,international,2017
 2-s2.0-85047395210,Kristina Ticman,Ivy Elaine A. Cadalzo,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2017
@@ -4360,12 +4360,12 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85013149228,Elaine C. Iturralde,Jaime D.L. Caro,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85013149228,Mary Agnes B Jardeleza,Jaime D.L. Caro,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85014097754,Neil Irwin Bernardo,Franz A. De Leon,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-85016995749,Consorcia E. Reaño,Felino P. Lansigan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85016995749,Consorcia E. Reaño,Rolando G. Panopio,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85016995749,Consorcia E. Reaño,Nathaniel C. Bantayan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85016995749,Felino P. Lansigan,Rolando G. Panopio,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85016995749,Felino P. Lansigan,Nathaniel C. Bantayan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85016995749,Rolando G. Panopio,Nathaniel C. Bantayan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
+2-s2.0-85016995749,Consorcia E. Reaño,Felino P. Lansigan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85016995749,Consorcia E. Reaño,Rolando G. Panopio,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85016995749,Consorcia E. Reaño,Nathaniel C. Bantayan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85016995749,Felino P. Lansigan,Rolando G. Panopio,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85016995749,Felino P. Lansigan,Nathaniel C. Bantayan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85016995749,Rolando G. Panopio,Nathaniel C. Bantayan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
 2-s2.0-84978105963,Francis George C. Cabarle,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85003583766,Bess G. Singidas,Roland V. Sarmago,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006337240,Argel A. Bandala,Gerard Ely U. Faelden,De La Salle University,De La Salle University,international,2016
@@ -4390,7 +4390,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84994047167,Alexis Richard C. Claridades,Jara Kaye S. Villanueva,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84994047167,Alexis Richard C. Claridades,Edgardo G. Macatulad,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84994047167,Jara Kaye S. Villanueva,Edgardo G. Macatulad,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-84988813605,Caroline Natalie M Peralta,Jaderick P. Pabico,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
+2-s2.0-84988813605,Caroline Natalie M Peralta,Jaderick P. Pabico,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
 2-s2.0-84989159347,Renann G. Baldovino,Gregg R. Garcia,De La Salle University,De La Salle University,international,2016
 2-s2.0-84992059403,Carlo Migel Bautista,Clifford Austin Dy,De La Salle University,De La Salle University,international,2016
 2-s2.0-84992059403,Carlo Migel Bautista,Miguel Iñigo Mañalac,De La Salle University,De La Salle University,international,2016
@@ -5168,52 +5168,52 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85018435825,Daniel Marc G. Dela Torre,Ariel C. Blanco,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85018435825,Nerissa B. Gatdula,Ariel C. Blanco,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85018445984,Rowane May A. Fesalbon,Alexis Richard C. Claridades,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-85018402907,Precious R. Zara,Donald A. Luna,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Precious R. Zara,Davies Ocampo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Precious R. Zara,Sarena Grace Quiñones,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Precious R. Zara,Charmina Sejalbo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Precious R. Zara,Efren Rivera,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Precious R. Zara,Damasa B. Magcale-Macandog,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Donald A. Luna,Davies Ocampo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Donald A. Luna,Sarena Grace Quiñones,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Donald A. Luna,Charmina Sejalbo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Donald A. Luna,Efren Rivera,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Donald A. Luna,Damasa B. Magcale-Macandog,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Davies Ocampo,Sarena Grace Quiñones,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Davies Ocampo,Charmina Sejalbo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Davies Ocampo,Efren Rivera,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Davies Ocampo,Damasa B. Magcale-Macandog,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Sarena Grace Quiñones,Charmina Sejalbo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Sarena Grace Quiñones,Efren Rivera,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Sarena Grace Quiñones,Damasa B. Magcale-Macandog,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Charmina Sejalbo,Efren Rivera,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Charmina Sejalbo,Damasa B. Magcale-Macandog,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018402907,Efren Rivera,Damasa B. Magcale-Macandog,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Maebelle Aralar,Lizbeth A. Mariano,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Maebelle Aralar,Diana Marie De Silva,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Maebelle Aralar,Marc Immanuel G. Isip,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Maebelle Aralar,Clarissa M. Pesigan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Lizbeth A. Mariano,Diana Marie De Silva,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Lizbeth A. Mariano,Marc Immanuel G. Isip,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Lizbeth A. Mariano,Clarissa M. Pesigan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Diana Marie De Silva,Marc Immanuel G. Isip,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Diana Marie De Silva,Clarissa M. Pesigan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-84992692376,Marc Immanuel G. Isip,Clarissa M. Pesigan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Ivan Marc H. Escamos,Allen Roy C. Roberto,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Ivan Marc H. Escamos,Joseph Anthony C. Hermocilla,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Ivan Marc H. Escamos,Miyah D. Queliste,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Ivan Marc H. Escamos,Edwin R. Abucay,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Ivan Marc H. Escamos,Gillian Katherine L. Inciong,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Allen Roy C. Roberto,Joseph Anthony C. Hermocilla,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Allen Roy C. Roberto,Miyah D. Queliste,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Allen Roy C. Roberto,Edwin R. Abucay,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Allen Roy C. Roberto,Gillian Katherine L. Inciong,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Joseph Anthony C. Hermocilla,Miyah D. Queliste,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Joseph Anthony C. Hermocilla,Edwin R. Abucay,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Joseph Anthony C. Hermocilla,Gillian Katherine L. Inciong,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Miyah D. Queliste,Edwin R. Abucay,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Miyah D. Queliste,Gillian Katherine L. Inciong,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
-2-s2.0-85018940258,Edwin R. Abucay,Gillian Katherine L. Inciong,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2016
+2-s2.0-85018402907,Precious R. Zara,Donald A. Luna,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Precious R. Zara,Davies Ocampo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Precious R. Zara,Sarena Grace Quiñones,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Precious R. Zara,Charmina Sejalbo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Precious R. Zara,Efren Rivera,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Precious R. Zara,Damasa B. Magcale-Macandog,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Donald A. Luna,Davies Ocampo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Donald A. Luna,Sarena Grace Quiñones,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Donald A. Luna,Charmina Sejalbo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Donald A. Luna,Efren Rivera,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Donald A. Luna,Damasa B. Magcale-Macandog,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Davies Ocampo,Sarena Grace Quiñones,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Davies Ocampo,Charmina Sejalbo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Davies Ocampo,Efren Rivera,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Davies Ocampo,Damasa B. Magcale-Macandog,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Sarena Grace Quiñones,Charmina Sejalbo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Sarena Grace Quiñones,Efren Rivera,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Sarena Grace Quiñones,Damasa B. Magcale-Macandog,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Charmina Sejalbo,Efren Rivera,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Charmina Sejalbo,Damasa B. Magcale-Macandog,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018402907,Efren Rivera,Damasa B. Magcale-Macandog,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Maebelle Aralar,Lizbeth A. Mariano,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Maebelle Aralar,Diana Marie De Silva,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Maebelle Aralar,Marc Immanuel G. Isip,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Maebelle Aralar,Clarissa M. Pesigan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Lizbeth A. Mariano,Diana Marie De Silva,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Lizbeth A. Mariano,Marc Immanuel G. Isip,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Lizbeth A. Mariano,Clarissa M. Pesigan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Diana Marie De Silva,Marc Immanuel G. Isip,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Diana Marie De Silva,Clarissa M. Pesigan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-84992692376,Marc Immanuel G. Isip,Clarissa M. Pesigan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Ivan Marc H. Escamos,Allen Roy C. Roberto,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Ivan Marc H. Escamos,Joseph Anthony C. Hermocilla,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Ivan Marc H. Escamos,Miyah D. Queliste,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Ivan Marc H. Escamos,Edwin R. Abucay,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Ivan Marc H. Escamos,Gillian Katherine L. Inciong,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Allen Roy C. Roberto,Joseph Anthony C. Hermocilla,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Allen Roy C. Roberto,Miyah D. Queliste,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Allen Roy C. Roberto,Edwin R. Abucay,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Allen Roy C. Roberto,Gillian Katherine L. Inciong,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Joseph Anthony C. Hermocilla,Miyah D. Queliste,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Joseph Anthony C. Hermocilla,Edwin R. Abucay,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Joseph Anthony C. Hermocilla,Gillian Katherine L. Inciong,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Miyah D. Queliste,Edwin R. Abucay,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Miyah D. Queliste,Gillian Katherine L. Inciong,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
+2-s2.0-85018940258,Edwin R. Abucay,Gillian Katherine L. Inciong,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2016
 2-s2.0-85015938808,Nicco Nocon,Allan Borra,De La Salle University,De La Salle University,international,2016
 2-s2.0-85009929175,Allan Yambot,Leo Casano,De La Salle University,De La Salle University,international,2016
 2-s2.0-85009929175,Allan Yambot,Ryan Mina,De La Salle University,De La Salle University,international,2016
@@ -5341,26 +5341,26 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-85018373121,Redmund G. Nacario,Gerry Bagtasa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85018373121,Gay Jane P. Perez,Gerry Bagtasa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Fe Andrea M. Tandoc,Enrico Camero Paringit,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-85006840016,Fe Andrea M. Tandoc,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Los Banos,international,2016
+2-s2.0-85006840016,Fe Andrea M. Tandoc,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Los Baños,international,2016
 2-s2.0-85006840016,Fe Andrea M. Tandoc,Reginald Jay L. Argamosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Fe Andrea M. Tandoc,Regine Anne G. Faelga,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Fe Andrea M. Tandoc,Carlyn Ann G. Ibañez,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Fe Andrea M. Tandoc,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Fe Andrea M. Tandoc,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Fe Andrea M. Tandoc,Matthew V. Malabanan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-85006840016,Enrico Camero Paringit,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Los Banos,international,2016
+2-s2.0-85006840016,Enrico Camero Paringit,Nathaniel C. Bantayan,University of the Philippines - Diliman,University of the Philippines - Los Baños,international,2016
 2-s2.0-85006840016,Enrico Camero Paringit,Reginald Jay L. Argamosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Enrico Camero Paringit,Regine Anne G. Faelga,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Enrico Camero Paringit,Carlyn Ann G. Ibañez,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Enrico Camero Paringit,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Enrico Camero Paringit,Gio P. Zaragosa,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Enrico Camero Paringit,Matthew V. Malabanan,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-85006840016,Nathaniel C. Bantayan,Reginald Jay L. Argamosa,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2016
-2-s2.0-85006840016,Nathaniel C. Bantayan,Regine Anne G. Faelga,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2016
-2-s2.0-85006840016,Nathaniel C. Bantayan,Carlyn Ann G. Ibañez,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2016
-2-s2.0-85006840016,Nathaniel C. Bantayan,Mark Anthony V. Posilero,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2016
-2-s2.0-85006840016,Nathaniel C. Bantayan,Gio P. Zaragosa,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2016
-2-s2.0-85006840016,Nathaniel C. Bantayan,Matthew V. Malabanan,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2016
+2-s2.0-85006840016,Nathaniel C. Bantayan,Reginald Jay L. Argamosa,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2016
+2-s2.0-85006840016,Nathaniel C. Bantayan,Regine Anne G. Faelga,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2016
+2-s2.0-85006840016,Nathaniel C. Bantayan,Carlyn Ann G. Ibañez,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2016
+2-s2.0-85006840016,Nathaniel C. Bantayan,Mark Anthony V. Posilero,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2016
+2-s2.0-85006840016,Nathaniel C. Bantayan,Gio P. Zaragosa,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2016
+2-s2.0-85006840016,Nathaniel C. Bantayan,Matthew V. Malabanan,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Reginald Jay L. Argamosa,Regine Anne G. Faelga,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Reginald Jay L. Argamosa,Carlyn Ann G. Ibañez,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-85006840016,Reginald Jay L. Argamosa,Mark Anthony V. Posilero,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
@@ -5497,17 +5497,17 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84979640353,Ariel C. Blanco,Anjillyn Mae C. Perez,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84979640353,Ariel C. Blanco,Ma Rosario Concepcion O. Ang,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84979640353,Ariel C. Blanco,Enrico Camero Paringit,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-84979640353,Ariel C. Blanco,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Banos,international,2016
+2-s2.0-84979640353,Ariel C. Blanco,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Baños,international,2016
 2-s2.0-84979640353,Ayin M. Tamondong,Anjillyn Mae C. Perez,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84979640353,Ayin M. Tamondong,Ma Rosario Concepcion O. Ang,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84979640353,Ayin M. Tamondong,Enrico Camero Paringit,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-84979640353,Ayin M. Tamondong,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Banos,international,2016
+2-s2.0-84979640353,Ayin M. Tamondong,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Baños,international,2016
 2-s2.0-84979640353,Anjillyn Mae C. Perez,Ma Rosario Concepcion O. Ang,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
 2-s2.0-84979640353,Anjillyn Mae C. Perez,Enrico Camero Paringit,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-84979640353,Anjillyn Mae C. Perez,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Banos,international,2016
+2-s2.0-84979640353,Anjillyn Mae C. Perez,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Baños,international,2016
 2-s2.0-84979640353,Ma Rosario Concepcion O. Ang,Enrico Camero Paringit,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2016
-2-s2.0-84979640353,Ma Rosario Concepcion O. Ang,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Banos,international,2016
-2-s2.0-84979640353,Enrico Camero Paringit,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Banos,international,2016
+2-s2.0-84979640353,Ma Rosario Concepcion O. Ang,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Baños,international,2016
+2-s2.0-84979640353,Enrico Camero Paringit,Damasa M. Macandog,University of the Philippines - Diliman,University of the Philippines - Los Baños,international,2016
 2-s2.0-84941876898,Francis George C. Cabarle,Henry N. Adorna,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84969261864,Maria Angela B. Faustino,Lorenzo P. Lopez,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84969261864,Maria Angela B. Faustino,Jessica Pauline C. Afalla,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
@@ -5538,7 +5538,7 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84969261864,Arnel A. Salvador,Elmer Surat Estacio,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84969261864,Armando Somintac,Elmer Surat Estacio,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84954416360,Alexander A. Hernandez,Sherwin E. Ona,De La Salle University,De La Salle University,international,2015
-2-s2.0-84946904240,Maria Kristina Galvez-Alinsunurin,Jason P. Alinsunurin,University of the Philippines - Los Banos,De La Salle University,international,2015
+2-s2.0-84946904240,Maria Kristina Galvez-Alinsunurin,Jason P. Alinsunurin,University of the Philippines - Los Baños,De La Salle University,international,2015
 2-s2.0-84968562113,Leif Romeritch Syliongka,Nathaniel Oco,De La Salle University,De La Salle University,international,2015
 2-s2.0-84968562113,Leif Romeritch Syliongka,Alron Jan Lam,De La Salle University,De La Salle University,international,2015
 2-s2.0-84968562113,Leif Romeritch Syliongka,Cheryll Ruth Reyes Soriano,De La Salle University,De La Salle University,international,2015
@@ -5562,58 +5562,58 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84968562113,Francisco A. Magno,Charibeth Cheng,De La Salle University,De La Salle University,international,2015
 2-s2.0-84925423361,Kathleen Gay Figueroa,Susan Pancho-Festin,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84964047115,Edgardo V. Gubatanga,Ma Rosario Concepcion O. Ang,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-84964005609,Kathleen T. Dela Torre,Edwin R. Abucay,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964005609,Kathleen T. Dela Torre,Maria Michaela A Gonzales,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964005609,Kathleen T. Dela Torre,John Alvin B Reyes,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964005609,Edwin R. Abucay,Maria Michaela A Gonzales,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964005609,Edwin R. Abucay,John Alvin B Reyes,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964005609,Maria Michaela A Gonzales,John Alvin B Reyes,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964066752,Jaderick P. Pabico,Arnold R. Salvacion,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964066752,Jaderick P. Pabico,Damasa B. Magcale-Macandog,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964066752,Arnold R. Salvacion,Damasa B. Magcale-Macandog,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Ivan Marc H. Escamos,Allen Roy C. Roberto,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Ivan Marc H. Escamos,Edwin R. Abucay,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Ivan Marc H. Escamos,Gillian Katherine L. Inciong,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Ivan Marc H. Escamos,Miyah D. Queliste,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Ivan Marc H. Escamos,Joseph Anthony C. Hermocilla,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Allen Roy C. Roberto,Edwin R. Abucay,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Allen Roy C. Roberto,Gillian Katherine L. Inciong,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Allen Roy C. Roberto,Miyah D. Queliste,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Allen Roy C. Roberto,Joseph Anthony C. Hermocilla,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Edwin R. Abucay,Gillian Katherine L. Inciong,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Edwin R. Abucay,Miyah D. Queliste,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Edwin R. Abucay,Joseph Anthony C. Hermocilla,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Gillian Katherine L. Inciong,Miyah D. Queliste,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Gillian Katherine L. Inciong,Joseph Anthony C. Hermocilla,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964034435,Miyah D. Queliste,Joseph Anthony C. Hermocilla,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gillian Katherine L. Inciong,Edwin R. Abucay,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gillian Katherine L. Inciong,Leendel Jane D Punzalan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gillian Katherine L. Inciong,Sarah Joy A Acepcion,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gillian Katherine L. Inciong,Gemmalyn E. Magnaye,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gillian Katherine L. Inciong,Jayson L. Arizapa,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gillian Katherine L. Inciong,Kevin M. Manalo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gillian Katherine L. Inciong,Ivan Marc H. Escamos,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Edwin R. Abucay,Leendel Jane D Punzalan,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Edwin R. Abucay,Sarah Joy A Acepcion,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Edwin R. Abucay,Gemmalyn E. Magnaye,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Edwin R. Abucay,Jayson L. Arizapa,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Edwin R. Abucay,Kevin M. Manalo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Edwin R. Abucay,Ivan Marc H. Escamos,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Leendel Jane D Punzalan,Sarah Joy A Acepcion,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Leendel Jane D Punzalan,Gemmalyn E. Magnaye,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Leendel Jane D Punzalan,Jayson L. Arizapa,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Leendel Jane D Punzalan,Kevin M. Manalo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Leendel Jane D Punzalan,Ivan Marc H. Escamos,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Sarah Joy A Acepcion,Gemmalyn E. Magnaye,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Sarah Joy A Acepcion,Jayson L. Arizapa,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Sarah Joy A Acepcion,Kevin M. Manalo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Sarah Joy A Acepcion,Ivan Marc H. Escamos,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gemmalyn E. Magnaye,Jayson L. Arizapa,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gemmalyn E. Magnaye,Kevin M. Manalo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Gemmalyn E. Magnaye,Ivan Marc H. Escamos,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Jayson L. Arizapa,Kevin M. Manalo,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Jayson L. Arizapa,Ivan Marc H. Escamos,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
-2-s2.0-84964018606,Kevin M. Manalo,Ivan Marc H. Escamos,University of the Philippines - Los Banos,University of the Philippines - Los Banos,international,2015
+2-s2.0-84964005609,Kathleen T. Dela Torre,Edwin R. Abucay,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964005609,Kathleen T. Dela Torre,Maria Michaela A Gonzales,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964005609,Kathleen T. Dela Torre,John Alvin B Reyes,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964005609,Edwin R. Abucay,Maria Michaela A Gonzales,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964005609,Edwin R. Abucay,John Alvin B Reyes,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964005609,Maria Michaela A Gonzales,John Alvin B Reyes,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964066752,Jaderick P. Pabico,Arnold R. Salvacion,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964066752,Jaderick P. Pabico,Damasa B. Magcale-Macandog,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964066752,Arnold R. Salvacion,Damasa B. Magcale-Macandog,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Ivan Marc H. Escamos,Allen Roy C. Roberto,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Ivan Marc H. Escamos,Edwin R. Abucay,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Ivan Marc H. Escamos,Gillian Katherine L. Inciong,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Ivan Marc H. Escamos,Miyah D. Queliste,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Ivan Marc H. Escamos,Joseph Anthony C. Hermocilla,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Allen Roy C. Roberto,Edwin R. Abucay,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Allen Roy C. Roberto,Gillian Katherine L. Inciong,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Allen Roy C. Roberto,Miyah D. Queliste,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Allen Roy C. Roberto,Joseph Anthony C. Hermocilla,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Edwin R. Abucay,Gillian Katherine L. Inciong,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Edwin R. Abucay,Miyah D. Queliste,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Edwin R. Abucay,Joseph Anthony C. Hermocilla,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Gillian Katherine L. Inciong,Miyah D. Queliste,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Gillian Katherine L. Inciong,Joseph Anthony C. Hermocilla,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964034435,Miyah D. Queliste,Joseph Anthony C. Hermocilla,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gillian Katherine L. Inciong,Edwin R. Abucay,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gillian Katherine L. Inciong,Leendel Jane D Punzalan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gillian Katherine L. Inciong,Sarah Joy A Acepcion,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gillian Katherine L. Inciong,Gemmalyn E. Magnaye,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gillian Katherine L. Inciong,Jayson L. Arizapa,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gillian Katherine L. Inciong,Kevin M. Manalo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gillian Katherine L. Inciong,Ivan Marc H. Escamos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Edwin R. Abucay,Leendel Jane D Punzalan,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Edwin R. Abucay,Sarah Joy A Acepcion,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Edwin R. Abucay,Gemmalyn E. Magnaye,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Edwin R. Abucay,Jayson L. Arizapa,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Edwin R. Abucay,Kevin M. Manalo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Edwin R. Abucay,Ivan Marc H. Escamos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Leendel Jane D Punzalan,Sarah Joy A Acepcion,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Leendel Jane D Punzalan,Gemmalyn E. Magnaye,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Leendel Jane D Punzalan,Jayson L. Arizapa,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Leendel Jane D Punzalan,Kevin M. Manalo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Leendel Jane D Punzalan,Ivan Marc H. Escamos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Sarah Joy A Acepcion,Gemmalyn E. Magnaye,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Sarah Joy A Acepcion,Jayson L. Arizapa,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Sarah Joy A Acepcion,Kevin M. Manalo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Sarah Joy A Acepcion,Ivan Marc H. Escamos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gemmalyn E. Magnaye,Jayson L. Arizapa,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gemmalyn E. Magnaye,Kevin M. Manalo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Gemmalyn E. Magnaye,Ivan Marc H. Escamos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Jayson L. Arizapa,Kevin M. Manalo,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Jayson L. Arizapa,Ivan Marc H. Escamos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
+2-s2.0-84964018606,Kevin M. Manalo,Ivan Marc H. Escamos,University of the Philippines - Los Baños,University of the Philippines - Los Baños,international,2015
 2-s2.0-84971276118,Ria Rodette G De La Cruz,Trizia Roby Ann C Roque,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,Ria Rodette G De La Cruz,John Daryl G Rosas,De La Salle University,De La Salle University,international,2015
 2-s2.0-84971276118,Ria Rodette G De La Cruz,Charles Vincent M Vera Cruz,De La Salle University,De La Salle University,international,2015
@@ -5817,19 +5817,19 @@ paperID,author1,author2,affiliation1,affiliation2,location,year
 2-s2.0-84945958680,Mikaela Nazarene Ochoa,Christian Paulo L Padua,De La Salle University,De La Salle University,international,2015
 2-s2.0-84945958680,Mikaela Nazarene Ochoa,Riezl E. Payawal,De La Salle University,De La Salle University,international,2015
 2-s2.0-84945958680,Christian Paulo L Padua,Riezl E. Payawal,De La Salle University,De La Salle University,international,2015
-2-s2.0-84940027480,Alexandra B. Santos-Putungan,Elmer Surat Estacio,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2015
-2-s2.0-84940027480,Alexandra B. Santos-Putungan,Armando Somintac,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2015
-2-s2.0-84940027480,Alexandra B. Santos-Putungan,Arnel A. Salvador,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2015
-2-s2.0-84940027480,Alexandra B. Santos-Putungan,Roland V. Sarmago,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2015
+2-s2.0-84940027480,Alexandra B. Santos-Putungan,Elmer Surat Estacio,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2015
+2-s2.0-84940027480,Alexandra B. Santos-Putungan,Armando Somintac,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2015
+2-s2.0-84940027480,Alexandra B. Santos-Putungan,Arnel A. Salvador,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2015
+2-s2.0-84940027480,Alexandra B. Santos-Putungan,Roland V. Sarmago,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2015
 2-s2.0-84940027480,Elmer Surat Estacio,Armando Somintac,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84940027480,Elmer Surat Estacio,Arnel A. Salvador,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84940027480,Elmer Surat Estacio,Roland V. Sarmago,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84940027480,Armando Somintac,Arnel A. Salvador,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84940027480,Armando Somintac,Roland V. Sarmago,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84940027480,Arnel A. Salvador,Roland V. Sarmago,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-85029527218,Ernelea P. Cao,Virginia L. Barraquio,University of the Philippines - Diliman,University of the Philippines - Los Banos,international,2015
+2-s2.0-85029527218,Ernelea P. Cao,Virginia L. Barraquio,University of the Philippines - Diliman,University of the Philippines - Los Baños,international,2015
 2-s2.0-85029527218,Ernelea P. Cao,Wilfredo L. Barraquio,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
-2-s2.0-85029527218,Virginia L. Barraquio,Wilfredo L. Barraquio,University of the Philippines - Los Banos,University of the Philippines - Diliman,international,2015
+2-s2.0-85029527218,Virginia L. Barraquio,Wilfredo L. Barraquio,University of the Philippines - Los Baños,University of the Philippines - Diliman,international,2015
 2-s2.0-84992612749,Joey Kim T Soriano,Renann G. Baldovino,University of the Philippines - Diliman,De La Salle University,international,2015
 2-s2.0-84940484054,Philip A. Martinez,Joel Joseph S. Marciano,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
 2-s2.0-84948743151,Isabel Montes,Romel Parmis,University of the Philippines - Diliman,University of the Philippines - Diliman,international,2015
